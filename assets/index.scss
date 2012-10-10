@@ -1,19 +1,45 @@
-$width: 980px;
+$black: #000;
+$green: #0FD482;
 
 body {
+  font-family: 'Raleway', sans-serif;
   background: #fff;
-  color: #000;
+  color: $black;
   position: relative;
 }
 
+a {
+  color: $green;
+
+  &:visited {
+    color: #69B373;
+  }
+}
+
+$margin-small: 10px;
+$margin-big: 20px;
+
+@mixin flexible-left {
+  margin-left: $margin-big;
+
+  @media (max-width: 480px) {
+    margin-left: $margin-small;
+  }
+}
+
 .jumbotron {
+  padding: $margin-big 0;
+  margin-bottom: $margin-small;
+  background: $green;
+  display: block;
+
   h1 {
     background: url("/images/logo.png") no-repeat 0 5px;
-    margin: 30px 10px 30px 20px;
-    font-family: 'Raleway', sans-serif;
     font-size: 90px;
     height: 110px;
     padding-left: 120px;
+
+    @include flexible-left;
 
     @media (max-width: 767px) {
       font-size: 60px;
@@ -22,11 +48,82 @@ body {
     }
 
     @media (max-width: 480px) {
-      font-size: 48px;
-      height: 85px;
-      padding-top: 25px;
-
-      margin-left: 10px;
+      font-size: 40px;
+      height: 80px;
+      padding-top: 30px;
     }
+  }
+}
+
+.index {
+  @include flexible-left;
+
+  h2 {
+    font-weight: bold;
+    font-size: 40px;
+    margin: $margin-small 0;
+
+    @media (max-width: 480px) {
+      font-size: 30px;
+    }
+  }
+
+  .cities {
+    ul {
+      $city-size: 24px;
+      list-style: none;
+
+      li {
+        font-size: $city-size;
+        margin: 10px 0;
+
+        @media (max-width: 480px) {
+          font-size: $city-size / 1.2;
+        }
+
+        a {
+          display: block;
+          text-decoration: none;
+
+          small {
+            color: $black;
+            font-size: $city-size / 2;
+          }
+        }
+      }
+    }
+  }
+
+  .tenets {
+    $tenet-size: 16px;
+
+    p, li {
+      line-height: $tenet-size + 5px;
+    }
+
+    p {
+      font-size: $tenet-size - 2px;
+      margin: 15px 0;
+    }
+
+    li {
+      font-size: $tenet-size;
+      margin: 10px 0;
+
+      @media (max-width: 480px) {
+        font-size: $tenet-size / 1.2;
+      }
+    }
+  }
+}
+
+.footer {
+  @include flexible-left;
+  margin-top: 30px;
+  margin-bottom: 5px;
+
+  ul li {
+    display: inline-block;
+    margin: 3px 20px 3px 0;
   }
 }
