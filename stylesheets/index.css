@@ -15,27 +15,28 @@ a {
   background: #0fd482;
   display: block; }
   .jumbotron h1 {
-    font-size: 90px;
-    height: 110px;
     margin-left: 20px; }
     @media (max-width: 480px) {
       .jumbotron h1 {
         margin-left: 10px; } }
-    @media (max-width: 767px) {
-      .jumbotron h1 {
-        font-size: 60px;
-        height: 90px;
-        padding-top: 20px; } }
-    @media (max-width: 480px) {
-      .jumbotron h1 {
-        font-size: 40px;
-        height: 80px;
-        padding-top: 30px; } }
     .jumbotron h1 a {
+      display: block;
+      height: 110px;
       background: url("/images/logo.png") no-repeat 0 5px;
       padding-left: 120px;
       color: black;
-      text-decoration: none; }
+      text-decoration: none;
+      font-size: 90px; }
+      @media (max-width: 767px) {
+        .jumbotron h1 a {
+          font-size: 60px;
+          height: 90px;
+          padding-top: 20px; } }
+      @media (max-width: 480px) {
+        .jumbotron h1 a {
+          font-size: 40px;
+          height: 80px;
+          padding-top: 30px; } }
 
 .index {
   margin-left: 20px; }
