@@ -34,10 +34,8 @@ $margin-big: 20px;
   display: block;
 
   h1 {
-    background: url("/images/logo.png") no-repeat 0 5px;
     font-size: 90px;
     height: 110px;
-    padding-left: 120px;
 
     @include flexible-left;
 
@@ -51,6 +49,13 @@ $margin-big: 20px;
       font-size: 40px;
       height: 80px;
       padding-top: 30px;
+    }
+
+    a {
+      background: url("/images/logo.png") no-repeat 0 5px;
+      padding-left: 120px;
+      color: $black;
+      text-decoration: none;
     }
   }
 }
