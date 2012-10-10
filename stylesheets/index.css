@@ -1,4 +1,23 @@
 body {
-  min-width: 980px;
   background: #fff;
-  color: #000; }
+  color: #000;
+  position: relative; }
+
+.jumbotron h1 {
+  background: url("/images/logo.png") no-repeat 0 5px;
+  margin: 30px 10px 30px 20px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 90px;
+  height: 110px;
+  padding-left: 120px; }
+  @media (max-width: 767px) {
+    .jumbotron h1 {
+      font-size: 60px;
+      height: 90px;
+      padding-top: 20px; } }
+  @media (max-width: 480px) {
+    .jumbotron h1 {
+      font-size: 48px;
+      height: 85px;
+      padding-top: 25px;
+      margin-left: 10px; } }
