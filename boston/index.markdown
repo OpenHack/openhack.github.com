@@ -7,4 +7,4 @@ title: OpenHack - Boston
 
 ### Info
 
-Coming soon!
+Coming soon! Bug [@bcardarella](http://github.com/bcardarella) for more info.
