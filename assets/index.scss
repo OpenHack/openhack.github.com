@@ -99,24 +99,24 @@ $margin-big: 20px;
     }
   }
 
-  .tenets {
-    $tenet-size: 16px;
+  .main {
+    $para-size: 16px;
 
     p, li {
-      line-height: $tenet-size + 5px;
+      line-height: $para-size + 5px;
     }
 
     p {
-      font-size: $tenet-size - 2px;
+      font-size: $para-size - 2px;
       margin: 15px 0;
     }
 
     li {
-      font-size: $tenet-size;
+      font-size: $para-size;
       margin: 10px 0;
 
       @media (max-width: 480px) {
-        font-size: $tenet-size / 1.2;
+        font-size: $para-size / 1.2;
       }
     }
   }

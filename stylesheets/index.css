@@ -64,16 +64,16 @@ a {
         .index .cities ul li a small {
           color: black;
           font-size: 12px; }
-  .index .tenets p, .index .tenets li {
+  .index .main p, .index .main li {
     line-height: 21px; }
-  .index .tenets p {
+  .index .main p {
     font-size: 14px;
     margin: 15px 0; }
-  .index .tenets li {
+  .index .main li {
     font-size: 16px;
     margin: 10px 0; }
     @media (max-width: 480px) {
-      .index .tenets li {
+      .index .main li {
         font-size: 13.33333px; } }
 
 .footer {

@@ -19,7 +19,22 @@
     </div>
   </header>
 
-  {{ content }}
+  <div class="index container">
+    <div class="row">
+      <div class="cities span3">
+        <h2>Cities</h2>
+        <ul>
+          <li><a href="/buffalo">Buffalo <small>Est. Oct 2012</small></a></li>
+          <li><a href="/pittsburgh">Pittsburgh <small>TBA</small></a></li>
+          <li><a href="/boston">Boston <small>TBA</small></a></li>
+          <li><a href="/yours">Yours?</a></li>
+        </ul>
+      </div>
+      <div class="main span9">
+        {{ content }}
+      </div>
+    </div>
+  </div>
 
   <div class="footer container">
     <ul>
