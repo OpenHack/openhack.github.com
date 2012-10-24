@@ -1,9 +1,9 @@
 ---
 layout: default
-title: OpenHack - Windsor
+title: OpenHack - Windsor, ON
 ---
 
-## Windsor
+## Windsor, ON
 
 ![Photo of your meetup or city!](/windsor/cover_image.jpeg)
 
