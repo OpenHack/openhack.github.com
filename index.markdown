@@ -16,4 +16,6 @@ OpenHack works by hosting a meetup in your city that gets programmers of any exp
 * Someone has to host the meetup. That person is in charge of ordering food and starting off the intro.
 * Don't go too late. 9-10pm is good. Focus usually wanes by this point, for obvious reasons! Maybe if there's interest head to a bar for more discussion.
 
-Of course, every OpenHack is going to be different. These are simply guidelines, and they're meant to be [forked](https://github.com/openhack/openhack.github.com). We'd love to hear feedback and see how OpenHack works in other cities!
+These are simply guidelines for running an OpenHack, and they're meant to be [forked](https://github.com/openhack/openhack.github.com). Existing meetups/hack nights (mornings too!) **are encouraged** to fly under the OpenHack banner! Multiple meetups in a city based on time or location are welcome also.
+
+We'd love to hear feedback and see how OpenHack works in other cities! Just [open a issue](https://github.com/openhack/openhack.github.com/issues) on GitHub.
