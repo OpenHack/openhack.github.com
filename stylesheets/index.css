@@ -50,6 +50,10 @@ a {
     @media (max-width: 480px) {
       .index h2 {
         font-size: 30px; } }
+  .index h3 {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 10px 0; }
   .index .cities ul {
     list-style: none; }
     .index .cities ul li {
@@ -75,6 +79,11 @@ a {
     @media (max-width: 480px) {
       .index .main li {
         font-size: 13.33333px; } }
+  .index .main img {
+    border: 10px solid #0fd482;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px; }
 
 .footer {
   margin-left: 20px;

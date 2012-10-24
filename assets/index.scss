@@ -73,6 +73,12 @@ $margin-big: 20px;
     }
   }
 
+  h3 {
+    font-weight: bold;
+    font-size: 20px;
+    margin: $margin-small 0;
+  }
+
   .cities {
     ul {
       $city-size: 24px;
@@ -118,6 +124,14 @@ $margin-big: 20px;
       @media (max-width: 480px) {
         font-size: $para-size / 1.2;
       }
+    }
+
+    img {
+      $border: 10px;
+      border: $border solid #0FD482;
+      border-radius: $border;
+      -moz-border-radius: $border;
+      -webkit-border-radius: $border;
     }
   }
 }
