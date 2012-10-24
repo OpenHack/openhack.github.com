@@ -37,6 +37,11 @@ a {
           font-size: 40px;
           height: 80px;
           padding-top: 30px; } }
+      @media (max-width: 320px) {
+        .jumbotron h1 a {
+          font-size: 26px;
+          height: 70px;
+          padding-top: 40px; } }
 
 .index {
   margin-left: 20px; }
@@ -83,7 +88,8 @@ a {
     border: 10px solid #0fd482;
     border-radius: 10px;
     -moz-border-radius: 10px;
-    -webkit-border-radius: 10px; }
+    -webkit-border-radius: 10px;
+    max-width: 80%; }
 
 .footer {
   margin-left: 20px;
