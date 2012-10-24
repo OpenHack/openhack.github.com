@@ -7,7 +7,7 @@ title: OpenHack - Code together.
 
 OpenHack is a meetup with a simple purpose: Code together, on anything.
 
-OpenHack works by hosting a meetup in your city that gets programmers of any experience level together to code. Here's how an OpenHack night works:
+OpenHack works by hosting a meetup in your city that gets programmers of any experience level together to code. Here's how an OpenHack night meetup runs:
 
 * You can hack on anything! Any language, framework, public/open-source, personal, etc.
 * You don't have to have an idea to hack on! You're more than welcome to come just to pair with someone.
