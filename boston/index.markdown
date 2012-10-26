@@ -11,7 +11,7 @@ Please RSVP so we know how much food to get!
 
 ### Next meetups
 
-* [October 25, 2012](https://guestlistapp.com/events/132006)
+* [November 29, 2012](https://guestlistapp.com/events/132555)
 
 ### Past meetups
 
