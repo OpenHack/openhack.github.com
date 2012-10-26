@@ -49,6 +49,12 @@ Put some info about when and where your meetup is here.
 
 Put down how many people came, maybe some photos or other fun stuff down here!
     EOF
+
+    File.open("_config.yml", "a") do |file|
+      file.write <<-EOF
+  #{directory}: #{name}
+EOF
+    end
   end
 end
 
