@@ -2,14 +2,14 @@ auto: true
 server: true
 markdown: maruku
 cities:
-  atlanta: Atlanta, GA
-  baltimore: Baltimore, MD
-  birmingham: Birmingham, AL
-  boston: Boston, MA
-  buffalo: Buffalo, NY
-  fortwayne: Fort Wayne, IN
-  new_york: New York City, NY
-  pittsburgh: Pittsburgh, PA
-  providence: Providence, RI
-  toronto: Toronto, ON
-  windsor: Windsor, ON
+  - atlanta: Atlanta, GA
+  - baltimore: Baltimore, MD
+  - birmingham: Birmingham, AL
+  - boston: Boston, MA
+  - buffalo: Buffalo, NY
+  - fortwayne: Fort Wayne, IN
+  - new_york: New York City, NY
+  - pittsburgh: Pittsburgh, PA
+  - providence: Providence, RI
+  - toronto: Toronto, ON
+  - windsor: Windsor, ON
