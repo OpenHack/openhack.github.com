@@ -24,18 +24,9 @@
       <div class="cities span3">
         <h2>Cities</h2>
         <ul>
-          <li><a href="/buffalo">Buffalo, NY</a></li>
-          <li><a href="/pittsburgh">Pittsburgh, PA</a></li>
-          <li><a href="/boston">Boston, MA</a></li>
-          <li><a href="/new_york">New York City, NY</a></li>
-          <li><a href="/providence">Providence, RI</a></li>
-          <li><a href="/birmingham">Birmingham, AL</a></li>
-          <li><a href="/fortwayne">Fort Wayne, IN</a></li>
-          <li><a href="/toronto">Toronto, ON</a></li>
-          <li><a href="/baltimore">Baltimore, MD</a></li>
-          <li><a href="/windsor">Windsor, ON</a></li>
-          <li><a href="/atlanta">Atlanta, GA</a></li>
-          <li><a href="/chicago">Chicago, IL</a></li>
+          {% for city in site.cities %}
+            <li><a href="/{{ city.first.first }}">{{ city.first.last }}</a></li>
+          {% endfor %}
           <li><a href="/yours">Yours?</a></li>
         </ul>
       </div>
