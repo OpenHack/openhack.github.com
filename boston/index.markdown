@@ -15,4 +15,4 @@ Please RSVP so we know how much food to get!
 
 ### Past meetups
 
-* None yet
+* [October 25, 2012](http://reefpoints.dockyard.com/community/2012/10/26/openhack-boston.html)
