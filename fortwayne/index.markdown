@@ -22,7 +22,7 @@ you're thinking!
 
 ### Next meetup
 
-* [7 November 2012](http://openhackfw.eventbrite.com/)
+* [8 November 2012](http://openhackfw.eventbrite.com/)
 
 ### Past meetups
 
