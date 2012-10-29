@@ -22,6 +22,7 @@ task :city do
   end
 
   require 'fileutils'
+  require 'yaml'
 
   directory = name.downcase
   FileUtils.mkdir_p(directory)
@@ -49,6 +50,15 @@ Put some info about when and where your meetup is here.
 
 Put down how many people came, maybe some photos or other fun stuff down here!
     EOF
+
+    config = YAML.load_file("_config.yml")
+    cities = config["cities"]
+    cities << {directory => name}
+    config["cities"] = cities.map(&:to_a).sort.map { |city| Hash[city] }
+
+    File.open("_config.yml", "w") do |file|
+      file.write config.to_yaml
+    end
   end
 end
 

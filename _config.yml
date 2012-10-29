@@ -1,3 +1,19 @@
+---
 auto: true
 server: true
 markdown: maruku
+cities:
+- atlanta: Atlanta, GA
+- baltimore: Baltimore, MD
+- birmingham: Birmingham, AL
+- boston: Boston, MA
+- buffalo: Buffalo, NY
+- chicago: Chicago, IL
+- fortwayne: Fort Wayne, IN
+- green_bay: Green Bay, WI
+- jersey_city: Jersey City, NJ
+- new_york: New York City, NY
+- pittsburgh: Pittsburgh, PA
+- providence: Providence, RI
+- toronto: Toronto, ON
+- windsor: Windsor, ON
