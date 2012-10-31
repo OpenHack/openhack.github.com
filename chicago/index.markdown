@@ -13,13 +13,8 @@ to programmers of all skill levels and from any programming community.
 
 ### Next meetups
 
-* Check back soon - we're looking for a venue for our first meeting, if
-  you know of some place that can host 20-30 folks for an evening let us
-know.
-
-### Past meetups
-
-Haven't done one yet but we're working on it.
+[http://www.meetup.com/Chicago-Github-Open-Hack/] Check with our
+Meetup.com page
 
 ### Contact
 
