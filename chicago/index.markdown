@@ -13,8 +13,7 @@ to programmers of all skill levels and from any programming community.
 
 ### Next meetups
 
-[http://www.meetup.com/Chicago-Github-Open-Hack/](Check with our
-Meetup.com page)
+[Check out our meetup.com page for event details.](http://www.meetup.com/Chicago-Github-Open-Hack/)
 
 ### Contact
 
