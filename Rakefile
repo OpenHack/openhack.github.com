@@ -24,7 +24,9 @@ task :city do
   require 'fileutils'
   require 'yaml'
 
-  directory = name.downcase
+  # 'Banana City' => 'banana_city'
+  # 'Banana City, NY' => 'banana_city'
+  directory = name.split(', ')[0].downcase.gsub(/\s+/, '_')
   FileUtils.mkdir_p(directory)
   File.open(File.join(directory, "index.markdown"), "w") do |file|
     file.write <<-EOF
