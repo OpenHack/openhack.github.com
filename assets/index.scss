@@ -27,22 +27,14 @@ a {
 
 $margin-small: 10px;
 $margin-big: 20px;
-
-@mixin flexible-left {
-  margin-left: $margin-big;
-
-  @media (max-width: 480px) {
-    margin-left: $margin-small;
-  }
-}
+$margin-flex: 5%;
 
 .jumbotron {
-  padding: $margin-big 0;
+  padding: $margin-big $margin-flex;
   background: $green url("/images/green-gradient.png") repeat-x right bottom;
   display: block;
 
   h1 {
-    @include flexible-left;
 
     a {
       display: block;
@@ -73,17 +65,13 @@ $margin-big: 20px;
       }
     }
   }
-}
+} 
 
 .wrapper {
-	padding: $margin-small 0 $margin-big 0;
+	padding: $margin-small $margin-flex $margin-big $margin-flex;
 	border-top: solid 1px $white;
 	border-bottom: solid 1px #ddd;
 	background: $white url("/images/white-gradient.png") repeat-x left -10px;
-}
-
-.index {
-  @include flexible-left;
 	
   h2 {
     font-weight: bold;
@@ -115,18 +103,11 @@ $margin-big: 20px;
 			border-radius: 10px;
 			overflow: hidden;
 			background-color: $white;
-			margin-right: $margin-big;
-			@media (max-width: 480px) {
-		    margin-right: $margin-small;
-	    }
+			margin-bottom: $margin-big * 2;
 	
       li {
         font-size: $city-size;
         margin: 0;
-
-        @media (max-width: 480px) {
-          font-size: $city-size / 1.2;
-        }
 
         a {
           display: block;
@@ -197,8 +178,7 @@ $margin-big: 20px;
 }
 
 .footer {
-  @include flexible-left;
-	margin: 5px $margin-big;
+	margin: 5px $margin-flex;
 
   ul li {
     display: inline-block;

@@ -23,25 +23,23 @@
   </header>
 
   <div class="wrapper">
-    <div class="index container">
-      <div class="row">
-        <div class="cities span3">
-          <h2>Cities</h2>
-          <ul>
-            {% for city in site.cities %}
-              <li id="{{city.first.first}}"><a href="/{{ city.first.first }}">{{ city.first.last }}</a></li>
-            {% endfor %}
-            <li><a href="/yours">Yours?</a></li>
-          </ul>
-        </div>
-        <div class="main span9">
-          {{ content }}
-        </div>
+    <div class="row-fluid">
+      <div class="cities span3">
+        <h2>Cities</h2>
+        <ul>
+          {% for city in site.cities %}
+            <li id="{{city.first.first}}"><a href="/{{ city.first.first }}">{{ city.first.last }}</a></li>
+          {% endfor %}
+          <li><a href="/yours">Yours?</a></li>
+        </ul>
+      </div>
+      <div class="main span8 offset1">
+        {{ content }}
       </div>
     </div>
   </div>
  
-  <div class="footer container">
+  <div class="footer">
     <ul>
       <li>Made in Buffalo, NY.</li>
       <li>Inspired by many <a href="http://bostonrb.org">BostonRB</a> hack nights.</li>
