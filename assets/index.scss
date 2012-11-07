@@ -8,10 +8,11 @@ body {
   background: #fff;
   color: $black;
   position: relative;
+  background: #eee;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Raleway', Arial, sans-serif;
   color: $dark-green;
 }
 
@@ -74,8 +75,9 @@ $margin-big: 20px;
 }
 
 .wrapper {
-	padding-top: $margin-small;
+	padding: $margin-small 0 $margin-big 0;
 	border-top: solid 1px $white;
+	border-bottom: solid 1px #ddd;
 	background: $white url("/images/white-gradient.png") repeat-x left -10px;
 }
 
@@ -101,6 +103,8 @@ $margin-big: 20px;
   .cities {
 		h2 {
 			margin-left: $margin-small;
+			font-weight: normal;
+			color: #777;
 		}
     ul {
       $city-size: 18px;
@@ -175,11 +179,11 @@ $margin-big: 20px;
 
 .footer {
   @include flexible-left;
-  margin-top: 30px;
-  margin-bottom: 5px;
+	margin: 5px $margin-big;
 
   ul li {
     display: inline-block;
     margin: 3px 20px 3px 0;
+		color: $dark-green;
   }
 }
