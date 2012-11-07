@@ -111,6 +111,12 @@ a {
         font-size: 13.33333px; } }
   .wrapper .main img {
     max-width: 80%; }
+  .wrapper .main code {
+    border: 1px solid #aaa;
+    background: #eee;
+    padding: 1px 3px;
+    border-radius: 4px;
+    white-space: nowrap; }
 
 .footer {
   margin: 5px 5%; }
