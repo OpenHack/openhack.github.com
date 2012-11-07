@@ -76,7 +76,7 @@ $margin-big: 20px;
 .wrapper {
 	padding-top: $margin-small;
 	border-top: solid 1px $white;
-	background: $white url("/images/white-gradient.png") repeat-x left top;
+	background: $white url("/images/white-gradient.png") repeat-x left -10px;
 }
 
 .index {
@@ -99,13 +99,16 @@ $margin-big: 20px;
   }
 
   .cities {
+		h2 {
+			margin-left: $margin-small;
+		}
     ul {
-      $city-size: 24px;
+      $city-size: 18px;
       list-style: none;
 
       li {
         font-size: $city-size;
-        margin: 10px 0;
+        margin: 0;
 
         @media (max-width: 480px) {
           font-size: $city-size / 1.2;
@@ -113,7 +116,19 @@ $margin-big: 20px;
 
         a {
           display: block;
+					padding: 5px $margin-small;
           text-decoration: none;
+					border-top: 1px solid #e3e3e3;
+					
+					&:hover {
+						background: $green url("/images/green-gradient.png") repeat-x left bottom;
+						color: $white;
+						border-top-color: $green;
+					}
+					
+					&:active {
+						background: $green url("/images/green-gradient.png") repeat-x left top;						
+					}
 
           small {
             color: $black;
