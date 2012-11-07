@@ -29,7 +29,7 @@
           <h2>Cities</h2>
           <ul>
             {% for city in site.cities %}
-              <li><a href="/{{ city.first.first }}">{{ city.first.last }}</a></li>
+              <li id="{{city.first.first}}"><a href="/{{ city.first.first }}">{{ city.first.last }}</a></li>
             {% endfor %}
             <li><a href="/yours">Yours?</a></li>
           </ul>
