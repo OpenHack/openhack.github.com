@@ -123,15 +123,26 @@ $margin-big: 20px;
 					padding: 5px $margin-small;
           text-decoration: none;
 					border-top: 1px solid #e3e3e3;
+					background: transparent url("/images/city-arrow.png") no-repeat right center;
 					
 					&:hover {
-						background: $green url("/images/green-gradient.png") repeat-x left bottom;
+						background: {
+							color: $green;
+							image:  url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
+							repeat: no-repeat, repeat-x;
+							position: right center, left bottom;
+						}
 						color: $white;
 						border-top-color: $green;
 					}
 					
 					&:active {
-						background: $green url("/images/green-gradient.png") repeat-x left top;						
+						background: {
+							color: $green;
+							image:  url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
+							repeat: no-repeat, repeat-x;
+							position: right center, left top;
+						}
 					}
 
           small {
