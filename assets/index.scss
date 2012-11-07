@@ -165,13 +165,6 @@ $margin-big: 20px;
     }
 
     img {
-      $border: 10px;
-
-      border: $border solid #0FD482;
-      border-radius: $border;
-      -moz-border-radius: $border;
-      -webkit-border-radius: $border;
-
       max-width: 80%;
     }
   }
