@@ -147,18 +147,18 @@ $margin-big: 20px;
     $para-size: 16px;
 
     p, li {
-      line-height: $para-size + 5px;
+      font-size: $para-size;
+      line-height: $para-size + 8px;
     }
 
     p {
-      font-size: $para-size - 2px;
       margin: 15px 0;
     }
-
+		ul, ol {
+			padding-left: $margin-big;
+		}
     li {
-      font-size: $para-size;
-      margin: 10px 0;
-
+      margin: $margin-small 0;
       @media (max-width: 480px) {
         font-size: $para-size / 1.2;
       }
