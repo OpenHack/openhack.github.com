@@ -1,8 +1,14 @@
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: Helvetica, Arial, sans-serif;
   background: #fff;
-  color: black;
-  position: relative; }
+  color: #333333;
+  position: relative;
+  background: #eee;
+  padding: 0 !important; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', Arial, sans-serif;
+  color: #09784a; }
 
 a {
   color: #0fd482; }
@@ -11,8 +17,7 @@ a {
 
 .jumbotron {
   padding: 20px 0;
-  margin-bottom: 10px;
-  background: #0fd482;
+  background: #0fd482 url("/images/green-gradient.png") repeat-x right bottom;
   display: block; }
   .jumbotron h1 {
     margin-left: 20px; }
@@ -22,10 +27,11 @@ a {
     .jumbotron h1 a {
       display: block;
       height: 110px;
-      background: url("/images/logo.png") no-repeat 0 5px;
+      background: url("/images/logo-green.png") no-repeat 0 5px;
       padding-left: 120px;
-      color: black;
+      color: #93f0cb;
       text-decoration: none;
+      text-shadow: 0 -1px 0 white, 0 3px 4px #09784a;
       font-size: 90px; }
       @media (max-width: 767px) {
         .jumbotron h1 a {
@@ -43,6 +49,12 @@ a {
           height: 70px;
           padding-top: 40px; } }
 
+.wrapper {
+  padding: 10px 0 20px 0;
+  border-top: solid 1px white;
+  border-bottom: solid 1px #ddd;
+  background: white url("/images/white-gradient.png") repeat-x left -10px; }
+
 .index {
   margin-left: 20px; }
   @media (max-width: 480px) {
@@ -59,45 +71,69 @@ a {
     font-weight: bold;
     font-size: 20px;
     margin: 10px 0; }
+  .index .cities h2 {
+    margin-left: 10px;
+    font-weight: normal;
+    color: #777; }
   .index .cities ul {
-    list-style: none; }
+    list-style: none;
+    border: 1px solid #e3e3e3;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: white;
+    margin-right: 20px; }
+    @media (max-width: 480px) {
+      .index .cities ul {
+        margin-right: 10px; } }
     .index .cities ul li {
-      font-size: 24px;
-      margin: 10px 0; }
+      font-size: 18px;
+      margin: 0; }
       @media (max-width: 480px) {
         .index .cities ul li {
-          font-size: 20px; } }
+          font-size: 15px; } }
       .index .cities ul li a {
         display: block;
-        text-decoration: none; }
+        padding: 5px 25px 5px 10px;
+        text-decoration: none;
+        border-top: 1px solid #e3e3e3;
+        background: transparent url("/images/city-arrow.png") no-repeat right center; }
+        .index .cities ul li a:hover {
+          background-color: #0fd482;
+          background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
+          background-repeat: no-repeat, repeat-x;
+          background-position: right center, left bottom;
+          color: white;
+          border-top-color: #0fd482; }
+        .index .cities ul li a:active {
+          background-color: #0fd482;
+          background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
+          background-repeat: no-repeat, repeat-x;
+          background-position: right center, left top; }
         .index .cities ul li a small {
-          color: black;
-          font-size: 12px; }
+          color: #333333;
+          font-size: 9px; }
+      .index .cities ul li:first-child a {
+        border: none; }
   .index .main p, .index .main li {
-    line-height: 21px; }
-  .index .main p {
-    font-size: 14px;
-    margin: 15px 0; }
-  .index .main li {
     font-size: 16px;
+    line-height: 24px; }
+  .index .main p {
+    margin: 15px 0; }
+  .index .main ul, .index .main ol {
+    padding-left: 20px; }
+  .index .main li {
     margin: 10px 0; }
     @media (max-width: 480px) {
       .index .main li {
         font-size: 13.33333px; } }
-  .index .main img {
-    border: 10px solid #0fd482;
-    border-radius: 10px;
-    -moz-border-radius: 10px;
-    -webkit-border-radius: 10px;
-    max-width: 80%; }
 
 .footer {
   margin-left: 20px;
-  margin-top: 30px;
-  margin-bottom: 5px; }
+  margin: 5px 20px; }
   @media (max-width: 480px) {
     .footer {
       margin-left: 10px; } }
   .footer ul li {
     display: inline-block;
-    margin: 3px 20px 3px 0; }
+    margin: 3px 20px 3px 0;
+    color: #09784a; }
