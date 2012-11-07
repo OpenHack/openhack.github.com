@@ -1,5 +1,6 @@
 $black: #000;
 $green: #0FD482;
+$white: #fff;
 
 body {
   font-family: 'Raleway', sans-serif;
@@ -29,8 +30,7 @@ $margin-big: 20px;
 
 .jumbotron {
   padding: $margin-big 0;
-  margin-bottom: $margin-small;
-  background: $green;
+  background: $green url("/images/green-gradient.png") repeat-x left bottom;
   display: block;
 
   h1 {
@@ -39,7 +39,7 @@ $margin-big: 20px;
     a {
       display: block;
       height: 110px;
-      background: url("/images/logo.png") no-repeat 0 5px;
+      background: url("/images/logo-green.png") no-repeat 0 5px;
       padding-left: 120px;
       color: $black;
       text-decoration: none;
@@ -66,9 +66,15 @@ $margin-big: 20px;
   }
 }
 
+.wrapper {
+	padding-top: $margin-small;
+	border-top: solid 1px $white;
+	background: $white url("/images/white-gradient.png") repeat-x left top;
+}
+
 .index {
   @include flexible-left;
-
+	
   h2 {
     font-weight: bold;
     font-size: 40px;
