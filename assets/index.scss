@@ -5,10 +5,9 @@ $dark-green: #09784a;
 
 body {
   font-family: Helvetica, Arial, sans-serif;
-  background: #fff;
   color: $black;
   position: relative;
-  background: #eee;
+  background: #ddd;
 	padding: 0 !important;
 }
 
@@ -70,8 +69,8 @@ $margin-flex: 5%;
 .wrapper {
 	padding: $margin-small $margin-flex $margin-big $margin-flex;
 	border-top: solid 1px $white;
-	border-bottom: solid 1px #ddd;
-	background: $white url("/images/white-gradient.png") repeat-x left -10px;
+	border-bottom: solid 1px #c3c3c3;
+	background: #f3f3f3 url("/images/white-gradient.png") repeat-x left top;
 	
   h2 {
     font-weight: bold;
@@ -97,13 +96,14 @@ $margin-flex: 5%;
 		}
     ul {
       $city-size: 18px;
-			$border: 1px solid #e3e3e3;
+			$border: 1px solid #e0e0e0;
       list-style: none;
 			border: $border;
 			border-radius: 10px;
 			overflow: hidden;
 			background-color: $white;
 			margin-bottom: $margin-big * 2;
+			box-shadow: 0 1px 0 #fff;
 	
       li {
         font-size: $city-size;
@@ -166,9 +166,6 @@ $margin-flex: 5%;
 		}
     li {
       margin: $margin-small 0;
-      @media (max-width: 480px) {
-        font-size: $para-size / 1.2;
-      }
     }
 
     img {
@@ -191,6 +188,9 @@ $margin-flex: 5%;
   ul li {
     display: inline-block;
     margin: 3px 20px 3px 0;
-		color: $dark-green;
+		color: #666;
+		a {
+			color: $dark-green;
+		}
   }
 }
