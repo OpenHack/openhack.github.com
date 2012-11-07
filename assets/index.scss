@@ -41,8 +41,9 @@ $margin-big: 20px;
       height: 110px;
       background: url("/images/logo-green.png") no-repeat 0 5px;
       padding-left: 120px;
-      color: $black;
+      color: #93f0cb;
       text-decoration: none;
+			text-shadow: 0 -1px 0 $white, 0 3px 4px #09784a;
       font-size: 90px;
 
       @media (max-width: 767px) {
