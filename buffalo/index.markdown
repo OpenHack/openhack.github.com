@@ -15,7 +15,6 @@ Please RSVP on [Meetup](http://www.meetup.com/Western-New-York-Ruby/) so we know
 
 ### Next meetups
 
-* [November 6, 2012](http://www.meetup.com/Western-New-York-Ruby/events/86099872/)
 * [November 20, 2012](http://www.meetup.com/Western-New-York-Ruby/events/86099932/)
 * [December 4, 2012](http://www.meetup.com/Western-New-York-Ruby/events/dfqlpdyqqbgb/)
 * [December 18, 2012](http://www.meetup.com/Western-New-York-Ruby/events/dfqlpdyqqbxb/)
@@ -26,3 +25,4 @@ Please RSVP on [Meetup](http://www.meetup.com/Western-New-York-Ruby/) so we know
 
 * October 9, 2012 (15 attendees)
 * October 23, 2012 (19 attendees)
+* November 6, 2012 (12 attendees)
