@@ -23,6 +23,7 @@ task :city do
 
   require 'fileutils'
   require 'yaml'
+  require 'geocoder'
 
   # 'Banana City' => 'banana_city'
   # 'Banana City, NY' => 'banana_city'
@@ -53,9 +54,14 @@ Put some info about when and where your meetup is here.
 Put down how many people came, maybe some photos or other fun stuff down here!
     EOF
 
+    results = Geocoder.search(name)
     config = YAML.load_file("_config.yml")
     cities = config["cities"]
-    cities << {directory => name}
+    cities << {directory => {
+      "name" => name,
+      "latitude" => results.first.latitude,
+      "longitude" => results.first.longitude
+    }}
     config["cities"] = cities.map(&:to_a).sort.map { |city| Hash[city] }
 
     File.open("_config.yml", "w") do |file|
@@ -64,3 +70,14 @@ Put down how many people came, maybe some photos or other fun stuff down here!
   end
 end
 
+desc "Return the latitude and longitude coordinates for a specified address."
+task :geocode do
+  unless name = ENV["ADDRESS"]
+    abort "Usage: rake city ADDRESS=ADDRESS_TO_GEOCODE"
+  end
+
+  require 'geocoder'
+
+  result = Geocoder.search(ENV["ADDRESS"]).first
+  print [result.latitude, result.longitude].join(', ')
+end
