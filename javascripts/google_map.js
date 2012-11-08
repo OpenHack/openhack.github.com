@@ -42,7 +42,13 @@ $(function(){
 		marker.setMap(map);
 		bounds.extend(latlng);
 	}
-	map.fitBounds(bounds);
 	
+	
+	// Fit the map to show all of the cities.
+	// Also do this whenever the browser is resized.
+	$(window).resize(function() {
+	  map.fitBounds(bounds);
+	});
+	$(window).resize();
 	
 });
