@@ -110,7 +110,20 @@ $(function(){
 		
 	
 		// Clustering
-		var mc = new MarkerClusterer(map, markers);
+		var mc = new MarkerClusterer(map, markers, {
+			imagePath: "/images/map-cluster",
+			imageSizes: [55], 
+			styles: [{
+				height: 51,
+				width: 55,
+				anchorIcon: [40, 22],
+				anchor: [17, 15],
+				url: "/images/map-cluster.png",
+				textColor: "transparent",
+				textSize: 13,
+				fontFamily: "Helvetica"
+			}]
+		});
 		
 	}	
 
