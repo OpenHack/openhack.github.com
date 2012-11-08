@@ -1,8 +1,13 @@
 body {
-  font-family: 'Raleway', sans-serif;
-  background: #fff;
-  color: black;
-  position: relative; }
+  font-family: Helvetica, Arial, sans-serif;
+  color: #555555;
+  position: relative;
+  background: #ddd;
+  padding: 0 !important; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', Arial, sans-serif;
+  color: #09784a; }
 
 a {
   color: #0fd482; }
@@ -10,94 +15,115 @@ a {
     color: #69B373; }
 
 .jumbotron {
-  padding: 20px 0;
-  margin-bottom: 10px;
-  background: #0fd482;
+  padding: 20px 5%;
+  background: #0fd482 url("/images/green-gradient.png") repeat-x right bottom;
   display: block; }
-  .jumbotron h1 {
-    margin-left: 20px; }
+  .jumbotron h1 a {
+    display: block;
+    height: 110px;
+    background: url("/images/logo-green.png") no-repeat 0 5px;
+    padding-left: 120px;
+    color: #93f0cb;
+    text-decoration: none;
+    text-shadow: 0 -1px 0 white, 0 3px 4px #09784a;
+    font-size: 90px; }
+    @media (max-width: 767px) {
+      .jumbotron h1 a {
+        font-size: 60px;
+        height: 90px;
+        padding-top: 20px; } }
     @media (max-width: 480px) {
-      .jumbotron h1 {
-        margin-left: 10px; } }
-    .jumbotron h1 a {
-      display: block;
-      height: 110px;
-      background: url("/images/logo.png") no-repeat 0 5px;
-      padding-left: 120px;
-      color: black;
-      text-decoration: none;
-      font-size: 90px; }
-      @media (max-width: 767px) {
-        .jumbotron h1 a {
-          font-size: 60px;
-          height: 90px;
-          padding-top: 20px; } }
-      @media (max-width: 480px) {
-        .jumbotron h1 a {
-          font-size: 40px;
-          height: 80px;
-          padding-top: 30px; } }
-      @media (max-width: 320px) {
-        .jumbotron h1 a {
-          font-size: 26px;
-          height: 70px;
-          padding-top: 40px; } }
+      .jumbotron h1 a {
+        font-size: 40px;
+        height: 80px;
+        padding-top: 30px; } }
+    @media (max-width: 320px) {
+      .jumbotron h1 a {
+        font-size: 26px;
+        height: 70px;
+        padding-top: 40px; } }
 
-.index {
-  margin-left: 20px; }
-  @media (max-width: 480px) {
-    .index {
-      margin-left: 10px; } }
-  .index h2 {
-    font-weight: bold;
+.wrapper {
+  padding: 10px 5% 20px 5%;
+  border-top: solid 1px white;
+  border-bottom: solid 1px #c3c3c3;
+  background: #f3f3f3 url("/images/white-gradient.png") repeat-x left top; }
+  .wrapper h2 {
+    font-weight: normal;
     font-size: 40px;
     margin: 10px 0; }
     @media (max-width: 480px) {
-      .index h2 {
+      .wrapper h2 {
         font-size: 30px; } }
-  .index h3 {
+  .wrapper h3 {
     font-weight: bold;
     font-size: 20px;
-    margin: 10px 0; }
-  .index .cities ul {
-    list-style: none; }
-    .index .cities ul li {
-      font-size: 24px;
-      margin: 10px 0; }
-      @media (max-width: 480px) {
-        .index .cities ul li {
-          font-size: 20px; } }
-      .index .cities ul li a {
-        display: block;
-        text-decoration: none; }
-        .index .cities ul li a small {
-          color: black;
-          font-size: 12px; }
-  .index .main p, .index .main li {
-    line-height: 21px; }
-  .index .main p {
-    font-size: 14px;
-    margin: 15px 0; }
-  .index .main li {
-    font-size: 16px;
-    margin: 10px 0; }
-    @media (max-width: 480px) {
-      .index .main li {
-        font-size: 13.33333px; } }
-  .index .main img {
-    border: 10px solid #0fd482;
+    margin-bottom: 10px;
+    padding-top: 2px;
+    border-top: 1px solid white;
+    box-shadow: 0 -1px 0 #cccccc;
+    text-transform: uppercase;
+    letter-spacing: 3px; }
+  .wrapper .cities h2 {
+    margin-left: 10px;
+    color: #777; }
+  .wrapper .cities ul {
+    list-style: none;
+    border: 1px solid #e0e0e0;
     border-radius: 10px;
-    -moz-border-radius: 10px;
-    -webkit-border-radius: 10px;
-    max-width: 80%; }
+    overflow: hidden;
+    background-color: white;
+    margin-bottom: 40px;
+    box-shadow: 0 1px 0 white; }
+    .wrapper .cities ul li {
+      font-size: 18px;
+      margin: 0; }
+      .wrapper .cities ul li a {
+        display: block;
+        padding: 5px 25px 5px 10px;
+        text-decoration: none;
+        border-top: 1px solid #e0e0e0;
+        background: transparent url("/images/city-arrow.png") no-repeat right center; }
+        .wrapper .cities ul li a:hover {
+          background-color: #0fd482;
+          background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
+          background-repeat: no-repeat, repeat-x;
+          background-position: right center, left bottom;
+          color: white;
+          border-top-color: #0fd482; }
+        .wrapper .cities ul li a:active {
+          background-color: #0fd482;
+          background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
+          background-repeat: no-repeat, repeat-x;
+          background-position: right center, left top; }
+        .wrapper .cities ul li a small {
+          color: #555555;
+          font-size: 9px; }
+      .wrapper .cities ul li:first-child a {
+        border: none; }
+  .wrapper .main p, .wrapper .main li {
+    font-size: 15px;
+    line-height: 21px; }
+  .wrapper .main p {
+    margin: 0 0 20px 25px; }
+  .wrapper .main ul, .wrapper .main ol {
+    margin-left: 42px; }
+  .wrapper .main li {
+    margin: 10px 0; }
+  .wrapper .main img {
+    max-width: 100%; }
+  .wrapper .main code {
+    border: 1px solid #aaa;
+    background: white;
+    padding: 1px 3px;
+    border-radius: 4px;
+    white-space: nowrap; }
 
 .footer {
-  margin-left: 20px;
-  margin-top: 30px;
-  margin-bottom: 5px; }
-  @media (max-width: 480px) {
-    .footer {
-      margin-left: 10px; } }
+  margin: 5px 5%; }
   .footer ul li {
     display: inline-block;
-    margin: 3px 20px 3px 0; }
+    margin: 3px 20px 3px 0;
+    color: #666; }
+    .footer ul li a {
+      color: #09784a; }
