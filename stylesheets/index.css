@@ -1,6 +1,6 @@
 body {
   font-family: Helvetica, Arial, sans-serif;
-  color: #333333;
+  color: #555555;
   position: relative;
   background: #ddd;
   padding: 0 !important; }
@@ -49,7 +49,7 @@ a {
   border-bottom: solid 1px #c3c3c3;
   background: #f3f3f3 url("/images/white-gradient.png") repeat-x left top; }
   .wrapper h2 {
-    font-weight: bold;
+    font-weight: normal;
     font-size: 40px;
     margin: 10px 0; }
     @media (max-width: 480px) {
@@ -58,10 +58,14 @@ a {
   .wrapper h3 {
     font-weight: bold;
     font-size: 20px;
-    margin: 10px 0; }
+    margin-bottom: 10px;
+    padding-top: 2px;
+    border-top: 1px solid white;
+    box-shadow: 0 -1px 0 #cccccc;
+    text-transform: uppercase;
+    letter-spacing: 3px; }
   .wrapper .cities h2 {
     margin-left: 10px;
-    font-weight: normal;
     color: #777; }
   .wrapper .cities ul {
     list-style: none;
@@ -70,7 +74,7 @@ a {
     overflow: hidden;
     background-color: white;
     margin-bottom: 40px;
-    box-shadow: 0 1px 0 #fff; }
+    box-shadow: 0 1px 0 white; }
     .wrapper .cities ul li {
       font-size: 18px;
       margin: 0; }
@@ -93,24 +97,24 @@ a {
           background-repeat: no-repeat, repeat-x;
           background-position: right center, left top; }
         .wrapper .cities ul li a small {
-          color: #333333;
+          color: #555555;
           font-size: 9px; }
       .wrapper .cities ul li:first-child a {
         border: none; }
   .wrapper .main p, .wrapper .main li {
-    font-size: 16px;
-    line-height: 24px; }
+    font-size: 15px;
+    line-height: 21px; }
   .wrapper .main p {
-    margin: 15px 0; }
+    margin: 0 0 20px 25px; }
   .wrapper .main ul, .wrapper .main ol {
-    padding-left: 20px; }
+    margin-left: 42px; }
   .wrapper .main li {
     margin: 10px 0; }
   .wrapper .main img {
-    max-width: 80%; }
+    max-width: 100%; }
   .wrapper .main code {
     border: 1px solid #aaa;
-    background: #fff;
+    background: white;
     padding: 1px 3px;
     border-radius: 4px;
     white-space: nowrap; }

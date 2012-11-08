@@ -1,4 +1,4 @@
-$black: #333;
+$black: #555;
 $green: #0FD482;
 $white: #fff;
 $dark-green: #09784a;
@@ -27,6 +27,7 @@ a {
 $margin-small: 10px;
 $margin-big: 20px;
 $margin-flex: 5%;
+$text-indent: 25px;
 
 .jumbotron {
   padding: $margin-big $margin-flex;
@@ -73,7 +74,7 @@ $margin-flex: 5%;
 	background: #f3f3f3 url("/images/white-gradient.png") repeat-x left top;
 	
   h2 {
-    font-weight: bold;
+    font-weight: normal;
     font-size: 40px;
     margin: $margin-small 0;
 
@@ -85,13 +86,17 @@ $margin-flex: 5%;
   h3 {
     font-weight: bold;
     font-size: 20px;
-    margin: $margin-small 0;
+    margin-bottom: $margin-small;
+		padding-top: 2px;
+		border-top: 1px solid $white;
+		box-shadow: 0 -1px 0 #ccc;
+		text-transform: uppercase;
+		letter-spacing: 3px;
   }
 
   .cities {
 		h2 {
 			margin-left: $margin-small;
-			font-weight: normal;
 			color: #777;
 		}
     ul {
@@ -103,7 +108,7 @@ $margin-flex: 5%;
 			overflow: hidden;
 			background-color: $white;
 			margin-bottom: $margin-big * 2;
-			box-shadow: 0 1px 0 #fff;
+			box-shadow: 0 1px 0 $white;
 	
       li {
         font-size: $city-size;
@@ -151,30 +156,30 @@ $margin-flex: 5%;
   }
 
   .main {
-    $para-size: 16px;
+    $para-size: 15px;
 
     p, li {
       font-size: $para-size;
-      line-height: $para-size + 8px;
+      line-height: $para-size + 6px;
     }
 
     p {
-      margin: 15px 0;
+      margin: 0 0 $margin-big $text-indent;
     }
 		ul, ol {
-			padding-left: $margin-big;
+			margin-left: $text-indent + 17px;
 		}
     li {
       margin: $margin-small 0;
     }
 
     img {
-      max-width: 80%;
+      max-width: 100%;
     }
 
 		code {
 			border: 1px solid #aaa;
-			background: #fff;
+			background: $white;
 			padding: 1px 3px;
 			border-radius: 4px;
 			white-space: nowrap;
