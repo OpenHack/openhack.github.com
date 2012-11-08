@@ -88,4 +88,18 @@ $(function(){
 	});
 	
 	
+	// Highlight a list item whenever the corresponding map marker is hovered.
+	for (i in markers){
+		google.maps.event.addListener(markers[i], 'mouseover', function() {
+			this.setIcon(markerHover);
+			links.eq(markers.indexOf(this)).addClass("highlight");
+		});
+		google.maps.event.addListener(markers[i], 'mouseout', function() {
+			this.setIcon(markerImage);
+			links.eq(markers.indexOf(this)).removeClass("highlight");
+		});
+	}
+	
+	
+	
 });
