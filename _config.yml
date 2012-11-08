@@ -1,8 +1,8 @@
----
-auto: true
+--- 
 server: true
 markdown: maruku
-cities:
+auto: true
+cities: 
 - atlanta: Atlanta, GA
 - baltimore: Baltimore, MD
 - beijing: Beijing, China
@@ -21,4 +21,5 @@ cities:
 - pittsburgh: Pittsburgh, PA
 - providence: Providence, RI
 - toronto: Toronto, ON
+- vancouver: Vancouver, BC
 - windsor: Windsor, ON
