@@ -31,7 +31,7 @@
         <h2>Cities</h2>
         <ul id="cities">
           {% for city in site.cities %}
-            <li id="{{city.first.first}}" data-latitude="{{city.first.last.latitude}}" data-longitude="{{city.first.last.longitude}}">
+            <li class="city" id="{{city.first.first}}" data-latitude="{{city.first.last.latitude}}" data-longitude="{{city.first.last.longitude}}">
 				<a href="/{{ city.first.first }}">{{ city.first.last.name }}</a>
 			</li>
           {% endfor %}
