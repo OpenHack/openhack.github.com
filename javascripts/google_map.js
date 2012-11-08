@@ -109,10 +109,8 @@ $(function(){
 		}
 		
 	
-		// Clustering
+		// Clustering to fix overcrowding of markers.
 		var mc = new MarkerClusterer(map, markers, {
-			imagePath: "/images/map-cluster",
-			imageSizes: [55], 
 			styles: [{
 				height: 51,
 				width: 55,
@@ -124,6 +122,7 @@ $(function(){
 				fontFamily: "Helvetica"
 			}]
 		});
+
 		
 	}	
 
