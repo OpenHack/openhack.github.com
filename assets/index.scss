@@ -1,11 +1,19 @@
-$black: #000;
+$black: #555;
 $green: #0FD482;
+$white: #fff;
+$dark-green: #09784a;
 
 body {
-  font-family: 'Raleway', sans-serif;
-  background: #fff;
+  font-family: Helvetica, Arial, sans-serif;
   color: $black;
   position: relative;
+  background: #ddd;
+	padding: 0 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', Arial, sans-serif;
+  color: $dark-green;
 }
 
 a {
@@ -18,31 +26,24 @@ a {
 
 $margin-small: 10px;
 $margin-big: 20px;
-
-@mixin flexible-left {
-  margin-left: $margin-big;
-
-  @media (max-width: 480px) {
-    margin-left: $margin-small;
-  }
-}
+$margin-flex: 5%;
+$text-indent: 25px;
 
 .jumbotron {
-  padding: $margin-big 0;
-  margin-bottom: $margin-small;
-  background: $green;
+  padding: $margin-big $margin-flex;
+  background: $green url("/images/green-gradient.png") repeat-x right bottom;
   display: block;
 
   h1 {
-    @include flexible-left;
 
     a {
       display: block;
       height: 110px;
-      background: url("/images/logo.png") no-repeat 0 5px;
+      background: url("/images/logo-green.png") no-repeat 0 5px;
       padding-left: 120px;
-      color: $black;
+      color: #93f0cb;
       text-decoration: none;
+			text-shadow: 0 -1px 0 $white, 0 3px 4px $dark-green;
       font-size: 90px;
 
       @media (max-width: 767px) {
@@ -64,13 +65,16 @@ $margin-big: 20px;
       }
     }
   }
-}
+} 
 
-.index {
-  @include flexible-left;
-
+.wrapper {
+	padding: $margin-small $margin-flex $margin-big $margin-flex;
+	border-top: solid 1px $white;
+	border-bottom: solid 1px #c3c3c3;
+	background: #f3f3f3 url("/images/white-gradient.png") repeat-x left top;
+	
   h2 {
-    font-weight: bold;
+    font-weight: normal;
     font-size: 40px;
     margin: $margin-small 0;
 
@@ -82,76 +86,116 @@ $margin-big: 20px;
   h3 {
     font-weight: bold;
     font-size: 20px;
-    margin: $margin-small 0;
+    margin-bottom: $margin-small;
+		padding-top: 2px;
+		border-top: 1px solid $white;
+		box-shadow: 0 -1px 0 #ccc;
+		text-transform: uppercase;
+		letter-spacing: 3px;
   }
 
   .cities {
+		h2 {
+			margin-left: $margin-small;
+			color: #777;
+		}
     ul {
-      $city-size: 24px;
+      $city-size: 18px;
+			$border: 1px solid #e0e0e0;
       list-style: none;
-
+			border: $border;
+			border-radius: 10px;
+			overflow: hidden;
+			background-color: $white;
+			margin-bottom: $margin-big * 2;
+			box-shadow: 0 1px 0 $white;
+	
       li {
         font-size: $city-size;
-        margin: 10px 0;
-
-        @media (max-width: 480px) {
-          font-size: $city-size / 1.2;
-        }
+        margin: 0;
 
         a {
           display: block;
+					padding: 5px 25px 5px $margin-small;
           text-decoration: none;
+					border-top: $border;
+					background: transparent url("/images/city-arrow.png") no-repeat right center;
+					
+					&:hover {
+						background: {
+							color: $green;
+							image:  url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
+							repeat: no-repeat, repeat-x;
+							position: right center, left bottom;
+						}
+						color: $white;
+						border-top-color: $green;
+					}
+					
+					&:active {
+						background: {
+							color: $green;
+							image:  url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
+							repeat: no-repeat, repeat-x;
+							position: right center, left top;
+						}
+					}
 
           small {
             color: $black;
             font-size: $city-size / 2;
           }
         }
+
+				&:first-child a {
+					border: none;
+				}
+
       }
     }
   }
 
   .main {
-    $para-size: 16px;
+    $para-size: 15px;
 
     p, li {
-      line-height: $para-size + 5px;
+      font-size: $para-size;
+      line-height: $para-size + 6px;
     }
 
     p {
-      font-size: $para-size - 2px;
-      margin: 15px 0;
+      margin: 0 0 $margin-big $text-indent;
     }
-
+		ul, ol {
+			margin-left: $text-indent + 17px;
+		}
     li {
-      font-size: $para-size;
-      margin: 10px 0;
-
-      @media (max-width: 480px) {
-        font-size: $para-size / 1.2;
-      }
+      margin: $margin-small 0;
     }
 
     img {
-      $border: 10px;
-
-      border: $border solid #0FD482;
-      border-radius: $border;
-      -moz-border-radius: $border;
-      -webkit-border-radius: $border;
-
-      max-width: 80%;
+      max-width: 100%;
     }
+
+		code {
+			border: 1px solid #aaa;
+			background: $white;
+			padding: 1px 3px;
+			border-radius: 4px;
+			white-space: nowrap;
+		}
   }
 }
 
 .footer {
-  @include flexible-left;
-  margin-top: 30px;
-  margin-bottom: 5px;
+	margin: 5px $margin-flex;
 
   ul li {
     display: inline-block;
     margin: 3px 20px 3px 0;
+		color: #666;
+		a {
+			color: $dark-green;
+		}
   }
 }
