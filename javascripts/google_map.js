@@ -1,6 +1,27 @@
 $(function(){
 	
 	
+	// Setup the custom map markers.
+	var markerImage = new google.maps.MarkerImage(
+		"/images/map-marker.png",
+		new google.maps.Size(22,35),
+		null,
+		new google.maps.Point(11, 34)
+	);
+	var markerHover = new google.maps.MarkerImage(
+		"/images/map-marker.png",
+		new google.maps.Size(22,35),
+		new google.maps.Point(22, 0),
+		new google.maps.Point(11, 34)
+	);
+	var markerShadow = new google.maps.MarkerImage(
+		"/images/map-marker.png",
+		new google.maps.Size(27,35),
+		new google.maps.Point(44, 0),
+		new google.maps.Point(3, 30)
+	);
+	
+	
 	// Parse city data into objects.
 	var cities = [];
 	$("ul#cities li.city").each(function(){
@@ -36,7 +57,9 @@ $(function(){
 		var latlng = new google.maps.LatLng(city.lat,city.lng);
 		var marker = new google.maps.Marker({
 			position: latlng,
-			title: city.name
+			title: city.name,
+			icon: markerImage,
+			shadow: markerShadow
 		});
 		markers.push(marker);
 		marker.setMap(map);
@@ -50,5 +73,19 @@ $(function(){
 	  map.fitBounds(bounds);
 	});
 	$(window).resize();
+	
+	
+	// Highlight a map marker whenever the corresponding list item is hovered.
+	var links = $("ul#cities li.city a");
+	links.hover(function(){
+		var link = $(this);
+		var index = links.index(link);
+		markers[index].setIcon(markerHover);
+	}, function(){
+		var link = $(this);
+		var index = links.index(link);
+		markers[index].setIcon(markerImage);		
+	});
+	
 	
 });
