@@ -43,6 +43,10 @@ a {
         height: 70px;
         padding-top: 40px; } }
 
+#google_map.js {
+  height: 350px;
+  margin-bottom: 20px; }
+
 .wrapper {
   padding: 10px 5% 20px 5%;
   border-top: solid 1px white;

@@ -9,6 +9,8 @@ OpenHack is a meetup with a simple purpose: Code together, on anything.
 
 OpenHack works by hosting a meetup in your city that gets programmers of any experience level together to code.
 
+<div id="google_map"> </div>
+
 ### The Basics
 
 * You can hack on anything! Any language, framework, public/open-source, personal, etc.
