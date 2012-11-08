@@ -3,25 +3,91 @@ server: true
 markdown: maruku
 auto: true
 cities: 
-- atlanta: Atlanta, GA
-- baltimore: Baltimore, MD
-- beijing: Beijing, China
-- birmingham: Birmingham, AL
-- boston: Boston, MA
-- buffalo: Buffalo, NY
-- chicago: Chicago, IL
-- columbia: Columbia, SC
-- columbus: Columbus, OH
-- fortwayne: Fort Wayne, IN
-- green_bay: Green Bay, WI
-- honolulu: Honolulu, HI
-- iowa_city: Iowa City, IA
-- jersey_city: Jersey City, NJ
-- miami: Miami, FL
-- new_york: New York City, NY
-- pittsburgh: Pittsburgh, PA
-- providence: Providence, RI
-- taipei: Taipei, Taiwan
-- toronto: Toronto, ON
-- vancouver: Vancouver, BC
-- windsor: Windsor, ON
+- atlanta: 
+    name: Atlanta, GA
+    latitude: 33.7489954
+    longitude: -84.3879824
+- baltimore: 
+    name: Baltimore, MD
+    latitude: 39.2903848
+    longitude: -76.6121893
+- beijing: 
+    name: Beijing, China
+    latitude: 39.90403
+    longitude: 116.407526
+- birmingham: 
+    name: Birmingham, AL
+    latitude: 33.5206608
+    longitude: -86.80248999999999
+- boston: 
+    name: Boston, MA
+    latitude: 42.3584308
+    longitude: -71.0597732
+- buffalo: 
+    name: Buffalo, NY
+    latitude: 42.88644679999999
+    longitude: -78.8783689
+- chicago: 
+    name: Chicago, IL
+    latitude: 41.8781136
+    longitude: -87.6297982
+- columbia: 
+    name: Columbia, SC
+    latitude: 34.0007104
+    longitude: -81.0348144
+- columbus: 
+    name: Columbus, OH
+    latitude: 39.9611755
+    longitude: -82.99879419999999
+- fortwayne: 
+    name: Fort Wayne, IN
+    latitude: 41.079273
+    longitude: -85.1393513
+- green_bay: 
+    name: Green Bay, WI
+    latitude: 44.51915899999999
+    longitude: -88.019826
+- honolulu: 
+    name: Honolulu, HI
+    latitude: 21.3069444
+    longitude: -157.8583333
+- iowa_city: 
+    name: Iowa City, IA
+    latitude: 41.6611277
+    longitude: -91.5301683
+- jersey_city: 
+    name: Jersey City, NJ
+    latitude: 40.72815749999999
+    longitude: -74.0776417
+- miami: 
+    name: Miami, FL
+    latitude: 25.7889689
+    longitude: -80.2264393
+- new_york: 
+    name: New York City, NY
+    latitude: 40.7143528
+    longitude: -74.00597309999999
+- pittsburgh: 
+    name: Pittsburgh, PA
+    latitude: 40.44062479999999
+    longitude: -79.9958864
+- providence: 
+    name: Providence, RI
+    latitude: 41.8239891
+    longitude: -71.4128343
+- taipei: 
+    name: Taipei, Taiwan
+    latitude: 25.091075
+    longitude: 121.5598345
+- toronto: 
+    name: Toronto, ON
+    latitude: 43.653226
+    longitude: -79.3831843
+- vancouver: 
+    name: Vancouver, BC
+    latitude: 49.261226
+    longitude: -123.1139268
+- windsor: 
+    name: Windsor, ON
+    latitude: 42.3183446
+    longitude: -83.0342423
