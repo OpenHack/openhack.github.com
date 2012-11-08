@@ -132,7 +132,7 @@ $text-indent: 25px;
 					border-top: $border;
 					background: transparent url("/images/city-arrow.png") no-repeat right center;
 					
-					&:hover {
+					&:hover, &.highlight {
 						background: {
 							color: $green;
 							image:  url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");

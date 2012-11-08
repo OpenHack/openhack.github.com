@@ -93,7 +93,7 @@ a {
         text-decoration: none;
         border-top: 1px solid #e0e0e0;
         background: transparent url("/images/city-arrow.png") no-repeat right center; }
-        .wrapper .cities ul li a:hover {
+        .wrapper .cities ul li a:hover, .wrapper .cities ul li a.highlight {
           background-color: #0fd482;
           background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
           background-repeat: no-repeat, repeat-x;
