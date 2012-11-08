@@ -93,6 +93,7 @@ $(function(){
 	
 	
 		// Highlight a list item whenever the corresponding map marker is hovered.
+		// Clicking on a map marker navigates to the page for that city.
 		for (i in markers){
 			google.maps.event.addListener(markers[i], 'mouseover', function() {
 				this.setIcon(markerHover);
@@ -102,8 +103,12 @@ $(function(){
 				this.setIcon(markerImage);
 				links.eq(markers.indexOf(this)).removeClass("highlight");
 			});
+			google.maps.event.addListener(markers[i], 'click', function() {
+				window.location = cities[(markers.indexOf(this))].url
+			});
+			
 		}
-
+		
 	
 	}	
 
