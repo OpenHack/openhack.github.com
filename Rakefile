@@ -69,3 +69,15 @@ Put down how many people came, maybe some photos or other fun stuff down here!
     end
   end
 end
+
+desc "Return the latitude and longitude coordinates for a specified address."
+task :geocode do
+  unless name = ENV["ADDRESS"]
+    abort "Usage: rake city ADDRESS=ADDRESS_TO_GEOCODE"
+  end
+
+  require 'geocoder'
+
+  result = Geocoder.search(ENV["ADDRESS"]).first
+  print [result.latitude, result.longitude].join(', ')
+end
