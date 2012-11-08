@@ -67,6 +67,11 @@ $text-indent: 25px;
   }
 } 
 
+#google_map.js {
+	height: 350px;
+	margin-bottom: $margin-big;
+}
+
 .wrapper {
 	padding: $margin-small $margin-flex $margin-big $margin-flex;
 	border-top: solid 1px $white;
