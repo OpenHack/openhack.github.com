@@ -106,10 +106,12 @@ $(function(){
 			google.maps.event.addListener(markers[i], 'click', function() {
 				window.location = cities[(markers.indexOf(this))].url
 			});
-			
 		}
 		
 	
+		// Clustering
+		var mc = new MarkerClusterer(map, markers);
+		
 	}	
 
 	
