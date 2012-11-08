@@ -73,7 +73,7 @@ end
 desc "Return the latitude and longitude coordinates for a specified address."
 task :geocode do
   unless name = ENV["ADDRESS"]
-    abort "Usage: rake city ADDRESS=ADDRESS_TO_GEOCODE"
+    abort "Usage: rake geocode ADDRESS=ADDRESS_TO_GEOCODE"
   end
 
   require 'geocoder'
