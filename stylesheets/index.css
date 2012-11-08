@@ -10,13 +10,11 @@ h1, h2, h3, h4, h5, h6 {
   color: #09784a; }
 
 a {
-  color: #0fd482; }
-  a:visited {
-    color: #69B373; }
+  color: #69b373; }
 
 .jumbotron {
   padding: 20px 5%;
-  background: #0fd482 url("/images/green-gradient.png") repeat-x right bottom;
+  background: #69b373 url("/images/green-gradient.png") repeat-x right bottom;
   display: block; }
   .jumbotron h1 a {
     display: block;
@@ -42,6 +40,15 @@ a {
         font-size: 26px;
         height: 70px;
         padding-top: 40px; } }
+
+#google_map {
+  display: none; }
+  #google_map.js {
+    display: block;
+    height: 350px;
+    margin-bottom: 20px;
+    border: 1px solid #bbb;
+    box-shadow: 0 1px 0 white; }
 
 .wrapper {
   padding: 10px 5% 20px 5%;
@@ -84,15 +91,15 @@ a {
         text-decoration: none;
         border-top: 1px solid #e0e0e0;
         background: transparent url("/images/city-arrow.png") no-repeat right center; }
-        .wrapper .cities ul li a:hover {
-          background-color: #0fd482;
+        .wrapper .cities ul li a:hover, .wrapper .cities ul li a.highlight {
+          background-color: #69b373;
           background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
           background-repeat: no-repeat, repeat-x;
           background-position: right center, left bottom;
           color: white;
-          border-top-color: #0fd482; }
+          border-top-color: #69b373; }
         .wrapper .cities ul li a:active {
-          background-color: #0fd482;
+          background-color: #69b373;
           background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
           background-repeat: no-repeat, repeat-x;
           background-position: right center, left top; }
