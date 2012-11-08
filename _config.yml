@@ -87,6 +87,10 @@ cities:
     name: Taipei, Taiwan
     latitude: 25.04684
     longitude: 121.51737
+- toledo:
+    name: Toledo, OH
+    latitude: 41.6639
+    longitude: 83.5553
 - toronto:
     name: Toronto, ON
     latitude: 43.653226
