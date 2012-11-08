@@ -1,5 +1,5 @@
 $black: #555;
-$green: #0FD482;
+$green: #69B373;
 $white: #fff;
 $dark-green: #09784a;
 
@@ -18,10 +18,6 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
   color: $green;
-
-  &:visited {
-    color: #69B373;
-  }
 }
 
 $margin-small: 10px;
