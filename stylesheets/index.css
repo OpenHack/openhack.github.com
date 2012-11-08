@@ -43,9 +43,14 @@ a {
         height: 70px;
         padding-top: 40px; } }
 
-#google_map.js {
-  height: 350px;
-  margin-bottom: 20px; }
+#google_map {
+  display: none; }
+  #google_map.js {
+    display: block;
+    height: 350px;
+    margin-bottom: 20px;
+    border: 1px solid #bbb;
+    box-shadow: 0 1px 0 white; }
 
 .wrapper {
   padding: 10px 5% 20px 5%;

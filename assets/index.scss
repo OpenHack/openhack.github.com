@@ -67,9 +67,15 @@ $text-indent: 25px;
   }
 } 
 
-#google_map.js {
-	height: 350px;
-	margin-bottom: $margin-big;
+#google_map {
+	display: none;
+	&.js {
+		display: block;
+		height: 350px;
+		margin-bottom: $margin-big;
+		border: 1px solid #bbb;
+		box-shadow: 0 1px 0 $white;
+	}
 }
 
 .wrapper {
