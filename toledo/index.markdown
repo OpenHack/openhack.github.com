@@ -15,15 +15,14 @@ We will order food at 6pm. If you are interested, please bring cash for your ord
 
 ### Sponsors
 
-We are currently looking for sponsors to help provide food and beverages. If you are interested in sponsoring OpenHack and have access to software development talent in Toledo, please email us 
-at [hi@seedcoworking.com](mailto:hi@seedcoworking.com).
+We are currently looking for sponsors to help provide food and beverages. If you are interested in sponsoring OpenHack please email us at [hi@seedcoworking.com](mailto:hi@seedcoworking.com).
 
 ### Next meetups
 
-We announce future meetups via our [Twitter](http://twitter.com/seedcowork) account. Follow that if you wish.
+We announce future meetups via our [Twitter](http://twitter.com/openhacktoledo) account. Follow that if you wish.
 
-Monday, November 19th
+**Monday, November 19th**
 
 ### Past meetups
 
-None yet. Stay tuned my friends.
+None yet. Stay tuned friends.
