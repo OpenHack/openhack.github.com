@@ -73,11 +73,11 @@ end
 desc "Return the latitude and longitude coordinates for a specified address."
 task :geocode do
   unless name = ENV["ADDRESS"]
-    abort "Usage: rake city ADDRESS=ADDRESS_TO_GEOCODE"
+    abort "Usage: rake geocode ADDRESS=\"number street city state zip\""
   end
 
   require 'geocoder'
 
   result = Geocoder.search(ENV["ADDRESS"]).first
-  print [result.latitude, result.longitude].join(', ')
+  puts "Paste these lines into _config.yml for your city!\n\nlatitude: #{result.latitude}\nlongitude: #{result.longitude}"
 end
