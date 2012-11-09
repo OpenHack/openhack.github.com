@@ -5,17 +5,16 @@ title: OpenHack - Toledo, OH
 
 ## Toledo, OH
 
-![Photo of your meetup or city!](/toledo/FILL_ME_IN.png)
+![Photo of your meetup or city!](https://sphotos-b.xx.fbcdn.net/hphotos-prn1/61996_450224031696122_802511324_n.jpg)
 
 ### Info
 
-Put some info about when and where your meetup is here.
+[Seed Coworking](http://seedcowork.com) is hosting OpenHack for the Toledo area. Meetups are held every Monday from 6pm - 10pm. All skill levels welcomed. Come to learn, teach, work, or play.
 
 ### Next meetups
 
-* [First meetup](http://)
-* [Second Meetup](http://)
+Next Monday...
 
 ### Past meetups
 
-Put down how many people came, maybe some photos or other fun stuff down here!
+Last Monday...
