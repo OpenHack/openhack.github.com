@@ -18,7 +18,7 @@ end
 desc "Generate a page for your city!"
 task :city do
   unless name = ENV["NAME"]
-    abort "Usage: rake city NAME=YOUR_CITY_NAME"
+    abort "Usage: rake city NAME='YOUR_CITY_NAME, STATE' [ADDRESS='number street city state zip']"
   end
 
   require 'fileutils'
@@ -27,7 +27,7 @@ task :city do
 
   # 'Banana City' => 'banana_city'
   # 'Banana City, NY' => 'banana_city'
-  directory = name.split(', ')[0].downcase.gsub(/\s+/, '_')
+  directory = name.split(',')[0].downcase.gsub(/\s+/, '_')
   FileUtils.mkdir_p(directory)
   File.open(File.join(directory, "index.markdown"), "w") do |file|
     file.write <<-EOF
@@ -54,7 +54,11 @@ Put some info about when and where your meetup is here.
 Put down how many people came, maybe some photos or other fun stuff down here!
     EOF
 
-    results = Geocoder.search(name)
+    if ENV["ADDRESS"]
+      results = Geocoder.search(ENV["ADDRESS"])
+    else
+      results = Geocoder.search(name)
+    end
     config = YAML.load_file("_config.yml")
     cities = config["cities"]
     cities << {directory => {
@@ -73,7 +77,7 @@ end
 desc "Return the latitude and longitude coordinates for a specified address."
 task :geocode do
   unless name = ENV["ADDRESS"]
-    abort "Usage: rake geocode ADDRESS=\"number street city state zip\""
+    abort "Usage: rake geocode ADDRESS='number street city state zip'"
   end
 
   require 'geocoder'
