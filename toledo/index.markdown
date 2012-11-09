@@ -5,7 +5,7 @@ title: OpenHack - Toledo, OH
 
 ## Toledo, OH
 
-![Photo of your meetup or city!](https://sphotos-b.xx.fbcdn.net/hphotos-prn1/61996_450224031696122_802511324_n.jpg)
+![Seed Lunch n' Learn](lunch-n-learn.jpg)
 
 ### Info
 
