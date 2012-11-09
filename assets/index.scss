@@ -3,6 +3,14 @@ $green: #69B373;
 $white: #fff;
 $dark-green: #09784a;
 
+$margin-small: 10px;
+$margin-big: 20px;
+$margin-flex: 5%;
+$text-indent: 25px;
+
+$tablet: 767px;
+$phone: 480px;
+
 body {
   font-family: Helvetica, Arial, sans-serif;
   color: $black;
@@ -20,45 +28,46 @@ a {
   color: $green;
 }
 
-$margin-small: 10px;
-$margin-big: 20px;
-$margin-flex: 5%;
-$text-indent: 25px;
-
 .jumbotron {
-  padding: $margin-big $margin-flex;
+  padding: 0 $margin-flex;
   background: $green url("/images/green-gradient.png") repeat-x right bottom;
   display: block;
 
+	@media (max-width: $tablet) {
+		background-size: 37px;
+  }
+	@media (max-width: $phone) {
+		background-size: 25px;
+  }
+
   h1 {
+    font-size: 90px;
+
+		@media (max-width: $tablet) {
+			font-size: 50px;
+    }
+		@media (max-width: $phone) {
+			font-size: 38px;
+    }
 
     a {
       display: block;
-      height: 110px;
-      background: url("/images/logo-green.png") no-repeat 0 5px;
-      padding-left: 120px;
+      background: url("/images/logo-green.png") no-repeat center left;
+      padding-left: 130px;
       color: #93f0cb;
       text-decoration: none;
 			text-shadow: 0 -1px 0 $white, 0 3px 4px $dark-green;
-      font-size: 90px;
-
-      @media (max-width: 767px) {
-        font-size: 60px;
-        height: 90px;
-        padding-top: 20px;
-      }
-
-      @media (max-width: 480px) {
-        font-size: 40px;
-        height: 80px;
-        padding-top: 30px;
-      }
-
-      @media (max-width: 320px) {
-        font-size: 26px;
-        height: 70px;
-        padding-top: 40px;
-      }
+			line-height: 1.5;
+			
+			@media (max-width: $tablet) {
+				line-height: 1.7;
+	      padding-left: 90px;
+				background-size: 70px;
+	    }
+			@media (max-width: $phone) {
+	      padding-left: 65px;
+				background-size: 52px;
+	    }
     }
   }
 } 
@@ -85,7 +94,7 @@ $text-indent: 25px;
     font-size: 40px;
     margin: $margin-small 0;
 
-    @media (max-width: 480px) {
+    @media (max-width: $phone) {
       font-size: 30px;
     }
   }
