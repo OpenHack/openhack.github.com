@@ -95,6 +95,10 @@ cities:
     name: Vancouver, BC
     latitude: 49.261226
     longitude: -123.1139268
+- waterloo:
+    name: Waterloo, ON
+    latitude: 43.4642578
+    longitude: -80.5204096
 - windsor:
     name: Windsor, ON
     latitude: 42.3183446
