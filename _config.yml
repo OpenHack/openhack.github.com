@@ -11,6 +11,10 @@ cities:
     name: Baltimore, MD
     latitude: 39.2903848
     longitude: -76.6121893
+- beijing: 
+    name: Beijing, China
+    latitude: 39.90403
+    longitude: 116.407526
 - birmingham: 
     name: Birmingham, AL
     latitude: 33.5206608
@@ -43,6 +47,10 @@ cities:
     name: Green Bay, WI
     latitude: 44.51915899999999
     longitude: -88.019826
+- honolulu: 
+    name: Honolulu, HI
+    latitude: 21.3069444
+    longitude: -157.8583333
 - iowa_city: 
     name: Iowa City, IA
     latitude: 41.6611277
@@ -67,6 +75,10 @@ cities:
     name: Providence, RI
     latitude: 41.8239891
     longitude: -71.4128343
+- taipei: 
+    name: Taipei, Taiwan
+    latitude: 25.091075
+    longitude: 121.5598345
 - toledo:
     name: Toledo, OH
     latitude: 41.6639
@@ -75,8 +87,11 @@ cities:
     name: Toronto, ON
     latitude: 43.653226
     longitude: -79.3831843
+- vancouver: 
+    name: Vancouver, BC
+    latitude: 49.261226
+    longitude: -123.1139268
 - windsor: 
     name: Windsor, ON
     latitude: 42.3183446
     longitude: -83.0342423
->>>>>>> 'rake city' geocodes lat/long coords of city and stores in config yaml. Converted cities in existing config to new format.
