@@ -100,6 +100,10 @@ a {
         text-decoration: none;
         border-top: 1px solid #e0e0e0;
         background: transparent url("/images/city-arrow.png") no-repeat right center; }
+        @media (max-width: 767px) {
+          .wrapper #menu_wrapper ul li a {
+            padding-top: 7px;
+            padding-bottom: 7px; } }
         .wrapper #menu_wrapper ul li a:hover, .wrapper #menu_wrapper ul li a.highlight {
           background-color: #69b373;
           background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
@@ -112,12 +116,11 @@ a {
           background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
           background-repeat: no-repeat, repeat-x;
           background-position: right center, left top; }
-        .wrapper #menu_wrapper ul li a small {
-          color: #555555;
-          font-size: 9px; }
       .wrapper #menu_wrapper ul li:first-child a {
         border: none; }
   @media (max-width: 767px) {
+    .wrapper #menu_wrapper #menu {
+      height: 0; }
     .wrapper #menu_wrapper h2 {
       color: white;
       font-weight: bold;
@@ -136,13 +139,13 @@ a {
       background-position: 10px center, left bottom;
       background-repeat: no-repeat, repeat-x;
       background-size: 18px, auto; } }
-  @media (min-width: 768px) {
-    .wrapper #menu_wrapper #menu {
-      display: block !important; } }
   @media (max-width: 767px) {
+    .wrapper #menu_wrapper.show_menu #menu {
+      height: auto; }
     .wrapper #menu_wrapper.show_menu h2 {
       border-bottom-left-radius: 0;
-      border-bottom-right-radius: 0; }
+      border-bottom-right-radius: 0;
+      box-shadow: none; }
     .wrapper #menu_wrapper.show_menu ul {
       border-top-left-radius: 0;
       border-top-right-radius: 0; } }

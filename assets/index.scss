@@ -139,6 +139,11 @@ a {
           text-decoration: none;
 					border-top: $border;
 					background: transparent url("/images/city-arrow.png") no-repeat right center;
+
+					@media (max-width: $tablet) {
+						padding-top: 7px;
+						padding-bottom: 7px;
+					}
 					
 					&:hover, &.highlight {
 						background: {
@@ -159,11 +164,7 @@ a {
 							position: right center, left top;
 						}
 					}
-
-          small {
-            color: $black;
-            font-size: $city-size / 2;
-          }
+					
         }
 
 				&:first-child a {
@@ -174,7 +175,9 @@ a {
     }
 
 		@media (max-width: $tablet) {
-			
+			#menu {
+				height: 0;
+			}
       h2 {
 				color: $white;
 				font-weight: bold;
@@ -198,17 +201,15 @@ a {
 			}
     }
 
-		@media (min-width: $tablet + 1) {
-			#menu {
-				display: block !important;
-			}
-		}
-
 		&.show_menu {
 			@media (max-width: $tablet) {
+				#menu {
+					height: auto;
+				}
 				h2 {
 					border-bottom-left-radius: 0;
 					border-bottom-right-radius: 0;
+					box-shadow: none;
 				}
 				ul {
 					border-top-left-radius: 0;

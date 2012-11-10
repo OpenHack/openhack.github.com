@@ -1,25 +1,13 @@
 $(function(){
 
-	var tablet_width, class_name, wrapper, menu, header;
+	var class_name, wrapper, header;
 
-	tablet_width = 767;
-	class_name = "show_menu";
-	
+	class_name = "show_menu";	
 	wrapper = $("#menu_wrapper");
-	menu = wrapper.find("#menu");
 	header = wrapper.find("#menu_header");
-	
-	menu.hide();
-	
+		
 	header.click(function(){
-		if ($(window).width() <= tablet_width) {
-			wrapper.stop().toggleClass(class_name);
-			if (wrapper.hasClass(class_name)) {
-				menu.slideDown();
-			} else {
-				menu.slideUp();
-			}
-		}
+		wrapper.toggleClass(class_name);
 	})
 	
 });
