@@ -119,11 +119,7 @@ a {
         border: none; }
   @media (max-width: 767px) {
     .wrapper #menu_wrapper #menu {
-      height: 0;
-      transition: height 1s;
-      -moz-transition: height 1s;
-      -webkit-transition: height 1s;
-      -o-transition: height 1s; }
+      display: none; }
     .wrapper #menu_wrapper h2 {
       color: white;
       font-weight: bold;
@@ -135,9 +131,10 @@ a {
       border-radius: 10px;
       background: #bbb;
       padding: 5px 10px; } }
+  @media (min-width: 768px) {
+    .wrapper #menu_wrapper #menu {
+      display: block !important; } }
   @media (max-width: 767px) {
-    .wrapper #menu_wrapper.show_menu #menu {
-      height: auto; }
     .wrapper #menu_wrapper.show_menu h2 {
       border-bottom-left-radius: 0;
       border-bottom-right-radius: 0; }

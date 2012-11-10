@@ -176,11 +176,7 @@ a {
 		@media (max-width: $tablet) {
 			
 			#menu {
-				height: 0;
-				transition: height 1s;
-				-moz-transition: height 1s;
-				-webkit-transition: height 1s;
-				-o-transition: height 1s;
+				display: none
 			}
 			
       h2 {
@@ -197,11 +193,14 @@ a {
 			}
     }
 
+		@media (min-width: $tablet + 1) {
+			#menu {
+				display: block !important;
+			}
+		}
+
 		&.show_menu {
 			@media (max-width: $tablet) {
-				#menu {
-					height: auto;
-				}
 				h2 {
 					border-bottom-left-radius: 0;
 					border-bottom-right-radius: 0;
