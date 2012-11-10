@@ -91,9 +91,9 @@
     latitude: 43.653226
     longitude: -79.3831843
 - tulsa:
-	name: Tulsa, OK
-	latitude: 36.1539
-	longitude: 95.9925
+    name: Tulsa, OK
+    latitude: 36.1539
+    longitude: 95.9925
 - vancouver:
     name: Vancouver, BC
     latitude: 49.261226
