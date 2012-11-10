@@ -90,7 +90,7 @@ cities:
 - toledo:
     name: Toledo, OH
     latitude: 41.6639
-    longitude: 83.5553
+    longitude: -83.5553
 - toronto:
     name: Toronto, ON
     latitude: 43.653226
