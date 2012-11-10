@@ -110,7 +110,10 @@ a {
 		letter-spacing: 3px;
   }
 
-  .cities {
+  #menu_wrapper {
+		#menu {
+			overflow: hidden;
+		}
 		h2 {
 			margin-left: $margin-small;
 			color: #777;
@@ -169,6 +172,46 @@ a {
 
       }
     }
+
+		@media (max-width: $tablet) {
+			
+			#menu {
+				height: 0;
+				transition: height 1s;
+				-moz-transition: height 1s;
+				-webkit-transition: height 1s;
+				-o-transition: height 1s;
+			}
+			
+      h2 {
+				color: $white;
+				font-weight: bold;
+		    font-size: 24px;
+				text-transform: uppercase;
+				letter-spacing: 3px;
+				margin: 0;
+				border: 1px solid #999;
+				border-radius: 10px;
+				background: #bbb;
+				padding: 5px $margin-small
+			}
+    }
+
+		&.show_menu {
+			@media (max-width: $tablet) {
+				#menu {
+					height: auto;
+				}
+				h2 {
+					border-bottom-left-radius: 0;
+					border-bottom-right-radius: 0;
+				}
+				ul {
+					border-top-left-radius: 0;
+					border-top-right-radius: 0;
+				}
+			}
+		}
   }
 
   .main {
