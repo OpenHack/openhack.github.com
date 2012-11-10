@@ -1,8 +1,3 @@
----
-server: true
-markdown: maruku
-auto: true
-cities:
 - atlanta:
     name: Atlanta, GA
     latitude: 33.7489954
@@ -95,6 +90,10 @@ cities:
     name: Toronto, ON
     latitude: 43.653226
     longitude: -79.3831843
+- tulsa:
+    name: Tulsa, OK
+    latitude: 36.1539
+    longitude: 95.9925
 - vancouver:
     name: Vancouver, BC
     latitude: 49.261226
