@@ -78,77 +78,79 @@ a {
     box-shadow: 0 -1px 0 #cccccc;
     text-transform: uppercase;
     letter-spacing: 3px; }
-  .wrapper #menu_wrapper #menu {
-    overflow: hidden; }
-  .wrapper #menu_wrapper h2 {
-    margin-left: 10px;
-    color: #777; }
-  .wrapper #menu_wrapper ul {
-    list-style: none;
-    border: 1px solid #e0e0e0;
-    border-radius: 10px;
-    overflow: hidden;
-    background-color: white;
-    margin-bottom: 40px;
-    box-shadow: 0 1px 0 white; }
-    .wrapper #menu_wrapper ul li {
-      font-size: 18px;
-      margin: 0; }
-      .wrapper #menu_wrapper ul li a {
-        display: block;
-        padding: 5px 25px 5px 10px;
-        text-decoration: none;
-        border-top: 1px solid #e0e0e0;
-        background: transparent url("/images/city-arrow.png") no-repeat right center; }
-        @media (max-width: 767px) {
-          .wrapper #menu_wrapper ul li a {
-            padding-top: 7px;
-            padding-bottom: 7px; } }
-        .wrapper #menu_wrapper ul li a:hover, .wrapper #menu_wrapper ul li a.highlight {
-          background-color: #69b373;
-          background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
-          background-repeat: no-repeat, repeat-x;
-          background-position: right center, left bottom;
-          color: white;
-          border-top-color: #69b373; }
-        .wrapper #menu_wrapper ul li a:active {
-          background-color: #69b373;
-          background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
-          background-repeat: no-repeat, repeat-x;
-          background-position: right center, left top; }
-      .wrapper #menu_wrapper ul li:first-child a {
-        border: none; }
-  @media (max-width: 767px) {
-    .wrapper #menu_wrapper #menu.js {
-      height: 0; }
+  .wrapper #menu_wrapper {
+    margin-bottom: 20px; }
+    .wrapper #menu_wrapper #menu {
+      overflow: hidden; }
     .wrapper #menu_wrapper h2 {
-      color: white;
-      font-weight: bold;
-      font-size: 24px;
-      text-transform: uppercase;
-      letter-spacing: 3px;
-      margin: 0;
-      border: 1px solid #999;
+      margin-left: 10px;
+      color: #777; }
+    .wrapper #menu_wrapper ul {
+      list-style: none;
+      border: 1px solid #e0e0e0;
       border-radius: 10px;
-      padding: 5px 10px 5px 40px;
-      cursor: pointer;
-      text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
-      box-shadow: 0 1px 0 #fff;
-      background-color: #bbb;
-      background-image: url("/images/menu-dropdown.png"), url("/images/menu-gradient.png");
-      background-position: 10px center, left bottom;
-      background-repeat: no-repeat, repeat-x;
-      background-size: 18px, auto; } }
-  @media (max-width: 767px) {
-    .wrapper #menu_wrapper.show_menu #menu {
-      height: auto; }
-    .wrapper #menu_wrapper.show_menu h2 {
-      border-bottom-left-radius: 0;
-      border-bottom-right-radius: 0;
-      box-shadow: none; }
-    .wrapper #menu_wrapper.show_menu ul {
-      border-top-left-radius: 0;
-      border-top-right-radius: 0; } }
+      overflow: hidden;
+      background-color: white;
+      margin: 0;
+      box-shadow: 0 1px 0 white; }
+      .wrapper #menu_wrapper ul li {
+        font-size: 18px;
+        margin: 0; }
+        .wrapper #menu_wrapper ul li a {
+          display: block;
+          padding: 5px 25px 5px 10px;
+          text-decoration: none;
+          border-top: 1px solid #e0e0e0;
+          background: transparent url("/images/city-arrow.png") no-repeat right center; }
+          @media (max-width: 767px) {
+            .wrapper #menu_wrapper ul li a {
+              padding-top: 7px;
+              padding-bottom: 7px; } }
+          .wrapper #menu_wrapper ul li a:hover, .wrapper #menu_wrapper ul li a.highlight {
+            background-color: #69b373;
+            background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
+            background-repeat: no-repeat, repeat-x;
+            background-position: right center, left bottom;
+            color: white;
+            border-top-color: #69b373; }
+          .wrapper #menu_wrapper ul li a:active {
+            background-color: #69b373;
+            background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
+            background-repeat: no-repeat, repeat-x;
+            background-position: right center, left top; }
+        .wrapper #menu_wrapper ul li:first-child a {
+          border: none; }
+    @media (max-width: 767px) {
+      .wrapper #menu_wrapper #menu.js {
+        height: 0; }
+      .wrapper #menu_wrapper h2 {
+        color: white;
+        font-weight: bold;
+        font-size: 24px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        margin: 0;
+        border: 1px solid #999;
+        border-radius: 10px;
+        padding: 5px 10px 5px 40px;
+        cursor: pointer;
+        text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+        box-shadow: 0 1px 0 #fff;
+        background-color: #bbb;
+        background-image: url("/images/menu-dropdown.png"), url("/images/menu-gradient.png");
+        background-position: 10px center, left bottom;
+        background-repeat: no-repeat, repeat-x;
+        background-size: 18px, auto; } }
+    @media (max-width: 767px) {
+      .wrapper #menu_wrapper.show_menu #menu {
+        height: auto; }
+      .wrapper #menu_wrapper.show_menu h2 {
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+        box-shadow: none; }
+      .wrapper #menu_wrapper.show_menu ul {
+        border-top-left-radius: 0;
+        border-top-right-radius: 0; } }
   .wrapper .main p, .wrapper .main li {
     font-size: 15px;
     line-height: 21px; }
