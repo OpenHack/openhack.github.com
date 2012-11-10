@@ -119,7 +119,7 @@ a {
       .wrapper #menu_wrapper ul li:first-child a {
         border: none; }
   @media (max-width: 767px) {
-    .wrapper #menu_wrapper #menu {
+    .wrapper #menu_wrapper #menu.js {
       height: 0; }
     .wrapper #menu_wrapper h2 {
       color: white;
