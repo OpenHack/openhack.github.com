@@ -118,8 +118,6 @@ a {
       .wrapper #menu_wrapper ul li:first-child a {
         border: none; }
   @media (max-width: 767px) {
-    .wrapper #menu_wrapper #menu {
-      display: none; }
     .wrapper #menu_wrapper h2 {
       color: white;
       font-weight: bold;
@@ -129,8 +127,15 @@ a {
       margin: 0;
       border: 1px solid #999;
       border-radius: 10px;
-      background: #bbb;
-      padding: 5px 10px; } }
+      padding: 5px 10px 5px 40px;
+      cursor: pointer;
+      text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+      box-shadow: 0 1px 0 #fff;
+      background-color: #bbb;
+      background-image: url("/images/menu-dropdown.png"), url("/images/menu-gradient.png");
+      background-position: 10px center, left bottom;
+      background-repeat: no-repeat, repeat-x;
+      background-size: 18px, auto; } }
   @media (min-width: 768px) {
     .wrapper #menu_wrapper #menu {
       display: block !important; } }

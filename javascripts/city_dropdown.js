@@ -9,6 +9,8 @@ $(function(){
 	menu = wrapper.find("#menu");
 	header = wrapper.find("#menu_header");
 	
+	menu.hide();
+	
 	header.click(function(){
 		if ($(window).width() <= tablet_width) {
 			wrapper.stop().toggleClass(class_name);
