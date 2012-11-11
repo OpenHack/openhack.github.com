@@ -1,3 +1,8 @@
+---
+server: true
+markdown: maruku
+auto: true
+cities:
 - atlanta:
     name: Atlanta, GA
     latitude: 33.7489954
