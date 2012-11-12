@@ -13,33 +13,40 @@ a {
   color: #69b373; }
 
 .jumbotron {
-  padding: 20px 5%;
+  padding: 0 5%;
   background: #69b373 url("/images/green-gradient.png") repeat-x right bottom;
   display: block; }
-  .jumbotron h1 a {
-    display: block;
-    height: 110px;
-    background: url("/images/logo-green.png") no-repeat 0 5px;
-    padding-left: 120px;
-    color: #93f0cb;
-    text-decoration: none;
-    text-shadow: 0 -1px 0 white, 0 3px 4px #09784a;
+  @media (max-width: 767px) {
+    .jumbotron {
+      background-size: 37px; } }
+  @media (max-width: 480px) {
+    .jumbotron {
+      background-size: 25px; } }
+  .jumbotron h1 {
     font-size: 90px; }
     @media (max-width: 767px) {
-      .jumbotron h1 a {
-        font-size: 60px;
-        height: 90px;
-        padding-top: 20px; } }
+      .jumbotron h1 {
+        font-size: 50px; } }
     @media (max-width: 480px) {
-      .jumbotron h1 a {
-        font-size: 40px;
-        height: 80px;
-        padding-top: 30px; } }
-    @media (max-width: 320px) {
-      .jumbotron h1 a {
-        font-size: 26px;
-        height: 70px;
-        padding-top: 40px; } }
+      .jumbotron h1 {
+        font-size: 38px; } }
+    .jumbotron h1 a {
+      display: block;
+      background: url("/images/logo-green.png") no-repeat center left;
+      padding-left: 130px;
+      color: #93f0cb;
+      text-decoration: none;
+      text-shadow: 0 -1px 0 white, 0 3px 4px #09784a;
+      line-height: 1.5; }
+      @media (max-width: 767px) {
+        .jumbotron h1 a {
+          line-height: 1.7;
+          padding-left: 90px;
+          background-size: 70px; } }
+      @media (max-width: 480px) {
+        .jumbotron h1 a {
+          padding-left: 65px;
+          background-size: 52px; } }
 
 #google_map {
   display: none; }
@@ -71,43 +78,79 @@ a {
     box-shadow: 0 -1px 0 #cccccc;
     text-transform: uppercase;
     letter-spacing: 3px; }
-  .wrapper .cities h2 {
-    margin-left: 10px;
-    color: #777; }
-  .wrapper .cities ul {
-    list-style: none;
-    border: 1px solid #e0e0e0;
-    border-radius: 10px;
-    overflow: hidden;
-    background-color: white;
-    margin-bottom: 40px;
-    box-shadow: 0 1px 0 white; }
-    .wrapper .cities ul li {
-      font-size: 18px;
-      margin: 0; }
-      .wrapper .cities ul li a {
-        display: block;
-        padding: 5px 25px 5px 10px;
-        text-decoration: none;
-        border-top: 1px solid #e0e0e0;
-        background: transparent url("/images/city-arrow.png") no-repeat right center; }
-        .wrapper .cities ul li a:hover, .wrapper .cities ul li a.highlight {
-          background-color: #69b373;
-          background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
-          background-repeat: no-repeat, repeat-x;
-          background-position: right center, left bottom;
-          color: white;
-          border-top-color: #69b373; }
-        .wrapper .cities ul li a:active {
-          background-color: #69b373;
-          background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
-          background-repeat: no-repeat, repeat-x;
-          background-position: right center, left top; }
-        .wrapper .cities ul li a small {
-          color: #555555;
-          font-size: 9px; }
-      .wrapper .cities ul li:first-child a {
-        border: none; }
+  .wrapper #menu_wrapper {
+    margin-bottom: 20px; }
+    .wrapper #menu_wrapper #menu {
+      overflow: hidden; }
+    .wrapper #menu_wrapper h2 {
+      margin-left: 10px;
+      color: #777; }
+    .wrapper #menu_wrapper ul {
+      list-style: none;
+      border: 1px solid #e0e0e0;
+      border-radius: 10px;
+      overflow: hidden;
+      background-color: white;
+      margin: 0;
+      box-shadow: 0 1px 0 white; }
+      .wrapper #menu_wrapper ul li {
+        font-size: 18px;
+        margin: 0; }
+        .wrapper #menu_wrapper ul li a {
+          display: block;
+          padding: 5px 25px 5px 10px;
+          text-decoration: none;
+          border-top: 1px solid #e0e0e0;
+          background: transparent url("/images/city-arrow.png") no-repeat right center; }
+          @media (max-width: 767px) {
+            .wrapper #menu_wrapper ul li a {
+              padding-top: 7px;
+              padding-bottom: 7px; } }
+          .wrapper #menu_wrapper ul li a:hover, .wrapper #menu_wrapper ul li a.highlight {
+            background-color: #69b373;
+            background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
+            background-repeat: no-repeat, repeat-x;
+            background-position: right center, left bottom;
+            color: white;
+            border-top-color: #69b373; }
+          .wrapper #menu_wrapper ul li a:active {
+            background-color: #69b373;
+            background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
+            background-repeat: no-repeat, repeat-x;
+            background-position: right center, left top; }
+        .wrapper #menu_wrapper ul li:first-child a {
+          border: none; }
+    @media (max-width: 767px) {
+      .wrapper #menu_wrapper #menu.js {
+        height: 0; }
+      .wrapper #menu_wrapper h2 {
+        color: white;
+        font-weight: bold;
+        font-size: 24px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        margin: 0;
+        border: 1px solid #999;
+        border-radius: 10px;
+        padding: 5px 10px 5px 40px;
+        cursor: pointer;
+        text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.4);
+        box-shadow: 0 1px 0 #fff;
+        background-color: #bbb;
+        background-image: url("/images/menu-dropdown.png"), url("/images/menu-gradient.png");
+        background-position: 10px center, left bottom;
+        background-repeat: no-repeat, repeat-x;
+        background-size: 18px, auto; } }
+    @media (max-width: 767px) {
+      .wrapper #menu_wrapper.show_menu #menu {
+        height: auto; }
+      .wrapper #menu_wrapper.show_menu h2 {
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+        box-shadow: none; }
+      .wrapper #menu_wrapper.show_menu ul {
+        border-top-left-radius: 0;
+        border-top-right-radius: 0; } }
   .wrapper .main p, .wrapper .main li {
     font-size: 15px;
     line-height: 21px; }
