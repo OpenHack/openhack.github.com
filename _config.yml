@@ -80,9 +80,9 @@ cities:
     latitude: 41.8239891
     longitude: -71.4128343
 - santa_barbara:
-   name: Santa Barbara, CA
-   latitude: 34.431903
-   longitude: -119.848416
+    name: Santa Barbara, CA
+    latitude: 34.431903
+    longitude: -119.848416
 - taipei:
     name: Taipei, Taiwan
     latitude: 25.04684
@@ -98,7 +98,7 @@ cities:
 - tulsa:
     name: Tulsa, OK
     latitude: 36.1539
-    longitude: 95.9925
+    longitude: -95.9925
 - vancouver:
     name: Vancouver, BC
     latitude: 49.261226
