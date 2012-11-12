@@ -3,7 +3,7 @@
 
 <head>
   <meta charset=utf-8>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
   <title>{{ page.title }}</title>
   <!--[if lt IE 9]>
   <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -12,6 +12,11 @@
   <link rel="stylesheet" href="/stylesheets/reset.css" />
   <link rel="stylesheet" href="/stylesheets/index.css" />
   <link rel="stylesheet" href="/stylesheets/bootstrap-responsive.min.css" />
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+  <script type="text/javascript" src="/javascripts/markerclusterer_packed.js"></script>
+  <script type="text/javascript" src="/javascripts/google_map.js"></script>
+  <script type="text/javascript" src="/javascripts/city_dropdown.js"></script>
 </head>
 
 <body>
@@ -24,14 +29,18 @@
 
   <div class="wrapper">
     <div class="row-fluid">
-      <div class="cities span3">
-        <h2>Cities</h2>
-        <ul>
-          {% for city in site.cities %}
-            <li id="{{city.first.first}}"><a href="/{{ city.first.first }}">{{ city.first.last }}</a></li>
-          {% endfor %}
-          <li><a href="/yours">Yours?</a></li>
-        </ul>
+      <div class="cities span3" id="menu_wrapper">
+        <h2 id="menu_header">Cities</h2>
+				<div id="menu">
+	        <ul id="cities">
+	          {% for city in site.cities %}
+	            <li class="city" id="{{city.first.first}}" data-latitude="{{city.first.last.latitude}}" data-longitude="{{city.first.last.longitude}}">
+								<a href="/{{ city.first.first }}">{{ city.first.last.name }}</a>
+							</li>
+	          {% endfor %}
+	          <li><a href="/yours">Yours?</a></li>
+	        </ul>
+				</div>
       </div>
       <div class="main span8 offset1">
         {{ content }}

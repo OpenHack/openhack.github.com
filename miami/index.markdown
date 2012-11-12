@@ -11,7 +11,9 @@ title: OpenHack - Miami, FL
 
 OpenHack Miami meets in [The Grove Spot](http://grovespot.com/) on most Mondays at 7pm.
 
-More info can be found on [Meetup](http://www.meetup.com/miamirb/).
+* You can hack on anything! Any language, framework, public/open-source, personal, etc.
+* Skill level doesn't matter. We don't care if you're working on Hello World or on increasing your wizarding level.
+* You don’t have to have an idea to hack on! You’re more than welcome to come just to pair with someone.
 
 ### Next meetups
 

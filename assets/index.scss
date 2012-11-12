@@ -1,7 +1,15 @@
 $black: #555;
-$green: #0FD482;
+$green: #69B373;
 $white: #fff;
 $dark-green: #09784a;
+
+$margin-small: 10px;
+$margin-big: 20px;
+$margin-flex: 5%;
+$text-indent: 25px;
+
+$tablet: 767px;
+$phone: 480px;
 
 body {
   font-family: Helvetica, Arial, sans-serif;
@@ -18,54 +26,62 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
   color: $green;
-
-  &:visited {
-    color: #69B373;
-  }
 }
 
-$margin-small: 10px;
-$margin-big: 20px;
-$margin-flex: 5%;
-$text-indent: 25px;
-
 .jumbotron {
-  padding: $margin-big $margin-flex;
+  padding: 0 $margin-flex;
   background: $green url("/images/green-gradient.png") repeat-x right bottom;
   display: block;
 
+	@media (max-width: $tablet) {
+		background-size: 37px;
+  }
+	@media (max-width: $phone) {
+		background-size: 25px;
+  }
+
   h1 {
+    font-size: 90px;
+
+		@media (max-width: $tablet) {
+			font-size: 50px;
+    }
+		@media (max-width: $phone) {
+			font-size: 38px;
+    }
 
     a {
       display: block;
-      height: 110px;
-      background: url("/images/logo-green.png") no-repeat 0 5px;
-      padding-left: 120px;
+      background: url("/images/logo-green.png") no-repeat center left;
+      padding-left: 130px;
       color: #93f0cb;
       text-decoration: none;
 			text-shadow: 0 -1px 0 $white, 0 3px 4px $dark-green;
-      font-size: 90px;
-
-      @media (max-width: 767px) {
-        font-size: 60px;
-        height: 90px;
-        padding-top: 20px;
-      }
-
-      @media (max-width: 480px) {
-        font-size: 40px;
-        height: 80px;
-        padding-top: 30px;
-      }
-
-      @media (max-width: 320px) {
-        font-size: 26px;
-        height: 70px;
-        padding-top: 40px;
-      }
+			line-height: 1.5;
+			
+			@media (max-width: $tablet) {
+				line-height: 1.7;
+	      padding-left: 90px;
+				background-size: 70px;
+	    }
+			@media (max-width: $phone) {
+	      padding-left: 65px;
+				background-size: 52px;
+	    }
     }
   }
 } 
+
+#google_map {
+	display: none;
+	&.js {
+		display: block;
+		height: 350px;
+		margin-bottom: $margin-big;
+		border: 1px solid #bbb;
+		box-shadow: 0 1px 0 $white;
+	}
+}
 
 .wrapper {
 	padding: $margin-small $margin-flex $margin-big $margin-flex;
@@ -78,7 +94,7 @@ $text-indent: 25px;
     font-size: 40px;
     margin: $margin-small 0;
 
-    @media (max-width: 480px) {
+    @media (max-width: $phone) {
       font-size: 30px;
     }
   }
@@ -94,7 +110,11 @@ $text-indent: 25px;
 		letter-spacing: 3px;
   }
 
-  .cities {
+  #menu_wrapper {
+		margin-bottom: $margin-big;
+		#menu {
+			overflow: hidden;
+		}
 		h2 {
 			margin-left: $margin-small;
 			color: #777;
@@ -107,7 +127,7 @@ $text-indent: 25px;
 			border-radius: 10px;
 			overflow: hidden;
 			background-color: $white;
-			margin-bottom: $margin-big * 2;
+			margin: 0;
 			box-shadow: 0 1px 0 $white;
 	
       li {
@@ -120,8 +140,13 @@ $text-indent: 25px;
           text-decoration: none;
 					border-top: $border;
 					background: transparent url("/images/city-arrow.png") no-repeat right center;
+
+					@media (max-width: $tablet) {
+						padding-top: 7px;
+						padding-bottom: 7px;
+					}
 					
-					&:hover {
+					&:hover, &.highlight {
 						background: {
 							color: $green;
 							image:  url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
@@ -140,11 +165,7 @@ $text-indent: 25px;
 							position: right center, left top;
 						}
 					}
-
-          small {
-            color: $black;
-            font-size: $city-size / 2;
-          }
+					
         }
 
 				&:first-child a {
@@ -153,6 +174,50 @@ $text-indent: 25px;
 
       }
     }
+
+		@media (max-width: $tablet) {
+			#menu.js {
+				height: 0;
+			}
+      h2 {
+				color: $white;
+				font-weight: bold;
+		    font-size: 24px;
+				text-transform: uppercase;
+				letter-spacing: 3px;
+				margin: 0;
+				border: 1px solid #999;
+				border-radius: 10px;
+				padding: 5px 10px 5px 40px;
+				cursor: pointer;
+				text-shadow: 0 -1px 0 rgba(0,0,0,.4);
+				box-shadow: 0 1px 0 #fff;
+				background: {
+					color: #bbb;
+					image: url("/images/menu-dropdown.png"), url("/images/menu-gradient.png");
+					position: 10px center, left bottom;
+					repeat: no-repeat, repeat-x;
+					size: 18px, auto;
+				}
+			}
+    }
+
+		&.show_menu {
+			@media (max-width: $tablet) {
+				#menu {
+					height: auto;
+				}
+				h2 {
+					border-bottom-left-radius: 0;
+					border-bottom-right-radius: 0;
+					box-shadow: none;
+				}
+				ul {
+					border-top-left-radius: 0;
+					border-top-right-radius: 0;
+				}
+			}
+		}
   }
 
   .main {
