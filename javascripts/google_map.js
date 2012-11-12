@@ -112,13 +112,12 @@ $(function(){
 		// Clustering to fix overcrowding of markers.
 		var mc = new MarkerClusterer(map, markers, {
 			styles: [{
-				height: 51,
-				width: 55,
-				anchorIcon: [40, 22],
-				anchor: [17, 15],
+				height: 48,
+				width: 48,
+				anchorIcon: [24, 24],
 				url: "/images/map-cluster.png",
-				textColor: "transparent",
-				textSize: 13,
+				textColor: "#fff",
+				textSize: 17,
 				fontFamily: "Helvetica"
 			}]
 		});
