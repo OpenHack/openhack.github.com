@@ -249,6 +249,34 @@ a {
 			border-radius: 4px;
 			white-space: nowrap;
 		}
+		
+		.map_label {
+			position: relative;
+			div {
+				position: absolute;
+				width: 300px;
+				height: auto;
+				left: -150px;
+				top: -58px;
+			}
+			p {
+				margin: 0 auto;
+				line-height: 1.2;
+				text-align: center;
+				white-space: nowrap;
+				span {
+					display: inline-block;
+					padding: 4px 10px;
+					background: #333 url("/images/map-label-gradient.png") repeat-x right top;
+					color: #fff;
+					font: {
+						size: 11px;
+						weight: bold;
+					};
+					border-radius: 6px;
+				}
+			}
+		}
   }
 }
 
