@@ -19,7 +19,11 @@ If you're interested, please contact [@OpenHackIC](http://twitter.com/OpenHackIC
 
 ### Next meetup
 
-We're in the early stages of organizing.  Depending on feedback from potential members, the plan is to meet once a month on a Sunday 1-4pm at [Busy Coworking](http://busycoworking.com/) in downtown Iowa City.
+* 1-4pm on Sunday, November 18th, 2012 at [Busy Coworking](http://busycoworking.com/) (218 E Washington Street, 3rd Flr).  The door will be open, so just come on up!
+
+We might get a Meetup account in the future (they're actually kinda pricy), but in the meantime, we have [a Google Docs RSVP form](https://docs.google.com/spreadsheet/viewform?formkey=dGlqV0ppa3luN2NrTnM4cXBYYjI3UEE6MQ):
+
+<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dGlqV0ppa3luN2NrTnM4cXBYYjI3UEE6MQ" width="760" height="1039" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 ### Past meetups
 
