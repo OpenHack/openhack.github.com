@@ -22,4 +22,4 @@ OpenHack Miami meets in [The Grove Spot](http://grovespot.com/) on most Mondays 
 
 ### Past meetups
 
-None yet!
+* Nov 12, 2012 (11 attendees)
