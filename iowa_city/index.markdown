@@ -13,9 +13,9 @@ Photo: [Scott Fiddelke](http://www.flickr.com/photos/scottfidd/7084756573/) ([BY
 
 **Twitter:** [@OpenHackIC](http://twitter.com/OpenHackIC)
 
-Please watch this space for updates, or follow us on Twitter.
+OpenHack meets in Iowa City go roughly once a month to code together, eat together, and hang out with like minded techies. The event is open to programmers of all skill levels and from any programming community.
 
-If you're interested, please contact [@OpenHackIC](http://twitter.com/OpenHackIC) or [@benjaminoakes](http://twitter.com/benjaminoakes).
+If you have any questions, please contact [@OpenHackIC](http://twitter.com/OpenHackIC) or [@benjaminoakes](http://twitter.com/benjaminoakes).
 
 ### Next meetup
 
