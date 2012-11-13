@@ -9,9 +9,9 @@ title: OpenHack - Newcastle upon Tyne, UK
 
 ### Info
 
-*For Designers and Developers.*  
-Work on your side-project.  
-Contribute to open source.  
+*Designers and Developers*  
+Work on your side-project  
+Contribute to open source  
 **Hack with your peers.**
 
 ### Next meetups
