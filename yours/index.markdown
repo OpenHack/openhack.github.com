@@ -22,7 +22,7 @@ If your group will have a presence on Twitter, you can follow these recommendati
 
 For an example of what this looks like, please see [@OpenHackIC](https://twitter.com/OpenHackIC).
 
-#### Username 
+#### Account
 
 Most OpenHack Twitter accounts use usernames like this:
 
@@ -33,9 +33,12 @@ Most OpenHack Twitter accounts use usernames like this:
 * OpenHackPGH for Pittsburgh
 * etc.
 
-#### Design
+#### Profile
 
-Based off the design as of 2012-11-13.
+* Background: Use [`logo-green.png`](/images/logo-green.png).
+* Header: Maybe a picture of your city or one of your meetups.
+
+#### Design
 
 * Background: Use [`tile.png`](/images/tile.png).  Make sure to check the "Tile background" option.
 * Background color: `#ddd`
