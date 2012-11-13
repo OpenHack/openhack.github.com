@@ -27,7 +27,7 @@ For an example of what this looks like, please see [@OpenHackIC](https://twitter
 Most OpenHack Twitter accounts use usernames like this:
 
 * OpenHackBHM for Birmingham
-* OpenHackFW for Fort Worth
+* OpenHackFW for Fort Wayne
 * OpenHackIC for Iowa City
 * OpenHackNYC for New York City
 * OpenHackPGH for Pittsburgh
