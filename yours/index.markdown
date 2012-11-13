@@ -15,3 +15,29 @@ We'd love to start OpenHack in as many cities as possible. This site is meant to
 6. Commit your changes, push to your fork, and submit a pull request to the main repo. Once accepted, we'll add you to the main repo so you can update your city's page at any point.
 
 And that's it! If you have feedback on this process, just open up an [issue](https://github.com/openhack/openhack.github.com/issues) and ask a question!
+
+### Twitter
+
+If your group will have a presence on Twitter, you can follow these recommendations to get started quickly.
+
+For an example of what this looks like, please see [@OpenHackIC](https://twitter.com/OpenHackIC).
+
+#### Username 
+
+Most OpenHack Twitter accounts use usernames like this:
+
+* OpenHackBHM for Birmingham
+* OpenHackFW for Fort Worth
+* OpenHackIC for Iowa City
+* OpenHackNYC for New York City
+* OpenHackPGH for Pittsburgh
+* etc.
+
+#### Design
+
+Based off the design as of 2012-11-13.
+
+* Background: Use [`tile.png`](/images/tile.png).  Make sure to check the "Tile background" option.
+* Background color: `#ddd`
+* Link color: `#69b373`
+* Overlay: White
