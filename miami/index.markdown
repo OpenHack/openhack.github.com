@@ -17,7 +17,6 @@ OpenHack Miami meets in [The Grove Spot](http://grovespot.com/) on most Mondays 
 
 ### Next meetups
 
-* [Nov 12](http://www.meetup.com/miamirb/events/90306222/)
 * [Nov 26](http://www.meetup.com/miamirb/events/90306232/)
 
 ### Past meetups
