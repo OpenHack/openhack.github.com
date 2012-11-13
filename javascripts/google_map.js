@@ -61,7 +61,6 @@ $(function(){
 			var latlng = new google.maps.LatLng(city.lat,city.lng);
 			var marker = new google.maps.Marker({
 				position: latlng,
-				title: city.name,
 				icon: markerImage,
 				shadow: markerShadow
 			});
@@ -69,8 +68,26 @@ $(function(){
 			marker.setMap(map);
 			bounds.extend(latlng);
 		}
-	
-	
+		
+		
+		// Created a city/state label for each marker.
+		var labels = [];
+		var labelPrefix = "<div class='map_label'><div><p><span>";
+		var labelSuffix = "</span></p></div></div>";
+		for (i in markers){
+			labels.push(new InfoBox({
+				content: labelPrefix + cities[i].name + labelSuffix,
+				closeBoxURL: "",
+				disableAutoPan: true,
+				boxStyle: { 
+					width: "0",
+					height: "0",
+					overflow: "visible"
+				}        
+			}));
+		}
+		
+		
 		// Fit the map to show all of the cities.
 		// Also do this whenever the browser is resized.
 		$(window).resize(function() {
@@ -91,25 +108,36 @@ $(function(){
 			markers[index].setIcon(markerImage);		
 		});
 	
-	
-		// Highlight a list item whenever the corresponding map marker is hovered.
-		// Clicking on a map marker navigates to the page for that city.
+
+		// When a map marker is hovered over...
+		//   - highlight the corresponding list item
+		//   - display a label over the marker
 		for (i in markers){
 			google.maps.event.addListener(markers[i], 'mouseover', function() {
+				var i = markers.indexOf(this);
 				this.setIcon(markerHover);
-				links.eq(markers.indexOf(this)).addClass("highlight");
+				links.eq(i).addClass("highlight");
+				labels[i].open(map, markers[i]);
+				
 			});
 			google.maps.event.addListener(markers[i], 'mouseout', function() {
+				var i = markers.indexOf(this);
 				this.setIcon(markerImage);
-				links.eq(markers.indexOf(this)).removeClass("highlight");
+				links.eq(i).removeClass("highlight");
+				labels[i].close();
 			});
+		}
+		
+		
+		// Click on a map marker to navigate to the page for that city.
+		for (i in markers){
 			google.maps.event.addListener(markers[i], 'click', function() {
 				window.location = cities[(markers.indexOf(this))].url
 			});
 		}
 		
 	
-		// Clustering to fix overcrowding of markers.
+		// Cluster map markers so that no two markers are overlapping.
 		var mc = new MarkerClusterer(map, markers, {
 			styles: [{
 				height: 48,

@@ -168,6 +168,27 @@ a {
     padding: 1px 3px;
     border-radius: 4px;
     white-space: nowrap; }
+  .wrapper .main .map_label {
+    position: relative; }
+    .wrapper .main .map_label div {
+      position: absolute;
+      width: 300px;
+      height: auto;
+      left: -150px;
+      top: -58px; }
+    .wrapper .main .map_label p {
+      margin: 0 auto;
+      line-height: 1.2;
+      text-align: center;
+      white-space: nowrap; }
+      .wrapper .main .map_label p span {
+        display: inline-block;
+        padding: 4px 10px;
+        background: #333333 url("/images/map-label-gradient.png") repeat-x right top;
+        color: #fff;
+        font-size: 11px;
+        font-weight: bold;
+        border-radius: 6px; }
 
 .footer {
   margin: 5px 5%; }
