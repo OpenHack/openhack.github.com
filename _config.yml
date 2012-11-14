@@ -71,6 +71,10 @@ cities:
     name: New York City, NY
     latitude: 40.7143528
     longitude: -74.00597309999999
+- newcastle_upon_tyne:
+    name: Newcastle upon Tyne, UK
+    latitude: 54.969488
+    longitude: -1.618375
 - pittsburgh:
     name: Pittsburgh, PA
     latitude: 40.44062479999999
