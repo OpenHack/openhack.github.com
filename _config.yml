@@ -59,6 +59,10 @@ cities:
     name: Iowa City, IA
     latitude: 41.6611277
     longitude: -91.5301683
+- istanbul:
+    name: Istanbul,Turkey
+    latitude: 41.00527
+    longitude: 28.97696
 - jersey_city:
     name: Jersey City, NJ
     latitude: 40.72815749999999
