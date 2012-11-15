@@ -35,7 +35,7 @@ Most OpenHack Twitter accounts use usernames like this:
 
 #### Profile
 
-* Background: Use [`logo-green.png`](/images/logo-green.png).
+* Photo: Use [`logo-green.png`](/images/logo-green.png).
 * Header: Maybe a picture of your city or one of your meetups.
 
 #### Design
