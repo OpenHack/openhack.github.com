@@ -67,6 +67,10 @@ cities:
     name: Jersey City, NJ
     latitude: 40.72815749999999
     longitude: -74.0776417
+- louisville:
+    name: Louisville, KY
+    latitude: 38.253777
+    longitude: -85.74844399999999
 - miami:
     name: Miami, FL
     latitude: 25.7889689
