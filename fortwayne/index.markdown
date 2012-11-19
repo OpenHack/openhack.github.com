@@ -9,10 +9,10 @@ title: OpenHack - Fort Wayne, IN
 
 ### Info
 
-[Squaremouth](http://www.squaremouth.com) will be hosting an OpenHack
-event in our Fort Wayne office.
+[Squaremouth](http://www.squaremouth.com) is hosting OpenHack events in
+our Fort Wayne office.
 
-We've put together an [event on Eventbrite](http://openhackfw.eventbrite.com)
+We'll keep our [events on Eventbrite](http://openhackfw.eventbrite.com)
 and would love to have you join us! Be sure to RSVP for the event so we
 know to get enough food.
 
@@ -22,8 +22,8 @@ you're thinking!
 
 ### Next meetup
 
-* [8 November 2012](http://openhackfw.eventbrite.com/)
+* [6 December 2012](http://openhackfw.eventbrite.com/)
 
 ### Past meetups
 
-None yet!
+* [8 November 2012](http://openhackfw-nov12.eventbrite.com/)
