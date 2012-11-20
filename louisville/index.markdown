@@ -21,6 +21,6 @@ Follow [@OpenHackLVL](http://twitter.com/OpenHackLVL) for announcements.
 
 ### Next meetups
 
-* 12/4/2012
+* [12/4/2012](http://openhacklvl.eventbrite.com)
 * 1/15/2013
 * 2/12/2013
