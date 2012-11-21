@@ -67,6 +67,10 @@ cities:
     name: Jersey City, NJ
     latitude: 40.72815749999999
     longitude: -74.0776417
+- kontich:
+    name: Kontich, Belgium
+    latitude: 51.1398236
+    longitude: 4.4380337
 - louisville:
     name: Louisville, KY
     latitude: 38.253777
