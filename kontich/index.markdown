@@ -21,4 +21,8 @@ Hosted by [10to1](http://10to1.be).
 
 ### Next meetups
 
-- Thursday 22 november 2012
+- [Thursday 20 december 2012](https://plus.google.com/events/cq1og1l7tr2u94u3vk2v6jf9v8c) (Fits better than during the Christmas holidays)
+
+### Past meetups
+
+- [Thursday 22 november 2012](https://plus.google.com/events/canss1e1g916ov33rttg1btqrpc)
