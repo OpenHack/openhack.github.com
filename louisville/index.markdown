@@ -9,7 +9,7 @@ title: OpenHack - Louisville, KY
 
 ### Info
 
-Planning on meeting at iHub (204 South Floyd Street, Louisville, KY 40202) on the second Tuesday of each month. More meetings may be planned as attendance dictates.
+Planning on meeting at [iHub](http://nucleusky.com/ihub) (204 South Floyd Street, Louisville, KY 40202) on the second Tuesday of each month. More meetings may be planned as attendance dictates.
 
 The first meeting is NOT on the second Tuesday of December however, due to a scheduling conflict at the facility.
 
@@ -21,6 +21,5 @@ Follow [@OpenHackLVL](http://twitter.com/OpenHackLVL) for announcements.
 
 ### Next meetups
 
-* [12/4/2012](http://openhacklvl.eventbrite.com)
-* 1/15/2013
-* 2/12/2013
+* December - [12/4/2012](http://openhacklvl.eventbrite.com) - Food is being sponsored by [InsiderLousiville](http://insiderlouisville.com), drinks are BYOB at this point.
+* January - TBD
