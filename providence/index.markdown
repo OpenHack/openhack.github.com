@@ -7,7 +7,7 @@ title: OpenHack - Providence
 
 ### Info
 
-EOLclub is a monthly Providence, RI hacknight. Code, design, and collaborate with other local developers to a backdrop of electronic music. Bring your laptop and a project to work on. Arrive whenever you can. Pizza and drinks provided.
+End of Line Club is a monthly Providence, RI hacknight. Code, design, and collaborate with other local developers to a backdrop of electronic music. Bring your laptop and a project to work on. Arrive whenever you can. Pizza and drinks provided.
 
 [EOLclub.org](http://eolclub.org) and [@EOLclub](https://twitter.com/EOLclub) to get more info and RSVP.
 
