@@ -19,9 +19,9 @@ If you have any questions, please contact [@OpenHackIC](http://twitter.com/OpenH
 
 ### Next meetup
 
-We might get a Meetup account in the future (they're actually kinda pricy).
+We might get a Meetup account to organize these in the future (they're actually kinda pricy).
 
-* **TBD:** A Sunday afternoon in December, 2012 at [Busy Coworking](http://busycoworking.com/)
+* 1-4pm on Sunday, December 16th, 2012 at [Busy Coworking](http://busycoworking.com/)
 
 ### Past meetups
 
