@@ -31,8 +31,9 @@ We might get a Meetup account in the future (they're actually kinda pricy).
 
 ### Related Groups
 
+* [Geek Out, Go Out](http://www.meetup.com/GeekOutGoOut/)
+* [Hacker Space ICR](http://www.hackerspaceicr.org/)
 * [ICRuby](http://www.icruby.org/)
 * [Iowa.js](http://www.iowajs.org/)
-* [Geek Out, Go Out](http://www.meetup.com/GeekOutGoOut/)
 
 Want to add another?  Please make a pull request.
