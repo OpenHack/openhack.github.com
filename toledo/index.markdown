@@ -21,8 +21,8 @@ We are currently looking for sponsors to help provide food and beverages. If you
 
 We announce future meetups via our [Twitter](http://twitter.com/openhacktoledo) account. Follow that if you wish.
 
-**Monday, November 19th**
+**Monday, December 3rd**
 
 ### Past meetups
 
-None yet. Stay tuned friends.
+**Monday, November 19th**
