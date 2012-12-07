@@ -95,6 +95,10 @@ cities:
     name: Providence, RI
     latitude: 41.8239891
     longitude: -71.4128343
+- rochester:
+    name: Rochester, NY
+    latitude: 43.1621834
+    longitude: -77.620859
 - santa_barbara:
     name: Santa Barbara, CA
     latitude: 34.431903
