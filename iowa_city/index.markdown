@@ -29,7 +29,7 @@ We might get a Meetup account to organize these in the future (they're actually 
 
 ![First Meetup](/iowa_city/benjaminoakes_first_meetup.jpg)
 
-* 1-4pm on Sunday, November 18th, 2012 at [Busy Coworking](http://busycoworking.com/)
+* 1-4pm on Sunday, November 18th, 2012 at [Busy Coworking](http://busycoworking.com/) (across the street from the Englert)
 
 ### Related Groups
 
