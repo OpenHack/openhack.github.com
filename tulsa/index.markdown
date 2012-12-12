@@ -5,7 +5,7 @@ title: OpenHack - Tulsa, OK
 
 ## Tulsa, OK
 
-![Photo of your meetup or city!](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tulsa_aerial_of_Tulsa_392_-_Copy.jpg/640px-Tulsa_aerial_of_Tulsa_392_-_Copy.jpg)
+![Photo of your meetup or city!](Tulsa_aerial.jpg)
 
 ### Info
 
