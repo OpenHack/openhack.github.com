@@ -7,6 +7,10 @@ cities:
     name: Atlanta, GA
     latitude: 33.7489954
     longitude: -84.3879824
+- austin:
+    name: Austin, TX
+    latitude: 30.267153
+    longitude: -97.7430608
 - baltimore:
     name: Baltimore, MD
     latitude: 39.281633
