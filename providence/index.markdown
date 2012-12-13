@@ -5,6 +5,8 @@ title: OpenHack - Providence
 
 ## Providence
 
+![Photo of EOLclub December 3, 2012 meetup](/providence/eolclub.jpg)
+
 ### Info
 
 End of Line Club is a monthly Providence, RI hacknight. Code, design, and collaborate with other local developers to a backdrop of electronic music. Bring your laptop and a project to work on. Arrive whenever you can. Pizza and drinks provided.
@@ -13,10 +15,11 @@ End of Line Club is a monthly Providence, RI hacknight. Code, design, and collab
 
 ### Next meetup
 
-* Monday, December 3rd, 2012 from 6pm–11pm at [Basics Group](http://basicsgroup.com)
+* Monday, January 7th, 2013 from 6pm–11pm at [Basics Group](http://basicsgroup.com)
 
 ### Past meetups
 
+* December 3rd, 2012 - 5 attendees
 * November 5th, 2012 - 10 attendees
 * October 1st, 2012 - 6 attendees
 * August 6th, 2012 - 12 attendees

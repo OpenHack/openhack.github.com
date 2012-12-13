@@ -23,7 +23,7 @@ for English and Chinese speakers.
 
 ### Next meetup
 
-* **First meetup**: *2012 December 15, Saturday, 19:00-22:00* at [混_Hun][hun] café/co-working space. We have event page [on Facebook][meetup1fb] or [on Google+][meetup1gp]. Planned activities (besides free style hacking): beginner's programming, setting up a blog, open source coding.
+* **First meetup**: *2012 December 15, Saturday, 19:00-22:00* at [混_Hun][hun] café/co-working space, near MRT Guting Station, [here's a map][hunmap]. We have event page [on Facebook][meetup1fb] or [on Google+][meetup1gp]. Planned activities (besides free style hacking): beginner's programming, setting up a blog, open source coding.
 
 ### Comments
 
@@ -44,6 +44,7 @@ Leave us a comment:
 
 [photocredit]: https://plus.google.com/photos/117273585109170363811/albums/5696597515913071889/5779342256401126082?banner=pwa "This picture on G+"
 [hun]: https://www.facebook.com/pages/%E6%B7%B7_hun/289420404471011 "Hun's Facebook page"
+[hunmap]: https://plus.google.com/117628452150644414037/about?gl=tw&hl=en "Hun on Google Maps"
 [openhackfb]: https://www.facebook.com/groups/510083385683277/ "Group page on Facebook"
 [openhackgp]: https://plus.google.com/b/115727541741204190730/115727541741204190730/ "OpenHack Taipei on Google+"
 [openhacktw]: https://twitter.com/OpenHackTP "Twitter profile"
