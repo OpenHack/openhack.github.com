@@ -23,7 +23,13 @@ for English and Chinese speakers.
 
 ### Next meetup
 
-* **First meetup**: *2012 December 15, Saturday, 19:00-22:00* at [混_Hun][hun] café/co-working space, near MRT Guting Station, [here's a map][hunmap]. We have event page [on Facebook][meetup1fb] or [on Google+][meetup1gp]. Planned activities (besides free style hacking): beginner's programming, setting up a blog, open source coding.
+* 2013 January, TBA
+
+### Past meetups
+
+* *2012 December 15, Saturday, 19:00-22:00* at [混_Hun][hun] café/co-working space, event page [on Facebook][meetup1fb] or [on Google+][meetup1gp]. We have [a bunch of photos](https://plus.google.com/photos/116948925972911973649/albums/5822326740327191329) from the event. People worked on (not exhaustive list and in no particular order): installing Linux for the first time, 3D modeling, desktop publishing, 24pullrequests, iOS development, Arduino sensors, web development.
+
+![First event](/taipei/openhacktaipei1.jpg)
 
 ### Comments
 
