@@ -23,7 +23,7 @@ for English and Chinese speakers.
 
 ### Next meetup
 
-* 2013 January, TBA
+* *2013 January 12, Saturday, 19:00-22:00* at [混_Hun][hun] café/co-working space, event page [on Facebook][meetup2fb] or [on Google+][meetup2gp].
 
 ### Past meetups
 
@@ -56,3 +56,5 @@ Leave us a comment:
 [openhacktw]: https://twitter.com/OpenHackTP "Twitter profile"
 [meetup1fb]: https://www.facebook.com/events/323406857766875/ "Event page on Facebook"
 [meetup1gp]: https://plus.google.com/b/115727541741204190730/events/c2ubm04d8aam5bh6prermkrbrkk "Event page on Google+"
+[meetup2fb]: https://www.facebook.com/events/307503562693382/ "Event 2 page on Facebook"
+[meetup2gp]: https://plus.google.com/b/115727541741204190730/events/c44jql20ictkgjaamah7j6ag61o "Event 2 page on Google+"
