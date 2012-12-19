@@ -1,10 +1,9 @@
 ---
 layout: default
-title: OpenHack - Istanbul,Turkey
+title: OpenHack - Istanbul, Turkey
 ---
 
-## Istanbul,Turkey
-
+## Istanbul, Turkey
 
 ### Info
 OpenHack Istanbul, monthly event to code together. The event is open to programmers of all levels and all platforms.
