@@ -21,14 +21,15 @@ If you have any questions, please contact [@OpenHackIC](http://twitter.com/OpenH
 
 We might get a Meetup account to organize these in the future (they're actually kinda pricy).
 
-* 1-4pm on Sunday, December 16th, 2012 at [Busy Coworking](http://busycoworking.com/)
+Unless otherwise noted, we meet **the 3rd Sunday of each month**.
 
-<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dFBLWWNkVGtwcnNLdjF1SG8ySUtPcGc6MQ" width="760" height="845" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+* 1-4pm on Sunday, January 20th, 2013 at TBD (near downtown Iowa City)
 
 ### Past meetups
 
 ![First Meetup](/iowa_city/benjaminoakes_first_meetup.jpg)
 
+* 1-4pm on Sunday, December 16th, 2012 at [Busy Coworking](http://busycoworking.com/)
 * 1-4pm on Sunday, November 18th, 2012 at [Busy Coworking](http://busycoworking.com/) (across the street from the Englert)
 
 ### Related Groups
