@@ -1,6 +1,6 @@
 ---
 layout: default
-title: OpenHack - Buffalo
+title: OpenHack - Buffalo, NY
 ---
 
 ## Buffalo
