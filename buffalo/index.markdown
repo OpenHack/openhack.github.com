@@ -3,7 +3,7 @@ layout: default
 title: OpenHack - Buffalo, NY
 ---
 
-## Buffalo
+## Buffalo, NY
 
 ![October 23](/buffalo/october.png)
 
@@ -15,7 +15,6 @@ Please RSVP on [Meetup](http://www.meetup.com/Western-New-York-Ruby/) so we know
 
 ### Next meetups
 
-* [January 1, 2013](http://www.meetup.com/Western-New-York-Ruby/events/dfqlpdyrcbcb/)
 * [January 15, 2013](http://www.meetup.com/Western-New-York-Ruby/events/dfqlpdyrcbtb/)
 * [January 29, 2013](http://www.meetup.com/Western-New-York-Ruby/events/dfqlpdyrcbmc/)
 
@@ -27,3 +26,4 @@ Please RSVP on [Meetup](http://www.meetup.com/Western-New-York-Ruby/) so we know
 * November 20, 2012 - 13
 * December 4, 2012 - 18
 * December 18, 2012 - 15
+* January 1, 2013 - 9
