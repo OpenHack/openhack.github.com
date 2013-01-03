@@ -22,8 +22,9 @@ you're thinking!
 
 ### Next meetup
 
-* [6 December 2012](http://openhackfw.eventbrite.com/)
+* [10 January 2013](http://openhackfw.eventbrite.com/)
 
 ### Past meetups
 
+* [6 December 2012](http://openhackfw-dec12.eventbrite.com/)
 * [8 November 2012](http://openhackfw-nov12.eventbrite.com/)
