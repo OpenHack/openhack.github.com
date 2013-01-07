@@ -14,3 +14,7 @@ Run the site with:
 ## License
 
 MIT. See `MIT-LICENSE`.
+
+## Build status
+
+[![Build Status](https://secure.travis-ci.org/imrehg/openhacktest.png)](http://travis-ci.org/imrehg/openhacktest)
