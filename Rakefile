@@ -1,18 +1,18 @@
-desc "compile and run the site"
-task :default do
-  pids = [
-    spawn("jekyll"),
-    spawn("scss --watch assets:stylesheets"),
-  ]
+task :default => [:build]
 
-  trap "INT" do
-    Process.kill "INT", *pids
-    exit 1
-  end
+desc "Build site"
+task :build => [:clean] do
+  system("jekyll --no-server --no-auto")
+end
 
-  loop do
-    sleep 1
-  end
+desc "Preview site"
+task :preview => [:clean, :build] do
+  system("jekyll --server --auto")
+end
+
+desc "Remove compiled directory"
+task :clean do
+  system "rm -rf _site"
 end
 
 desc "Generate a page for your city!"

@@ -7,9 +7,17 @@ Get started!
     gem install bundler
     bundle
 
-Run the site with:
+Compile the site and start preview web server by running
 
-    rake
+    rake preview
+
+and see the the result at [http://localhost:4000](http://localhost:4000)
+
+## Rake tasks
+
+ * `rake build` cleans any previus builds and rebuild the site (default task, run at `rake`)
+ * `rake clean` clean previous builds
+ * `rake preview`: clean, build and preview
 
 ## License
 
