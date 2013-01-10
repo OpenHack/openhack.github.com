@@ -64,6 +64,13 @@ We'll wrap up between 10:30 and 11PM and invite everyone out for drinks (of cour
 We're not sure yet. We're going to start it up at once a month for now and if it catches on and folks want it,
 we could potentially move to every other week, venue willing.
 
+### Other, similar options
+
+If you're looking for other options (maybe that day doesn't work for you), there's [Cafe Bedouins](http://cafebedouins.com/).
+They generally meet every Tuesday at a coffee shop or other similar location at 7PM. It's not as structured as above, and
+could end up being more social than OpenHack (we just kind of have to see how that goes), but it's another option for you
+to get in on as well.
+
 ### We want feedback
 
 OpenHack is about the hacker/developer community. This group exists to give you a repeated/predictable opportunity to get out and among
