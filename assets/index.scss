@@ -112,7 +112,7 @@ a {
 
   #menu_wrapper {
     margin-bottom: $margin-big;
-    #menu {
+    .menu {
       overflow: hidden;
     }
     h2 {
@@ -176,7 +176,7 @@ a {
     }
 
     @media (max-width: $tablet) {
-      #menu.js {
+      .menu.js {
         height: 0;
       }
       h2 {
@@ -202,16 +202,14 @@ a {
       }
     }
 
-    &.show_menu {
-      @media (max-width: $tablet) {
-        #menu {
-          height: auto;
-        }
-        h2 {
-          border-bottom-left-radius: 0;
-          border-bottom-right-radius: 0;
-          box-shadow: none;
-        }
+    @media (max-width: $tablet) {
+      h2.show {
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+        box-shadow: none;
+      }
+      .menu.show {
+        height: auto;
         ul {
           border-top-left-radius: 0;
           border-top-right-radius: 0;

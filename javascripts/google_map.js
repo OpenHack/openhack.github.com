@@ -1,157 +1,129 @@
-$(function(){
+$(function() {
+  var canvas = $("#google_map").addClass("js");
 
+  if (canvas.length == 0) {
+    return;
+  }
 
-  // If a container for a Google Map exists on this page...
-  var canvas = $("#google_map");
-  if (canvas[0]){
+  var url = "/images/map-marker.png",
 
+      // Setup the custom map markers.
+      markerImage  = new google.maps.MarkerImage(url, new google.maps.Size(22, 35), null, new google.maps.Point(11, 34)),
+      markerHover  = new google.maps.MarkerImage(url, new google.maps.Size(22, 35), new google.maps.Point(22, 0), new google.maps.Point(11, 34)),
+      markerShadow = new google.maps.MarkerImage(url, new google.maps.Size(22, 35), new google.maps.Point(44, 0), new google.maps.Point(3, 30));
 
-    // Setup the custom map markers.
-    var markerImage = new google.maps.MarkerImage(
-      "/images/map-marker.png",
-      new google.maps.Size(22,35),
-      null,
-      new google.maps.Point(11, 34)
-    );
-    var markerHover = new google.maps.MarkerImage(
-      "/images/map-marker.png",
-      new google.maps.Size(22,35),
-      new google.maps.Point(22, 0),
-      new google.maps.Point(11, 34)
-    );
-    var markerShadow = new google.maps.MarkerImage(
-      "/images/map-marker.png",
-      new google.maps.Size(27,35),
-      new google.maps.Point(44, 0),
-      new google.maps.Point(3, 30)
-    );
+      // Parse city data into objects.
+      cities = $.map($("#cities li.city"), function(element) {
+        var element = $(element),
+            link    = element.find("a");
 
-
-    // Parse city data into objects.
-    var cities = [];
-    $("ul#cities li.city").each(function(){
-      var a, li;
-      li = $(this);
-      a = $(this).find("a");
-      cities.push({
-        name: a.text(),
-        id: li.attr("id"),
-        url: a.attr("href"),
-        lat: parseFloat(li.attr("data-latitude")),
-        lng: parseFloat(li.attr("data-longitude"))
-      });
-    })
-
-
-    // Add the Google Map to the page.
-    canvas.addClass("js");
-    var map = new google.maps.Map(canvas[0], {
-      streetViewControl: false,
-      mapTypeControl: false,
-      zoomControl: false,
-      mapTypeId: google.maps.MapTypeId.ROADMAP
-    });
-
-
-    // For each city, create a marker and adjust the map bounds.
-    var markers = [];
-    var bounds = new google.maps.LatLngBounds();
-    for (i in cities){
-      var city = cities[i];
-      var latlng = new google.maps.LatLng(city.lat,city.lng);
-      var marker = new google.maps.Marker({
-        position: latlng,
-        icon: markerImage,
-        shadow: markerShadow
-      });
-      markers.push(marker);
-      marker.setMap(map);
-      bounds.extend(latlng);
-    }
-
-
-    // Created a city/state label for each marker.
-    var labels = [];
-    var labelPrefix = "<div class='map_label'><div><p><span>";
-    var labelSuffix = "</span></p></div></div>";
-    for (i in markers){
-      labels.push(new InfoBox({
-        content: labelPrefix + cities[i].name + labelSuffix,
-        closeBoxURL: "",
-        disableAutoPan: true,
-        boxStyle: {
-          width: "0",
-          height: "0",
-          overflow: "visible"
+        return {
+          id   : element.attr("id"),
+          name : link.text(),
+          url  : link.attr("href"),
+          lat  : parseFloat(element.attr("data-latitude")),
+          lng  : parseFloat(element.attr("data-longitude"))
         }
-      }));
-    }
+      }),
+
+      // Add the Google Map to the page.
+      map = new google.maps.Map(canvas.get(0), {
+        mapTypeId         : google.maps.MapTypeId.ROADMAP,
+        zoomControl       : false,
+        mapTypeControl    : false,
+        streetViewControl : false
+      }),
+
+      // For each city, create a marker and adjust the map bounds.
+      bounds  = new google.maps.LatLngBounds(),
+      markers = $.map(cities, function(city) {
+        var position = new google.maps.LatLng(city.lat, city.lng),
+            marker   = new google.maps.Marker({
+                         position: position,
+                         icon: markerImage,
+                         shadow: markerShadow
+                       });
+
+        marker.setMap(map);
+        bounds.extend(position);
+
+        return marker;
+      }),
+
+      labelPrefix = "<div class=\"map_label\"><div><p><span>",
+      labelSuffix = "</span></p></div></div>",
+
+      // Create a city/state label for each marker.
+      labels = $.map(markers, function(marker, index) {
+        return new InfoBox({
+          content        : labelPrefix + cities[index].name + labelSuffix,
+          boxStyle       : { width: "0", height: "0", overflow: "visible" },
+          closeBoxURL    : "",
+          disableAutoPan : true
+        });
+      });
 
 
-    // Fit the map to show all of the cities.
-    // Also do this whenever the browser is resized.
-    $(window).resize(function() {
+  // Adjust the map to show all cities when the browser is resized.
+  $(window)
+    .resize(function() {
       map.fitBounds(bounds);
-    });
-    $(window).resize();
+    })
+    .resize();
 
 
-    // Highlight a map marker whenever the corresponding list item is hovered.
-    var links = $("ul#cities li.city a");
-    links.hover(function(){
-      var link = $(this);
-      var index = links.index(link);
-      markers[index].setIcon(markerHover);
-    }, function(){
-      var link = $(this);
-      var index = links.index(link);
-      markers[index].setIcon(markerImage);
-    });
+  // Highlight a map marker whenever the corresponding list item is hovered.
+  var links = $("#cities li.city a");
+
+  links.hover(function() {
+    var index = links.index(this);
+
+    markers[index].setIcon(markerHover);
+  }, function() {
+    var index = links.index(this);
+
+    markers[index].setIcon(markerImage);
+  });
 
 
+  $.each(markers, function(index, marker) {
     // When a map marker is hovered over...
-    //   - highlight the corresponding list item
-    //   - display a label over the marker
-    for (i in markers){
-      google.maps.event.addListener(markers[i], 'mouseover', function() {
-        var i = markers.indexOf(this);
-        this.setIcon(markerHover);
-        links.eq(i).addClass("highlight");
-        labels[i].open(map, markers[i]);
+    //   - highlight the corresponding list item.
+    //   - display a label over the marker.
+    google.maps.event.addListener(marker, "mouseover", function() {
+      this.setIcon(markerHover);
 
-      });
-      google.maps.event.addListener(markers[i], 'mouseout', function() {
-        var i = markers.indexOf(this);
-        this.setIcon(markerImage);
-        links.eq(i).removeClass("highlight");
-        labels[i].close();
-      });
-    }
+      links.eq(index).addClass("highlight");
+      labels[index].open(map, marker);
+    });
+
+    google.maps.event.addListener(marker, "mouseout", function() {
+      this.setIcon(markerImage);
+
+      links.eq(index).removeClass("highlight");
+      labels[index].close();
+    });
 
 
     // Click on a map marker to navigate to the page for that city.
-    for (i in markers){
-      google.maps.event.addListener(markers[i], 'click', function() {
-        window.location = cities[(markers.indexOf(this))].url
-      });
-    }
+    google.maps.event.addListener(marker, "click", function() {
+      window.location = cities[index].url;
 
-
-    // Cluster map markers so that no two markers are overlapping.
-    var mc = new MarkerClusterer(map, markers, {
-      styles: [{
-        height: 48,
-        width: 48,
-        anchorIcon: [24, 24],
-        url: "/images/map-cluster.png",
-        textColor: "#fff",
-        textSize: 17,
-        fontFamily: "Helvetica"
-      }]
+      return false;
     });
+  });
 
 
-  }
-
-
+  // Cluster map markers so that no two markers are overlapping.
+  new MarkerClusterer(map, markers, {
+    styles: [{
+      url        : "/images/map-cluster.png",
+      width      : 48,
+      height     : 48,
+      textSize   : 17,
+      textColor  : "#FFF",
+      fontFamily : "Helvetica, Arial, sans-serif",
+      anchorIcon : [24, 24]
+    }]
+  });
 });

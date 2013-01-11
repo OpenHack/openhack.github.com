@@ -21,7 +21,7 @@
 </head>
 
 <body>
-  
+
   <header class="jumbotron">
     <div class="container">
       <h1><a href="/">OpenHack</a></h1>
@@ -31,8 +31,8 @@
   <div class="wrapper">
     <div class="row-fluid">
       <div class="cities span3" id="menu_wrapper">
-        <h2 id="menu_header">Cities</h2>
-        <div id="menu">
+        <h2>Cities</h2>
+        <div class="menu">
           <ul id="cities">
             {% for city in site.cities %}
               <li class="city" id="{{city.first.first}}" data-latitude="{{city.first.last.latitude}}" data-longitude="{{city.first.last.longitude}}">
@@ -48,7 +48,7 @@
       </div>
     </div>
   </div>
- 
+
   <div class="footer">
     <ul>
       <li>Made in Buffalo, NY.</li>
