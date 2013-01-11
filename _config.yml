@@ -75,6 +75,10 @@ cities:
     name: Kontich, Belgium
     latitude: 51.1398236
     longitude: 4.4380337
+- logan:
+    name: Logan, UT
+    latitude: 41.7369803
+    longitude: -111.8338359
 - louisville:
     name: Louisville, KY
     latitude: 38.253777
