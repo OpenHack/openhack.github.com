@@ -114,6 +114,10 @@ a {
     margin-bottom: $margin-big;
     .menu {
       overflow: hidden;
+
+      & + h2 {
+        margin-top: $margin-small;
+      }
     }
     h2 {
       margin-left: $margin-small;

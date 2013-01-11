@@ -35,11 +35,27 @@
         <div class="menu">
           <ul id="cities">
             {% for city in site.cities %}
-              <li class="city" id="{{city.first.first}}" data-latitude="{{city.first.last.latitude}}" data-longitude="{{city.first.last.longitude}}">
-                <a href="/{{ city.first.first }}">{{ city.first.last.name }}</a>
-              </li>
+              {% if city.first.last.status != "preparing" %}
+                <li class="city" id="{{city.first.first}}" data-latitude="{{city.first.last.latitude}}" data-longitude="{{city.first.last.longitude}}">
+                  <a href="/{{ city.first.first }}">{{ city.first.last.name }}</a>
+                </li>
+              {% endif %}
             {% endfor %}
+          </ul>
+        </div>
+
+        <h2>Coming Soon</h2>
+        <div class="menu">
+          <ul id="cities">
             <li><a href="/yours">Yours?</a></li>
+
+            {% for city in site.cities %}
+              {% if city.first.last.status == "preparing" %}
+                <li class="city" id="{{city.first.first}}" data-latitude="{{city.first.last.latitude}}" data-longitude="{{city.first.last.longitude}}">
+                  <a href="/{{ city.first.first }}">{{ city.first.last.name }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
           </ul>
         </div>
       </div>

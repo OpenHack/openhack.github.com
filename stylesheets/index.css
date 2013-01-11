@@ -82,6 +82,8 @@ a {
     margin-bottom: 20px; }
     .wrapper #menu_wrapper .menu {
       overflow: hidden; }
+      .wrapper #menu_wrapper .menu + h2 {
+        margin-top: 10px; }
     .wrapper #menu_wrapper h2 {
       margin-left: 10px;
       color: #777; }
