@@ -29,11 +29,12 @@ task :city do
   # 'Banana City, NY' => 'banana_city'
   directory = name.split(',')[0].downcase.gsub(/\s+/, '_')
   FileUtils.mkdir_p(directory)
+  preparing = "\nstatus: preparing" if ENV["PREPARING"]
   File.open(File.join(directory, "index.markdown"), "w") do |file|
     file.write <<-EOF
 ---
 layout: default
-title: OpenHack - #{name}
+title: OpenHack - #{name}#{preparing}
 ---
 
 ## #{name}

@@ -60,6 +60,10 @@
         </div>
       </div>
       <div class="main span8 offset1">
+        {% if page.status && page.status == "preparing %}
+          <p class="preparing">This meetup is still working out the details.</p>
+        {% endif %}
+
         {{ content }}
       </div>
     </div>

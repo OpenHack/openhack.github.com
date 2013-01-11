@@ -232,6 +232,23 @@ a {
 
     p {
       margin: 0 0 $margin-big $text-indent;
+
+      &.preparing {
+        margin: $margin-small 0 0 $margin-big;
+        padding: $margin-small;
+        background: $white;
+        color: $green;
+        border: 1px solid #E0E0E0;
+        border-radius: 10px;
+        font-weight: bold;
+        text-align: center;
+        float: right;
+
+        @media (max-width: $tablet) {
+          margin-left: 0;
+          float: none;
+        }
+      }
     }
     ul, ol {
       margin-left: $text-indent + 17px;

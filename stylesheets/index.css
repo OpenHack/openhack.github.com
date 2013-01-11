@@ -158,6 +158,20 @@ a {
     line-height: 21px; }
   .wrapper .main p {
     margin: 0 0 20px 25px; }
+    .wrapper .main p.preparing {
+      margin: 10px 0 0 20px;
+      padding: 10px;
+      background: white;
+      color: #69b373;
+      border: 1px solid #e0e0e0;
+      border-radius: 10px;
+      font-weight: bold;
+      text-align: center;
+      float: right; }
+      @media (max-width: 767px) {
+        .wrapper .main p.preparing {
+          margin-left: 0;
+          float: none; } }
   .wrapper .main ul, .wrapper .main ol {
     margin-left: 42px; }
   .wrapper .main li {
