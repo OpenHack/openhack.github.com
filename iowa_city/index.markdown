@@ -23,7 +23,7 @@ We might get a Meetup account to organize these in the future (they're actually 
 
 Unless otherwise noted, we meet **the 3rd Sunday of each month**.
 
-* 1-4pm on Sunday, January 20th, 2013 at TBD (near downtown Iowa City)
+* 1-4pm on Sunday, January 20th, 2013 at [Busy Coworking](http://busycoworking.com/).  We will be joined by the new [Iowa Open Source Hardware meetup](http://www.meetup.com/Iowa-Open-Source-Hardware-meetup/).
 
 ### Past meetups
 
