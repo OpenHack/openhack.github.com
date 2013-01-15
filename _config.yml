@@ -43,6 +43,10 @@ cities:
     name: Columbus, OH
     latitude: 39.9611755
     longitude: -82.99879419999999
+- dayton:
+    name: Dayton, OH
+    latitude: 39.7589478
+    longitude: -84.1916069
 - fortwayne:
     name: Fort Wayne, IN
     latitude: 41.079273
