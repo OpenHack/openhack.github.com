@@ -23,11 +23,12 @@ for English and Chinese speakers.
 
 ### Next meetup
 
-* *2013 January 12, Saturday, 19:00-22:00* at [混_Hun][hun] café/co-working space, event page [on Facebook][meetup2fb] or [on Google+][meetup2gp].
+* *2013 February 3, Sunday, 19:00-22:00* at [混_Hun][hun] café/co-working space, event page [on Facebook][meetup3fb] or [on Google+][meetup3gp].
 
 ### Past meetups
 
-* *2012 December 15, Saturday, 19:00-22:00* at [混_Hun][hun] café/co-working space, event page [on Facebook][meetup1fb] or [on Google+][meetup1gp]. We have [a bunch of photos](https://plus.google.com/photos/116948925972911973649/albums/5822326740327191329) from the event. People worked on (not exhaustive list and in no particular order): installing Linux for the first time, 3D modeling, desktop publishing, 24pullrequests, iOS development, Arduino sensors, web development.
+* *2013 January 12, Saturday* at [混_Hun][hun] café/co-working space, event page [on Facebook][meetup2fb] or [on Google+][meetup2gp]. Again [a bunch of photos](https://plus.google.com/b/115727541741204190730/photos/115727541741204190730/albums/5832504112078932049) from the event.
+* *2012 December 15* at [混_Hun][hun] café/co-working space, event page [on Facebook][meetup1fb] or [on Google+][meetup1gp]. We have [a bunch of photos](https://plus.google.com/photos/116948925972911973649/albums/5822326740327191329) from the event. People worked on (not exhaustive list and in no particular order): installing Linux for the first time, 3D modeling, desktop publishing, 24pullrequests, iOS development, Arduino sensors, web development.
 
 ![First event](/taipei/openhacktaipei1.jpg)
 
@@ -58,3 +59,5 @@ Leave us a comment:
 [meetup1gp]: https://plus.google.com/b/115727541741204190730/events/c2ubm04d8aam5bh6prermkrbrkk "Event page on Google+"
 [meetup2fb]: https://www.facebook.com/events/307503562693382/ "Event 2 page on Facebook"
 [meetup2gp]: https://plus.google.com/b/115727541741204190730/events/c44jql20ictkgjaamah7j6ag61o "Event 2 page on Google+"
+[meetup3fb]: https://www.facebook.com/events/405904459495612/ "Event 3 page on Facebook"
+[meetup3gp]: https://plus.google.com/b/115727541741204190730/events/cv5pghpcpnl6ed1h4a2bprapagg "Event 3 page on Google+"
