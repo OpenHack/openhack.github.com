@@ -131,6 +131,10 @@ cities:
     name: Tulsa, OK
     latitude: 36.1539
     longitude: -95.9925
+- valencia:
+    name: Valencia, Spain
+    latitude: 39.4721254
+    longitude: -0.3572383
 - vancouver:
     name: Vancouver, BC
     latitude: 49.261226
