@@ -24,8 +24,8 @@ for English and Chinese speakers.
 ### Next meetup
 
 <div class="vevent">
-  <h4><a href="https://www.facebook.com/events/405904459495612/" class="url summary">OpenHack Taipei February</a></h4><br>
- <p><span class="description">Latest event before the Chinese New Year. Code together, on anything.</span><br>
+ <p><strong class="summary">OpenHack Taipei February</strong><br>
+ <span class="description">Latest event before the Chinese New Year with local hackers. Code together, on anything. See event page on <a href="https://www.facebook.com/events/405904459495612/">Facebook</a> or <a href="https://plus.google.com/b/115727541741204190730/events/cv5pghpcpnl6ed1h4a2bprapagg">Google+</a>.</span><br>
  When:
    <span class="dtstart">
       2013 Feb 3, Sunday, 7:00PM<span class="value-title" title="2013-02-03T19:00+08:00"></span>
