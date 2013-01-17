@@ -15,14 +15,13 @@ You can hack on anything! Any language, framework, public/open-source, personal,
 Skill level doesn’t matter. We don’t care if you’re working on Hello World or on increasing your wizarding level.
 You don’t have to have an idea to hack on! You’re more than welcome to come just to pair with someone.
 
-Meetings are held every last thursday of the month from 6pm to 11pm.
+Meetings are held every 3th thursday of the month from 6pm to 11pm.
 
 Hosted by [10to1](http://10to1.be).
 
 ### Next meetups
 
 - [Thursday 24 januari 2013](https://plus.google.com/events/c9a0i60j1o70as08fiq06v7qk40)
-
 
 ### Past meetups
 
