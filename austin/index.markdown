@@ -16,12 +16,13 @@ For anyone who hasn't been there, there's parking under the building itself (The
 When you get inside the building, look for elevators to offices in the building. Take that elevator to the 16th floor (top floor).
 When you step off, you'll be "at" Capital Factory and should see signage as to where to go from there.
 
-### Mailing List
+### Mailing List, Twitter
 
-We've started an OpenHack, Austin mailing list:
-[https://groups.google.com/forum/?fromgroups#!forum/openhack-atx](https://groups.google.com/forum/?fromgroups#!forum/openhack-atx)
+- [Mailing List (Google Groups)](https://groups.google.com/forum/?fromgroups#!forum/openhack-atx)
+- [@openhackatx](http://twitter.com/openhackatx) on Twitter
 
-Subscribe to it for announcements and watch this space.
+Please follow us on Twitter and/or subscribe to the mailing list for announcements and updates.
+We'll also generally try to keep this page updated at all times.
 
 ### Format
 
@@ -70,6 +71,30 @@ If you're looking for other options (maybe that day doesn't work for you), there
 They generally meet every Tuesday at a coffee shop or other similar location at 7PM. It's not as structured as above, and
 could end up being more social than OpenHack (we just kind of have to see how that goes), but it's another option for you
 to get in on as well.
+
+There's also a Meetup.com group we've been made aware of that may interest you, called the
+[Austin Pair Programming Circle](http://www.meetup.com/Austin-Pair-Programming-Circle/). While fairly new, they appear to be meeting weekly
+at the Opa Coffee and Wine Bar on South Lamar.
+
+### Sponsors
+
+Our first meeting will be sponsored by the fine folks at [Engine Yard](http://www.engineyard.com) and [GitHub](http://www.github.com).
+
+Engine Yard is a Platform as a Service vendor
+currently supporting PHP, Ruby and Node.js applications. Forget your devops and just hand them the code, and they've got it from there.
+However you can still exercise a huge amount of control and customization should you want it.
+
+Most of the open source community is already familiar with GitHub; they are the world's leading git source repository host. Account
+signups are very simple, tools for bug and feature tracking exist, and it works great for teams. Push your git repository to GitHub and manage
+your project easily.
+
+If you'd like more information about either sponsor, please see [J. Austin Hughey](http://twitter.com/jaustinhughey).
+
+#### We're interested in other sponsors, too.
+
+If your company would like to sponsor OpenHack Austin, please let us know. We'd like to run different sponsors at different meetups,
+preferrably where each sponsor compliments the other in some way and is of course useful to those who attend OpenHack. So if you're
+interested in sponsorship, please let me (J. Austin Hughey) know (give me a shout on Twitter or something).
 
 ### We want feedback
 
