@@ -5,11 +5,11 @@ title: OpenHack - Columbus, OH
 
 ## Columbus
 
-![New Context Columbus](/columbus/office_summer.jpg)
+![Neo Columbus](/columbus/office_summer.jpg)
 
 ### Info
 
-[New Context](http://www.newcontext.com) hosts an OpenHack night every other 
+[Neo](http://www.neo.com) hosts an OpenHack night every other 
 week in our Columbus office.  We welcome all skill levels and development 
 platforms.  Come to get help on a problem, mentor a junior dev, or just hack.
 
@@ -18,5 +18,5 @@ type.
 
 ### Next meetup
 
-Our hack nights are every other week on Thursdays, from 6pm to 9pm. Check our 
-[Twitter](http://twitter.com/newcontextcbus) account to register.
+Our hack nights are every other week on Thursdays, from 6:30pm to 9pm. Check our 
+[Twitter](http://twitter.com/neo_cbus) account to register.
