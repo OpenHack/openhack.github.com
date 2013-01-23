@@ -11,9 +11,10 @@ Please RSVP so we know how much food to get!
 
 ### Next meetups
 
-* [December 20, 2012](https://guestlistapp.com/events/138702)
+* [January 31, 2013](https://guestlistapp.com/events/145317)
 
 ### Past meetups
 
+* [December 20, 2012](https://guestlistapp.com/events/138702)
 * [November 29, 2012](https://guestlistapp.com/events/132555)
 * [October 25, 2012](http://reefpoints.dockyard.com/community/2012/10/26/openhack-boston.html)
