@@ -87,6 +87,10 @@ cities:
     name: Louisville, KY
     latitude: 38.253777
     longitude: -85.74844399999999
+- manchester:
+    name: Manchester, NH
+    latitude: 42.99663109999999
+    longitude: -71.4670062
 - miami:
     name: Miami, FL
     latitude: 25.7889689
