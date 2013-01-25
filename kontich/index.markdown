@@ -21,9 +21,12 @@ Hosted by [10to1](http://10to1.be).
 
 ### Next meetups
 
-- [Thursday 24 januari 2013](https://plus.google.com/events/c9a0i60j1o70as08fiq06v7qk40)
+- [Thursday 21 februari 2013](https://plus.google.com/events/cpvqhk3n9pb7089au7h4euqdgd0)
+
 
 ### Past meetups
+
+- [Thursday 24 januari 2013](https://plus.google.com/events/c9a0i60j1o70as08fiq06v7qk40)
 
 - [Thursday 20 december 2012](https://plus.google.com/events/cq1og1l7tr2u94u3vk2v6jf9v8c) (Fits better than during the Christmas holidays)
 
