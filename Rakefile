@@ -18,7 +18,7 @@ end
 desc "Generate a page for your city!"
 task :city do
   unless name = ENV["NAME"]
-    abort "Usage: rake city NAME='YOUR_CITY_NAME, STATE' [ADDRESS='number street city state zip']"
+    abort "Usage: rake city NAME='YOUR_CITY_NAME, STATE' [ADDRESS='number street city state zip'] [PREPARING=true]"
   end
 
   require 'fileutils'
@@ -29,11 +29,12 @@ task :city do
   # 'Banana City, NY' => 'banana_city'
   directory = name.split(',')[0].downcase.gsub(/\s+/, '_')
   FileUtils.mkdir_p(directory)
+  preparing = "\nstatus: preparing" if ENV["PREPARING"]
   File.open(File.join(directory, "index.markdown"), "w") do |file|
     file.write <<-EOF
 ---
 layout: default
-title: OpenHack - #{name}
+title: OpenHack - #{name}#{preparing}
 ---
 
 ## #{name}
@@ -61,12 +62,14 @@ Put down how many people came, maybe some photos or other fun stuff down here!
     end
     config = YAML.load_file("_config.yml")
     cities = config["cities"]
-    cities << {directory => {
+    city = {
       "name" => name,
       "latitude" => results.first.latitude,
       "longitude" => results.first.longitude
-    }}
-    config["cities"] = cities.map(&:to_a).sort.map { |city| Hash[city] }
+    }
+    city["status"] = "preparing" if ENV["PREPARING"]
+    cities << {directory => city}
+    config["cities"] = cities.sort_by { |city| city.keys.first }
 
     File.open("_config.yml", "w") do |file|
       file.write config.to_yaml

@@ -16,7 +16,7 @@ body {
   color: $black;
   position: relative;
   background: #ddd;
-	padding: 0 !important;
+  padding: 0 !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -33,21 +33,21 @@ a {
   background: $green url("/images/green-gradient.png") repeat-x right bottom;
   display: block;
 
-	@media (max-width: $tablet) {
-		background-size: 37px;
+  @media (max-width: $tablet) {
+    background-size: 37px;
   }
-	@media (max-width: $phone) {
-		background-size: 25px;
+  @media (max-width: $phone) {
+    background-size: 25px;
   }
 
   h1 {
     font-size: 90px;
 
-		@media (max-width: $tablet) {
-			font-size: 50px;
+    @media (max-width: $tablet) {
+      font-size: 50px;
     }
-		@media (max-width: $phone) {
-			font-size: 38px;
+    @media (max-width: $phone) {
+      font-size: 38px;
     }
 
     a {
@@ -56,39 +56,39 @@ a {
       padding-left: 130px;
       color: #93f0cb;
       text-decoration: none;
-			text-shadow: 0 -1px 0 $white, 0 3px 4px $dark-green;
-			line-height: 1.5;
-			
-			@media (max-width: $tablet) {
-				line-height: 1.7;
-	      padding-left: 90px;
-				background-size: 70px;
-	    }
-			@media (max-width: $phone) {
-	      padding-left: 65px;
-				background-size: 52px;
-	    }
+      text-shadow: 0 -1px 0 $white, 0 3px 4px $dark-green;
+      line-height: 1.5;
+
+      @media (max-width: $tablet) {
+        line-height: 1.7;
+        padding-left: 90px;
+        background-size: 70px;
+      }
+      @media (max-width: $phone) {
+        padding-left: 65px;
+        background-size: 52px;
+      }
     }
   }
-} 
+}
 
 #google_map {
-	display: none;
-	&.js {
-		display: block;
-		height: 350px;
-		margin-bottom: $margin-big;
-		border: 1px solid #bbb;
-		box-shadow: 0 1px 0 $white;
-	}
+  display: none;
+  &.js {
+    display: block;
+    height: 350px;
+    margin-bottom: $margin-big;
+    border: 1px solid #bbb;
+    box-shadow: 0 1px 0 $white;
+  }
 }
 
 .wrapper {
-	padding: $margin-small $margin-flex $margin-big $margin-flex;
-	border-top: solid 1px $white;
-	border-bottom: solid 1px #c3c3c3;
-	background: #f3f3f3 url("/images/white-gradient.png") repeat-x left top;
-	
+  padding: $margin-small $margin-flex $margin-big $margin-flex;
+  border-top: solid 1px $white;
+  border-bottom: solid 1px #c3c3c3;
+  background: #f3f3f3 url("/images/white-gradient.png") repeat-x left top;
+
   h2 {
     font-weight: normal;
     font-size: 40px;
@@ -103,121 +103,123 @@ a {
     font-weight: bold;
     font-size: 20px;
     margin-bottom: $margin-small;
-		padding-top: 2px;
-		border-top: 1px solid $white;
-		box-shadow: 0 -1px 0 #ccc;
-		text-transform: uppercase;
-		letter-spacing: 3px;
+    padding-top: 2px;
+    border-top: 1px solid $white;
+    box-shadow: 0 -1px 0 #ccc;
+    text-transform: uppercase;
+    letter-spacing: 3px;
   }
 
   #menu_wrapper {
-		margin-bottom: $margin-big;
-		#menu {
-			overflow: hidden;
-		}
-		h2 {
-			margin-left: $margin-small;
-			color: #777;
-		}
+    margin-bottom: $margin-big;
+    .menu {
+      overflow: hidden;
+
+      & + h2 {
+        margin-top: $margin-small;
+      }
+    }
+    h2 {
+      margin-left: $margin-small;
+      color: #777;
+    }
     ul {
       $city-size: 18px;
-			$border: 1px solid #e0e0e0;
+      $border: 1px solid #e0e0e0;
       list-style: none;
-			border: $border;
-			border-radius: 10px;
-			overflow: hidden;
-			background-color: $white;
-			margin: 0;
-			box-shadow: 0 1px 0 $white;
-	
+      border: $border;
+      border-radius: 10px;
+      overflow: hidden;
+      background-color: $white;
+      margin: 0;
+      box-shadow: 0 1px 0 $white;
+
       li {
         font-size: $city-size;
         margin: 0;
 
         a {
           display: block;
-					padding: 5px 25px 5px $margin-small;
+          padding: 5px 25px 5px $margin-small;
           text-decoration: none;
-					border-top: $border;
-					background: transparent url("/images/city-arrow.png") no-repeat right center;
+          border-top: $border;
+          background: transparent url("/images/city-arrow.png") no-repeat right center;
 
-					@media (max-width: $tablet) {
-						padding-top: 7px;
-						padding-bottom: 7px;
-					}
-					
-					&:hover, &.highlight {
-						background: {
-							color: $green;
-							image:  url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
-							repeat: no-repeat, repeat-x;
-							position: right center, left bottom;
-						}
-						color: $white;
-						border-top-color: $green;
-					}
-					
-					&:active {
-						background: {
-							color: $green;
-							image:  url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
-							repeat: no-repeat, repeat-x;
-							position: right center, left top;
-						}
-					}
-					
+          @media (max-width: $tablet) {
+            padding-top: 7px;
+            padding-bottom: 7px;
+          }
+
+          &:hover, &.highlight {
+            background: {
+              color: $green;
+              image:  url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
+              repeat: no-repeat, repeat-x;
+              position: right center, left bottom;
+            }
+            color: $white;
+            border-top-color: $green;
+          }
+
+          &:active {
+            background: {
+              color: $green;
+              image:  url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
+              repeat: no-repeat, repeat-x;
+              position: right center, left top;
+            }
+          }
+
         }
 
-				&:first-child a {
-					border: none;
-				}
+        &:first-child a {
+          border: none;
+        }
 
       }
     }
 
-		@media (max-width: $tablet) {
-			#menu.js {
-				height: 0;
-			}
+    @media (max-width: $tablet) {
+      .menu.js {
+        height: 0;
+      }
       h2 {
-				color: $white;
-				font-weight: bold;
-		    font-size: 24px;
-				text-transform: uppercase;
-				letter-spacing: 3px;
-				margin: 0;
-				border: 1px solid #999;
-				border-radius: 10px;
-				padding: 5px 10px 5px 40px;
-				cursor: pointer;
-				text-shadow: 0 -1px 0 rgba(0,0,0,.4);
-				box-shadow: 0 1px 0 #fff;
-				background: {
-					color: #bbb;
-					image: url("/images/menu-dropdown.png"), url("/images/menu-gradient.png");
-					position: 10px center, left bottom;
-					repeat: no-repeat, repeat-x;
-					size: 18px, auto;
-				}
-			}
+        color: $white;
+        font-weight: bold;
+        font-size: 24px;
+        text-transform: uppercase;
+        letter-spacing: 3px;
+        margin: 0;
+        border: 1px solid #999;
+        border-radius: 10px;
+        padding: 5px 10px 5px 40px;
+        cursor: pointer;
+        text-shadow: 0 -1px 0 rgba(0,0,0,.4);
+        box-shadow: 0 1px 0 #fff;
+        background: {
+          color: #bbb;
+          image: url("/images/menu-dropdown.png"), url("/images/menu-gradient.png");
+          position: 10px center, left bottom;
+          repeat: no-repeat, repeat-x;
+          size: 18px, auto;
+        }
+      }
     }
 
-		&.show_menu {
-			@media (max-width: $tablet) {
-				#menu {
-					height: auto;
-				}
-				h2 {
-					border-bottom-left-radius: 0;
-					border-bottom-right-radius: 0;
-					box-shadow: none;
-				}
-				ul {
-					border-top-left-radius: 0;
-					border-top-right-radius: 0;
-				}
-			}
-		}
+    @media (max-width: $tablet) {
+      h2.show {
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+        box-shadow: none;
+      }
+      .menu.show {
+        height: auto;
+        ul {
+          border-top-left-radius: 0;
+          border-top-right-radius: 0;
+        }
+      }
+    }
   }
 
   .main {
@@ -230,10 +232,27 @@ a {
 
     p {
       margin: 0 0 $margin-big $text-indent;
+
+      &.preparing {
+        margin: $margin-small 0 0 $margin-big;
+        padding: $margin-small;
+        background: $white;
+        color: $green;
+        border: 1px solid #E0E0E0;
+        border-radius: 10px;
+        font-weight: bold;
+        text-align: center;
+        float: right;
+
+        @media (max-width: $tablet) {
+          margin-left: 0;
+          float: none;
+        }
+      }
     }
-		ul, ol {
-			margin-left: $text-indent + 17px;
-		}
+    ul, ol {
+      margin-left: $text-indent + 17px;
+    }
     li {
       margin: $margin-small 0;
     }
@@ -242,53 +261,53 @@ a {
       max-width: 100%;
     }
 
-		code {
-			border: 1px solid #aaa;
-			background: $white;
-			padding: 1px 3px;
-			border-radius: 4px;
-			white-space: nowrap;
-		}
-		
-		.map_label {
-			position: relative;
-			div {
-				position: absolute;
-				width: 300px;
-				height: auto;
-				left: -150px;
-				top: -58px;
-			}
-			p {
-				margin: 0 auto;
-				line-height: 1.2;
-				text-align: center;
-				white-space: nowrap;
-				span {
-					display: inline-block;
-					padding: 4px 10px;
-					background: #333 url("/images/map-label-gradient.png") repeat-x right top;
-					color: #fff;
-					font: {
-						size: 11px;
-						weight: bold;
-					};
-					border-radius: 6px;
-				}
-			}
-		}
+    code {
+      border: 1px solid #aaa;
+      background: $white;
+      padding: 1px 3px;
+      border-radius: 4px;
+      white-space: nowrap;
+    }
+
+    .map_label {
+      position: relative;
+      div {
+        position: absolute;
+        width: 300px;
+        height: auto;
+        left: -150px;
+        top: -58px;
+      }
+      p {
+        margin: 0 auto;
+        line-height: 1.2;
+        text-align: center;
+        white-space: nowrap;
+        span {
+          display: inline-block;
+          padding: 4px 10px;
+          background: #333 url("/images/map-label-gradient.png") repeat-x right top;
+          color: #fff;
+          font: {
+            size: 11px;
+            weight: bold;
+          };
+          border-radius: 6px;
+        }
+      }
+    }
   }
 }
 
 .footer {
-	margin: 5px $margin-flex;
+  margin: 5px $margin-flex;
 
   ul li {
     display: inline-block;
     margin: 3px 20px 3px 0;
-		color: #666;
-		a {
-			color: $dark-green;
-		}
+    color: #666;
+    a {
+      color: $dark-green;
+    }
   }
 }
