@@ -5,11 +5,11 @@ title: OpenHack - Rochester, NY
 
 ## Rochester, NY
 
-![Rochester, NY, US](./openhack-jan.jpg)
+![Rochester, NY, US](/openhack-jan.jpg)
 
 ### Info
 
-OpenHack Rochester happens the last Wednesday of each month at [Smokestack Cowork](http://sphotos-b.xx.fbcdn.net/hphotos-ash4/394942_410711785675698_665305096_n.jpg).
+OpenHack Rochester happens the last Wednesday of each month at [Smokestack Cowork](http://smokestackcowork.com).
 
 
 [RSVP on NextPlex](http://nextplex.com/rochester-ny/calendar/events/3432-openhack-rochester), and follow us on Twitter at [@OpenHackROC](https://twitter.com/OpenHackROC).
