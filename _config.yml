@@ -55,6 +55,10 @@ cities:
     name: Fort Wayne, IN
     latitude: 41.079273
     longitude: -85.1393513
+- frederick:
+    name: Frederick, MD
+    latitude: 39.4140561
+    longitude: -77.40889179999999
 - green_bay:
     name: Green Bay, WI
     latitude: 44.51915899999999
