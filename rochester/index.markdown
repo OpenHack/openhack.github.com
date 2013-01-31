@@ -5,7 +5,7 @@ title: OpenHack - Rochester, NY
 
 ## Rochester, NY
 
-![Rochester, NY, US](/openhack-jan.jpg)
+![Rochester, NY, US](/rochester/openhack-jan.jpg)
 
 ### Info
 
