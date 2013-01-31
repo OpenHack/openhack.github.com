@@ -47,6 +47,10 @@ cities:
     name: Dayton, OH
     latitude: 39.7589478
     longitude: -84.1916069
+- dublin:
+    name: Dublin, Ireland
+    latitude: 53.3399637
+    longitude: -6.259983099999999
 - fortwayne:
     name: Fort Wayne, IN
     latitude: 41.079273
