@@ -15,6 +15,10 @@ cities:
     name: Baltimore, MD
     latitude: 39.281633
     longitude: -76.5811712
+- bangalore:
+    name: Bangalore, India
+    latitude: 12.9715987
+    longitude: 77.5945627
 - beijing:
     name: Beijing, China
     latitude: 39.90403
