@@ -127,6 +127,10 @@ cities:
     name: Rochester, NY
     latitude: 43.1621834
     longitude: -77.620859
+- san_antonio:
+    name: San Antonio, TX
+    latitude: 29.4241219
+    longitude: -98.49362819999999
 - santa_barbara:
     name: Santa Barbara, CA
     latitude: 34.431903
