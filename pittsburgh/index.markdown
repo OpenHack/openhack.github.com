@@ -9,15 +9,14 @@ title: OpenHack - Pittsburgh
 
 ![January 2013 OpenHackPGH](/pittsburgh/images/2013-01/general-talking.jpg)
 
-OpenHack Pittsburgh is held on the third Monday of every month, from 7-9pm.
+OpenHack Pittsburgh is held on the third Monday of every month, from 6:00-9pm.
 
 Follow us on Twitter for timely updates: [@OpenHackPGH](http://twitter.com/OpenHackPGH)
 
 ### Meetings
 
-- February 25, 2013 - *RSVP COMING SOON*
-
-Please RSVP so we know how much food to provide!
+*February 25, 2013*
+6:00pm at The Beauty Shoppe's new event space 6016 Penn ave, PGH PA 15206 _RSVP COMING SOON_
 
 ### Previous Meetings
 
