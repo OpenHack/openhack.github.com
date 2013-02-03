@@ -15,8 +15,11 @@ Follow us on Twitter for timely updates: [@OpenHackPGH](http://twitter.com/OpenH
 
 ### Meetings
 
-*February 25, 2013*
-6:00pm at The Beauty Shoppe's new event space 6016 Penn ave, PGH PA 15206 _RSVP COMING SOON_
+**February 25, 2013**
+
+6:00pm at The Beauty Shoppe's new event space 6016 Penn ave, PGH PA 15206 
+
+*RSVP COMING SOON*
 
 ### Previous Meetings
 
