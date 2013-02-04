@@ -10,7 +10,7 @@ _Photo Used via Creative Commons from [afagen](http://www.flickr.com/photos/afag
 
 ## Info
 
-We just started the [http://twitter.com/search?q=%23FrederickMD](#FrederickMD) OpenHack when we saw the OpenHack project. As such we're still pretty early in the process, but we want to meet when you do! Just ping us at our other locations to coordinate what works best for your schedule.
+We just started the [#FrederickMD](http://twitter.com/search?q=%23FrederickMD) OpenHack when we saw the OpenHack project. As such we're still pretty early in the process, but we want to meet when you do! Just ping us at our other groups to coordinate what works best for your schedule.
 
 ## Local Technology Meetups
 
