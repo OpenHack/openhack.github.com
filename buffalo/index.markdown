@@ -9,14 +9,14 @@ title: OpenHack - Buffalo, NY
 
 ### Info
 
-OpenHack Buffalo meets at [CoworkBuffalo](http://coworkbuffalo.com) every other Tuesday at 7pm.
+OpenHack Buffalo meets at [CoworkBuffalo](http://coworkbuffalo.com) on the 1st and 3rd Tuesdays of the month.
 
-Please RSVP on [Meetup](http://www.meetup.com/Western-New-York-Ruby/) so we know how much food to get!
+Please RSVP on NextPlex below so we know how much food to get!
 
 ### Next meetups
 
-* [January 15, 2013](http://www.meetup.com/Western-New-York-Ruby/events/dfqlpdyrcbtb/)
-* [January 29, 2013](http://www.meetup.com/Western-New-York-Ruby/events/dfqlpdyrcbmc/)
+* [February 5, 2013](http://nextplex.com/buffalo-ny/calendar/events/3286)
+* [February 19, 2013](http://nextplex.com/buffalo-ny/calendar/events/3287)
 
 ### Past meetups
 
@@ -27,3 +27,5 @@ Please RSVP on [Meetup](http://www.meetup.com/Western-New-York-Ruby/) so we know
 * December 4, 2012 - 18
 * December 18, 2012 - 15
 * January 1, 2013 - 9
+* January 15, 2013 - ~13
+* January 29, 2013 - ~20
