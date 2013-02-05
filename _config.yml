@@ -135,6 +135,10 @@ cities:
     name: Santa Barbara, CA
     latitude: 34.431903
     longitude: -119.848416
+- shanghai:
+    name: Shanghai, China
+    latitude: 31.203405
+    longitude: 121.481323
 - taipei:
     name: Taipei, Taiwan
     latitude: 25.04684
