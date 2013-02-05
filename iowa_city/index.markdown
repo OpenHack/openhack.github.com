@@ -23,12 +23,13 @@ We might get a Meetup account to organize these in the future (they're actually 
 
 Unless otherwise noted, we meet **the 3rd Sunday of each month**.
 
-* 1-4pm on Sunday, January 20th, 2013 at [Busy Coworking](http://busycoworking.com/).  We will be joined by the new [Iowa Open Source Hardware meetup](http://www.meetup.com/Iowa-Open-Source-Hardware-meetup/).  Please [RSVP on our shared Meetup event](http://www.meetup.com/Iowa-Open-Source-Hardware-meetup/events/98860292/).  This will let us better coordinate, and will hopefully lead to more collaboration in the future.  :)
+* 1-4pm on Sunday, February 17th, 2013 at TBD (likely to be [Busy Coworking](http://busycoworking.com/))
 
 ### Past meetups
 
 ![First Meetup](/iowa_city/benjaminoakes_first_meetup.jpg)
 
+* 1-4pm on Sunday, January 20th, 2013 at [Busy Coworking](http://busycoworking.com/).  We were joined by the new [Iowa Open Source Hardware meetup](http://www.meetup.com/Iowa-Open-Source-Hardware-meetup/).  Please [RSVP on our shared Meetup event](http://www.meetup.com/Iowa-Open-Source-Hardware-meetup/events/98860292/).  This will let us better coordinate, and will hopefully lead to more collaboration in the future.  :)
 * 1-4pm on Sunday, December 16th, 2012 at [Busy Coworking](http://busycoworking.com/)
 * 1-4pm on Sunday, November 18th, 2012 at [Busy Coworking](http://busycoworking.com/) (across the street from the Englert)
 
