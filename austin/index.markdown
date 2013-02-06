@@ -7,10 +7,13 @@ title: OpenHack - Austin, TX
 
 ![Austin, TX Skyline](/austin/atx.jpg)
 
-### First Meeting: Wednesday, January 30th, 7PM at Capital Factory
+### Next Meeting: Wednesday, February 13th, 7PM at Capital Factory
 
-We'll be holding our first OpenHack on Wednesday, January 30th at 7PM downtown at Capital Factory.
-The address is 701 Brazos, Austin, TX 78701. [Click here for a Google map](http://goo.gl/maps/mKAtt)
+Our first meeting was a rousing success with almost double the number in attendance as planned!
+Thank you all very much for making OpenHack Austin such an amazing success.
+
+Our next meeting will be in the same place - [Capital Factory (701 Brazos)](http://goo.gl/maps/mKAtt) at 7PM on Wednesday
+the 13th.
 
 For anyone who hasn't been there, there's parking under the building itself (The Austin Centre) (for a fee).
 When you get inside the building, look for elevators to offices in the building. Take that elevator to the 16th floor (top floor).
@@ -26,8 +29,9 @@ We'll also generally try to keep this page updated at all times.
 
 ### Format
 
-We're going to have a little structure around our first meeting (but not too much) to see how it goes. The idea is to
-use some structure to grease the wheels a little bit and get things rolling.
+We have a *little* structure around our meetings to give people a chance to speak, bounce ideas off
+others, and "break the ice" for anyone who hasn't met before. We tried this during our first meeting
+and it went rather well, so we'll stick with it until folks tell us otherwise:
 
 - 7:00PM  Meet at CF
 - 7:15PM  Introductions (stand-up style)
@@ -58,18 +62,21 @@ that are what the tribe session is meant for, and we want to provide an open, of
 other for help in their present challenge. Maybe some one has experience, a book, or a contact who can help you out. This
 gives each of us a chance to leverage the group's "tribal knowledge" to solve a problem.
 
-We'll wrap up between 10:30 and 11PM and invite everyone out for drinks (of course totally optional) afterward.
+We'll wrap up between 10:30 and 11PM.
 
 ### How often are you running OpenHack ATX?
 
-We're not sure yet. We're going to start it up at once a month for now and if it catches on and folks want it,
-we could potentially move to every other week, venue willing.
+We originally planned on once per month, but by popular request at our first meeting,
+we're now aiming at twice per month. We'll announce February meetup number 2 as soon
+as the dates are finalized (though we're 99% there already). We're aiming for a
+Wednesday meetup, and a Thursday meetup with a week spread in between (roughly).
+
+Meetings are announced here, via Twitter, and through our mailing list.
 
 ### Other, similar options
 
 If you're looking for other options (maybe that day doesn't work for you), there's [Cafe Bedouins](http://cafebedouins.com/).
-They generally meet every Tuesday at a coffee shop or other similar location at 7PM. It's not as structured as above, and
-could end up being more social than OpenHack (we just kind of have to see how that goes), but it's another option for you
+They generally meet every Tuesday at a coffee shop or other similar location at 7PM. It's not as structured as above, but it's another option for you
 to get in on as well.
 
 There's also a Meetup.com group we've been made aware of that may interest you, called the
@@ -78,7 +85,10 @@ at the Opa Coffee and Wine Bar on South Lamar.
 
 ### Sponsors
 
-Our first meeting will be sponsored by the fine folks at [Engine Yard](http://www.engineyard.com) and [GitHub](http://www.github.com).
+We're interested in a diversity of sponsors. If your company is interested in sponsoring OpenHack, please let us know
+via Twitter or the mailing list.
+
+Our first meeting was sponsored by the fine folks at [Engine Yard](http://www.engineyard.com) and [GitHub](http://www.github.com).
 
 Engine Yard is a Platform as a Service vendor
 currently supporting PHP, Ruby and Node.js applications. Forget your devops and just hand them the code, and they've got it from there.
