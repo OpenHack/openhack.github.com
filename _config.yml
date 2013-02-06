@@ -83,6 +83,10 @@ cities:
     name: Istanbul,Turkey
     latitude: 41.00527
     longitude: 28.97696
+- ithaca:
+    name: Ithaca, NY
+    latitude: 42.4388483
+    longitude: -76.4989697
 - jersey_city:
     name: Jersey City, NJ
     latitude: 40.72815749999999
