@@ -19,7 +19,7 @@ Follow us on Twitter for timely updates: [@OpenHackPGH](http://twitter.com/OpenH
 
 6:00pm at The Beauty Shoppe's new event space 6016 Penn ave, PGH PA 15206 
 
-*RSVP COMING SOON*
+<a href="http://www.showclix.com/events/16623" border="0" style="text-decoration:none;"><img src="https://s3.amazonaws.com/sc-img/t05.gif" /></a>
 
 ### Previous Meetings
 
