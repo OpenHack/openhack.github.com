@@ -17,13 +17,15 @@ OpenHack Iowa City meets **the 3rd Sunday of each month** to code together, and 
 
 If you have any questions, please contact [@OpenHackIC](http://twitter.com/OpenHackIC) or [@benjaminoakes](http://twitter.com/benjaminoakes).
 
-### Next meetup
+Find us on [Meetup](http://www.meetup.com/Iowa-Open-Source-Hardware-meetup/)
 
-We might get a Meetup account to organize these in the future (they're actually kinda pricy).
+### Next meetup
 
 Unless otherwise noted, we meet **the 3rd Sunday of each month**.
 
-* 1-4pm on Sunday, February 17th, 2013 at TBD (likely to be [Busy Coworking](http://busycoworking.com/))
+For up to date information, please see our [Meetup page](http://www.meetup.com/Iowa-Open-Source-Hardware-meetup/)
+
+* [1-4pm on Sunday, February 17th, 2013](http://www.meetup.com/Iowa-Open-Source-Hardware-meetup/events/104333422/)
 
 ### Past meetups
 
