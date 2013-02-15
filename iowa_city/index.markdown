@@ -19,7 +19,8 @@ If you have any questions, please contact [@OpenHackIC](http://twitter.com/OpenH
 
 Find us on [Meetup](http://www.meetup.com/Iowa-Open-Source-Hardware-meetup/)
 
-<iframe width="225" height="570" src="http://meetu.ps/wQBVK" frameborder="0"></iframe>
+<iframe width="225" height="570" src="http://meetu.ps/wQBVK" frameborder="0">
+</iframe>
 
 ### Next meetup
 
