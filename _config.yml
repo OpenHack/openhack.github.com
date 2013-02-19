@@ -1,181 +1,185 @@
----
+--- 
 server: true
 markdown: maruku
 auto: true
-cities:
-- atlanta:
+cities: 
+- atlanta: 
     name: Atlanta, GA
     latitude: 33.7489954
     longitude: -84.3879824
-- austin:
+- austin: 
     name: Austin, TX
     latitude: 30.267153
     longitude: -97.7430608
-- baltimore:
+- baltimore: 
     name: Baltimore, MD
     latitude: 39.281633
     longitude: -76.5811712
-- bangalore:
+- bangalore: 
     name: Bangalore, India
     latitude: 12.9715987
     longitude: 77.5945627
-- beijing:
+- beijing: 
     name: Beijing, China
     latitude: 39.90403
     longitude: 116.407526
-- birmingham:
+- bend: 
+    name: Bend, OR
+    latitude: 44.053125
+    longitude: -121.318132
+- birmingham: 
     name: Birmingham, AL
     latitude: 33.5206608
     longitude: -86.80248999999999
-- boston:
+- boston: 
     name: Boston, MA
     latitude: 42.3584308
     longitude: -71.0597732
-- buffalo:
+- buffalo: 
     name: Buffalo, NY
     latitude: 42.88644679999999
     longitude: -78.8783689
-- chicago:
+- chicago: 
     name: Chicago, IL
     latitude: 41.8781136
     longitude: -87.6297982
-- columbia:
+- columbia: 
     name: Columbia, SC
     latitude: 34.0007104
     longitude: -81.0348144
-- columbus:
+- columbus: 
     name: Columbus, OH
     latitude: 39.9611755
     longitude: -82.99879419999999
-- dayton:
+- dayton: 
     name: Dayton, OH
     latitude: 39.7589478
     longitude: -84.1916069
-- dublin:
+- dublin: 
     name: Dublin, Ireland
     latitude: 53.3399637
     longitude: -6.259983099999999
-- fortwayne:
+- fortwayne: 
     name: Fort Wayne, IN
     latitude: 41.079273
     longitude: -85.1393513
-- frederick:
+- frederick: 
     name: Frederick, MD
     latitude: 39.4140561
     longitude: -77.40889179999999
-- green_bay:
+- green_bay: 
     name: Green Bay, WI
     latitude: 44.51915899999999
     longitude: -88.019826
-- honolulu:
+- honolulu: 
     name: Honolulu, HI
     latitude: 21.3069444
     longitude: -157.8583333
-- houghton:
+- houghton: 
     name: Houghton, MI
     latitude: 47.12113309999999
     longitude: -88.5694182
-- iowa_city:
+- iowa_city: 
     name: Iowa City, IA
     latitude: 41.6611277
     longitude: -91.5301683
-- istanbul:
+- istanbul: 
     name: Istanbul,Turkey
     latitude: 41.00527
     longitude: 28.97696
-- ithaca:
+- ithaca: 
     name: Ithaca, NY
     latitude: 42.4388483
     longitude: -76.4989697
-- jersey_city:
+- jersey_city: 
     name: Jersey City, NJ
     latitude: 40.72815749999999
     longitude: -74.0776417
-- kontich:
+- kontich: 
     name: Kontich, Belgium
     latitude: 51.1398236
     longitude: 4.4380337
-- logan:
+- logan: 
     name: Logan, UT
     latitude: 41.7369803
     longitude: -111.8338359
-- louisville:
+- louisville: 
     name: Louisville, KY
     latitude: 38.253777
     longitude: -85.74844399999999
-- manchester:
+- manchester: 
     name: Manchester, NH
     latitude: 42.99663109999999
     longitude: -71.4670062
-- miami:
+- miami: 
     name: Miami, FL
     latitude: 25.7889689
     longitude: -80.2264393
-- naperville:
+- naperville: 
     name: Naperville, IL
     latitude: 41.7858629
     longitude: -88.1472893
-- new_york:
+- new_york: 
     name: New York City, NY
     latitude: 40.7143528
     longitude: -74.00597309999999
-- newcastle_upon_tyne:
+- newcastle_upon_tyne: 
     name: Newcastle upon Tyne, UK
     latitude: 54.969488
     longitude: -1.618375
-- pittsburgh:
+- pittsburgh: 
     name: Pittsburgh, PA
     latitude: 40.44062479999999
     longitude: -79.9958864
-- providence:
+- providence: 
     name: Providence, RI
     latitude: 41.8239891
     longitude: -71.4128343
-- rochester:
+- rochester: 
     name: Rochester, NY
     latitude: 43.1621834
     longitude: -77.620859
-- san_antonio:
+- san_antonio: 
     name: San Antonio, TX
     latitude: 29.4241219
     longitude: -98.49362819999999
-- santa_barbara:
+- santa_barbara: 
     name: Santa Barbara, CA
     latitude: 34.431903
     longitude: -119.848416
-- shanghai:
+- shanghai: 
     name: Shanghai, China
     latitude: 31.203405
     longitude: 121.481323
-- taipei:
+- taipei: 
     name: Taipei, Taiwan
     latitude: 25.04684
     longitude: 121.51737
-- toledo:
+- toledo: 
     name: Toledo, OH
     latitude: 41.6639
     longitude: -83.5553
-- toronto:
+- toronto: 
     name: Toronto, ON
     latitude: 43.653226
     longitude: -79.3831843
-- tulsa:
+- tulsa: 
     name: Tulsa, OK
     latitude: 36.1539
     longitude: -95.9925
-- valencia:
+- valencia: 
     name: Valencia, Spain
     latitude: 39.4721254
     longitude: -0.3572383
-- vancouver:
+- vancouver: 
     name: Vancouver, BC
     latitude: 49.261226
     longitude: -123.1139268
-- waterloo:
+- waterloo: 
     name: Waterloo, ON
     latitude: 43.4642578
     longitude: -80.5204096
-- windsor:
+- windsor: 
     name: Windsor, ON
     latitude: 42.3183446
     longitude: -83.0342423
