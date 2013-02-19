@@ -7,17 +7,27 @@ title: OpenHack - Austin, TX
 
 ![Austin, TX Skyline](/austin/atx.jpg)
 
-### Next Meeting: Wednesday, February 13th, 7PM at Capital Factory
+### Upcoming Meetings
 
-Our first meeting was a rousing success with almost double the number in attendance as planned!
-Thank you all very much for making OpenHack Austin such an amazing success.
+All our meetings are at 7PM at [Capital Factory (701 Brazos)](http://goo.gl/maps/mKAtt) on either a
+Wednesday or a Thursday. We've worked with the folks at Capital Factory to get the next several meetings
+lined up. Here's the upcoming schedule:
 
-Our next meeting will be in the same place - [Capital Factory (701 Brazos)](http://goo.gl/maps/mKAtt) at 7PM on Wednesday
-the 13th.
+- 2/21
+- 3/6
+- 3/21
+- 4/3
+- 4/18
 
-For anyone who hasn't been there, there's parking under the building itself (The Austin Centre) (for a fee).
-When you get inside the building, look for elevators to offices in the building. Take that elevator to the 16th floor (top floor).
-When you step off, you'll be "at" Capital Factory and should see signage as to where to go from there.
+You'll notice that we're dancing just around the edges of SXSW (March 8-17th) so we *hope* it doesn't cause
+much of a disruption for OpenHack Austin. If you know anyone coming into town for SXSW and they can make it a few days
+early or stay a few days late, have them come out!
+
+For anyone who's never been to Capital Factory, there's parking under the building itself (The Austin Centre) (for a fee).
+When you get inside the building, look for elevators to offices in the building (should be on the opposite side of the hotel lobby
+from where the parking garage elevators are). Take that elevator to the 16th floor (top floor).
+When you step off, you'll be "at" Capital Factory and should see signage as to where to go from there, or just ask for Nicholle.
+She runs the events there and can show you where we'll be.
 
 ### Mailing List, Twitter
 
@@ -37,7 +47,6 @@ and it went rather well, so we'll stick with it until folks tell us otherwise:
 - 7:15PM  Introductions (stand-up style)
 - 7:30PM  Hack
 - 10:30PM "Bring it to the Tribe"
-- 11:00PM Hit up a pub if that's your thing
 
 We'll begin with introductions at 7:15. Just say who you are, what you do and where you do it (if you want to),
 what languages/frameworks you work with, and anything else you want to share. This is just to let everybody get to
@@ -66,18 +75,16 @@ We'll wrap up between 10:30 and 11PM.
 
 ### How often are you running OpenHack ATX?
 
-We originally planned on once per month, but by popular request at our first meeting,
-we're now aiming at twice per month. We'll announce February meetup number 2 as soon
-as the dates are finalized (though we're 99% there already). We're aiming for a
-Wednesday meetup, and a Thursday meetup with a week spread in between (roughly).
-
-Meetings are announced here, via Twitter, and through our mailing list.
+Meetings are announced here, via Twitter, and through our mailing list. We're aiming at twice per month - one on a
+Wednesday night, the other on a Thursday night, by popular demand. This is all based on venue availability, so
+may be subject to change. Following us on Twitter and subscribing to our mailing list are the best way to keep up to date
+on our OpenHack schedule.
 
 ### Other, similar options
 
-If you're looking for other options (maybe that day doesn't work for you), there's [Cafe Bedouins](http://cafebedouins.com/).
-They generally meet every Tuesday at a coffee shop or other similar location at 7PM. It's not as structured as above, but it's another option for you
-to get in on as well.
+If you're looking for other options (maybe certain days don't work for you), there's [Cafe Bedouins](http://cafebedouins.com/).
+They generally meet every Tuesday at a coffee shop or other similar location at 7PM.
+It's not as structured as above, but it's another option for you to get in on as well.
 
 There's also a Meetup.com group we've been made aware of that may interest you, called the
 [Austin Pair Programming Circle](http://www.meetup.com/Austin-Pair-Programming-Circle/). While fairly new, they appear to be meeting weekly
@@ -88,15 +95,16 @@ at the Opa Coffee and Wine Bar on South Lamar.
 We're interested in a diversity of sponsors. If your company is interested in sponsoring OpenHack, please let us know
 via Twitter or the mailing list.
 
-Our first meeting was sponsored by the fine folks at [Engine Yard](http://www.engineyard.com) and [GitHub](http://www.github.com).
+Our first several meetings have been sponsored by the fine folks at [Engine Yard](http://www.engineyard.com)
+and [GitHub](http://www.github.com).
 
 Engine Yard is a Platform as a Service vendor
 currently supporting PHP, Ruby and Node.js applications. Forget your devops and just hand them the code, and they've got it from there.
 However you can still exercise a huge amount of control and customization should you want it.
 
 Most of the open source community is already familiar with GitHub; they are the world's leading git source repository host. Account
-signups are very simple, tools for bug and feature tracking exist, and it works great for teams. Push your git repository to GitHub and manage
-your project easily.
+signups are very simple, tools for bug and feature tracking exist, and it works great for teams.
+Push your git repository to GitHub and manage your project easily.
 
 If you'd like more information about either sponsor, please see [J. Austin Hughey](http://twitter.com/jaustinhughey).
 
@@ -104,7 +112,8 @@ If you'd like more information about either sponsor, please see [J. Austin Hughe
 
 If your company would like to sponsor OpenHack Austin, please let us know. We'd like to run different sponsors at different meetups,
 preferrably where each sponsor compliments the other in some way and is of course useful to those who attend OpenHack. So if you're
-interested in sponsorship, please let me (J. Austin Hughey) know (give me a shout on Twitter or something).
+interested in sponsorship, please let me (J. Austin Hughey) know (give me a shout on Twitter or something). Sponsorship just consists
+of pizza and sodas (no alcohol) for the group, and we make your "swag" available to people who attend.
 
 ### We want feedback
 
