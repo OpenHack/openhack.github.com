@@ -111,6 +111,10 @@ cities:
     name: Miami, FL
     latitude: 25.7889689
     longitude: -80.2264393
+- naperville:
+    name: Naperville, IL
+    latitude: 41.7858629
+    longitude: -88.1472893
 - new_york:
     name: New York City, NY
     latitude: 40.7143528
