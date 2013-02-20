@@ -31,6 +31,10 @@ cities:
     name: Bend, OR
     latitude: 44.053125
     longitude: -121.318132
+- boise:
+    name: Boise, ID
+    latitude: 45.494576
+    longitude: -114.143261
 - boston:
     name: Boston, MA
     latitude: 42.3584308
