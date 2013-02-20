@@ -15,6 +15,8 @@ title: OpenHack - London, UK
 
 Newly formed group so still to decide where to meet.
 
+Follow [@OpenHackLDN](http://twitter.com/OpenHackLDN) for updates.
+
 ### Next meetups
 
 * First meeting will hopefully be in March
