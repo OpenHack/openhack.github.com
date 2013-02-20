@@ -27,6 +27,10 @@ cities:
     name: Birmingham, AL
     latitude: 33.5206608
     longitude: -86.80248999999999
+- bend:
+    name: Bend, OR
+    latitude: 44.053125
+    longitude: -121.318132
 - boston:
     name: Boston, MA
     latitude: 42.3584308
