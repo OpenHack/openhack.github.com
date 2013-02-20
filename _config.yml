@@ -99,6 +99,10 @@ cities:
     name: Logan, UT
     latitude: 41.7369803
     longitude: -111.8338359
+- london:
+    name: London, UK
+    latitude: 51.5170986
+    longitude: -0.1460838
 - louisville:
     name: Louisville, KY
     latitude: 38.253777
