@@ -23,14 +23,14 @@ cities:
     name: Beijing, China
     latitude: 39.90403
     longitude: 116.407526
-- birmingham:
-    name: Birmingham, AL
-    latitude: 33.5206608
-    longitude: -86.80248999999999
 - bend:
     name: Bend, OR
     latitude: 44.053125
     longitude: -121.318132
+- birmingham:
+    name: Birmingham, AL
+    latitude: 33.5206608
+    longitude: -86.80248999999999
 - boston:
     name: Boston, MA
     latitude: 42.3584308
@@ -155,6 +155,10 @@ cities:
     name: Shanghai, China
     latitude: 31.203405
     longitude: 121.481323
+- sydney:
+    name: Sydney, Australia
+    latitude: -33.8674869
+    longitude: 151.2069902
 - taipei:
     name: Taipei, Taiwan
     latitude: 25.04684
