@@ -23,7 +23,7 @@ Hosted by [10to1](http://10to1.be).
 
 - [Thursday 21 februari 2013](https://plus.google.com/events/cpvqhk3n9pb7089au7h4euqdgd0)
 
-See the [calender](https://www.google.com/calendar/embed?src=74bgcbj8qtbqkcdj8iggp5grdc%40group.calendar.google.com&ctz=Europe/Brussels) for all the next meetups.
+See the [calendar](https://www.google.com/calendar/embed?src=74bgcbj8qtbqkcdj8iggp5grdc%40group.calendar.google.com&ctz=Europe/Brussels) for all the next meetups.
 
 ### Past meetups
 
