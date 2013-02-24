@@ -35,6 +35,10 @@ cities:
     name: Boston, MA
     latitude: 42.3584308
     longitude: -71.0597732
+- bristol:
+    name: Bristol, UK
+    latitude: 51.4522387
+    longitude: -2.5900163
 - buffalo:
     name: Buffalo, NY
     latitude: 42.88644679999999
