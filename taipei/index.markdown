@@ -24,20 +24,20 @@ for English and Chinese speakers.
 ### Next meetup
 
 <div class="vevent">
- <p><strong class="summary">OpenHack Taipei February</strong><br>
- <span class="description">Latest event before the Chinese New Year with local hackers. Code together, on anything. See event page on <a href="https://www.facebook.com/events/405904459495612/">Facebook</a> or <a href="https://plus.google.com/b/115727541741204190730/events/cv5pghpcpnl6ed1h4a2bprapagg">Google+</a>.</span><br>
+ <p><strong class="summary">OpenHack March</strong><br>
+ <span class="description">Code together, on anything, with local hackers.  See event page on <a href="https://www.facebook.com/events/509444522441279/">Facebook</a> or <a href="https://plus.google.com/events/ctboursfcc0unt3c2dtp9cd7upg">Google+</a>.</span><br>
  When:
    <span class="dtstart">
-      2013 Feb 3, Sunday, 7:00PM<span class="value-title" title="2013-02-03T19:00+08:00"></span>
+      2013 March 17, Sunday, 6:00PM<span class="value-title" title="2013-03-17T18:00+08:00"></span>
    </span>-
    <span class="dtend">
-      10:00PM<span class="value-title" title="2013-02-03T22:00+08:00"></span>
+      10:00PM<span class="value-title" title="2013-03-17T22:00+08:00"></span>
    </span><br>
   Where:
    <span class="location vcard">
       <span class="fn org"><a href="https://www.facebook.com/pages/%E6%B7%B7_hun/289420404471011">混_Hun</a> café/co-working space</span>,
       <span class="adr">
-         <span class="street-address">和平東路一段104巷6號</span>,
+         <a href="https://plus.google.com/117628452150644414037/about"><span class="street-address">和平東路一段104巷6號</span></a>,
          <span class="locality">Taipei</span>,
          <span class="country">Taiwan</span>
       </span>
@@ -58,6 +58,7 @@ for English and Chinese speakers.
 
 ### Past meetups
 
+* *2013 February 3, Sunday* at the usual place.
 * *2013 January 12, Saturday* at [混_Hun][hun] café/co-working space, event page [on Facebook][meetup2fb] or [on Google+][meetup2gp]. Again [a bunch of photos](https://plus.google.com/b/115727541741204190730/photos/115727541741204190730/albums/5832504112078932049) from the event.
 * *2012 December 15* at [混_Hun][hun] café/co-working space, event page [on Facebook][meetup1fb] or [on Google+][meetup1gp]. We have [a bunch of photos](https://plus.google.com/photos/116948925972911973649/albums/5822326740327191329) from the event. People worked on (not exhaustive list and in no particular order): installing Linux for the first time, 3D modeling, desktop publishing, 24pullrequests, iOS development, Arduino sensors, web development.
 
