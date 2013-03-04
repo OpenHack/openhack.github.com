@@ -15,8 +15,8 @@ Please RSVP on NextPlex below so we know how much food to get!
 
 ### Next meetups
 
-* [February 5, 2013](http://nextplex.com/buffalo-ny/calendar/events/3286)
-* [February 19, 2013](http://nextplex.com/buffalo-ny/calendar/events/3287)
+* [March 5, 2013](http://nextplex.com/buffalo-ny/calendar/events/4496-openhack-march-1-0)
+* [March 19, 2013](hthttp://nextplex.com/buffalo-ny/calendar/events/4497-openhack-march-2-0)
 
 ### Past meetups
 
@@ -29,3 +29,5 @@ Please RSVP on NextPlex below so we know how much food to get!
 * January 1, 2013 - 9
 * January 15, 2013 - ~13
 * January 29, 2013 - ~20
+* February 5, 2013 - ~10
+* February 19, 2013 - ~10
