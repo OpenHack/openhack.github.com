@@ -5,7 +5,7 @@ title: OpenHack - Green Bay
 
 ## Green Bay
 
-![Photo of your meetup or city!](/green_bay/our_space.jpeg)
+![Photo of your meetup or city!](https://github.com/OpenHack/openhack.github.com/blob/master/green_bay/our_space.jpeg?raw=true)
 
 ### Info
 
@@ -30,4 +30,4 @@ We currently meet every Thursday (RSVP to [the Meetup Group](http://greenbayrug.
 
 Here's a pic from our very first meetup with just two of us :) Chris in the photo and Jon taking it.
 
-![First meetup](/green_bay/first_meetup.jpeg)
+![First meetup](https://github.com/OpenHack/openhack.github.com/blob/master/green_bay/first_meetup.jpeg?raw=true)
