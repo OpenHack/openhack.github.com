@@ -21,11 +21,13 @@ Hosted by [10to1](http://10to1.be).
 
 ### Next meetups
 
-- [Thursday 21 februari 2013](https://plus.google.com/events/cpvqhk3n9pb7089au7h4euqdgd0)
+- [Thursday 21 march 2013](https://plus.google.com/events/cbkulglae4g21f3ab86h773cmbc)
 
 See the [calendar](https://www.google.com/calendar/embed?src=74bgcbj8qtbqkcdj8iggp5grdc%40group.calendar.google.com&ctz=Europe/Brussels) for all the next meetups.
 
 ### Past meetups
+
+- [Thursday 21 februari 2013](https://plus.google.com/events/cpvqhk3n9pb7089au7h4euqdgd0)
 
 - [Thursday 24 januari 2013](https://plus.google.com/events/c9a0i60j1o70as08fiq06v7qk40)
 
