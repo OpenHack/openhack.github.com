@@ -21,7 +21,7 @@ Follow us on Twitter for timely updates: [@OpenHackPGH](http://twitter.com/OpenH
 
 ### Meetings
 
-**February 25, 2013**
+**March 25, 2013**
 
 6:00pm at The Beauty Shoppe's new event space 6101 Penn ave, PGH PA 15206
 
@@ -29,6 +29,7 @@ Follow us on Twitter for timely updates: [@OpenHackPGH](http://twitter.com/OpenH
 
 ### Previous Meetings
 
+- [February 25, 2013](#)
 - [January 21, 2013](http://www.meetup.com/pittsburgh-ruby/events/96033112/)
 
 ### Contact
