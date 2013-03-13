@@ -27,14 +27,14 @@ cities:
     name: Bend, OR
     latitude: 44.053125
     longitude: -121.318132
-- boise:
-    name: Boise, ID
-    latitude: 45.494576
-    longitude: -114.143261
 - birmingham:
     name: Birmingham, AL
     latitude: 33.5206608
     longitude: -86.80248999999999
+- boise:
+    name: Boise, ID
+    latitude: 45.494576
+    longitude: -114.143261
 - boston:
     name: Boston, MA
     latitude: 42.3584308
@@ -155,6 +155,10 @@ cities:
     name: San Antonio, TX
     latitude: 29.4241219
     longitude: -98.49362819999999
+- san_francisco:
+    name: San Francisco, CA
+    latitude: 37.7749295
+    longitude: -122.4194155
 - santa_barbara:
     name: Santa Barbara, CA
     latitude: 34.431903
