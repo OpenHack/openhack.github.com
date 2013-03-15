@@ -51,6 +51,10 @@ cities:
     name: Chicago, IL
     latitude: 41.8781136
     longitude: -87.6297982
+- cincinnati:
+    name: Cincinnati, OH
+    latitude: 39.102945
+    longitude: -84.508684
 - columbia:
     name: Columbia, SC
     latitude: 34.0007104
