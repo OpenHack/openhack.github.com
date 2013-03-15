@@ -5,7 +5,7 @@ title: OpenHack - Cincinnati, OH
 
 ## Cincinnati, OH
 
-![Photo of your meetup or city!](/cincinnati/FILL_ME_IN.png)
+![Photo of your meetup or city!](/cincinnati/cincinnati.jpg)
 
 ### Info
 
