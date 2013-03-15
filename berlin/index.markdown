@@ -5,17 +5,17 @@ title: OpenHack - Berlin, Germany
 
 ## Berlin, Germany
 
-![Photo of your meetup or city!](/berlin/FILL_ME_IN.png)
-
 ### Info
 
-Put some info about when and where your meetup is here.
+This OpenHack meetup is still in it's early stages. We set up some basic things to organize
+future meetups:
+
+* [OpenHackBER on Twitter](http://twitter.com/OpenHackBER)
+* [Google Group](https://groups.google.com/forum/#!forum/openhack-berlin)
+* [Meetup.com](http://www.meetup.com/Openhack-Berlin)
+
+Watch any of these to stay in the loop about upcoming meetups.
 
 ### Next meetups
 
-* [First meetup](http://)
-* [Second Meetup](http://)
-
-### Past meetups
-
-Put down how many people came, maybe some photos or other fun stuff down here!
+Not yet. Have a location? Let [us](http://twitter.com/OpenHackBER) know!
