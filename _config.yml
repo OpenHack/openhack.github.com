@@ -27,6 +27,10 @@ cities:
     name: Bend, OR
     latitude: 44.053125
     longitude: -121.318132
+- berlin:
+    name: Berlin, Germany
+    latitude: 52.519171
+    longitude: 13.4060912
 - birmingham:
     name: Birmingham, AL
     latitude: 33.5206608
