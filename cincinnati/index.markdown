@@ -9,4 +9,4 @@ title: OpenHack - Cincinnati, OH
 
 ### Info
 
-First meetup is @ Cintrifuse, March 28th @ 6:30pm-9pmish.
+[OpenHack Cincinnati on Meetup](http://www.meetup.com/OpenHack-Cincinnati/)
