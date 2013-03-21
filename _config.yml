@@ -75,6 +75,10 @@ cities:
     name: Dublin, Ireland
     latitude: 53.3399637
     longitude: -6.259983099999999
+- erie:
+    name: Erie, PA
+    latitude: 42.12922409999999
+    longitude: -80.085059
 - fortwayne:
     name: Fort Wayne, IN
     latitude: 41.079273
