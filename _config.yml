@@ -151,6 +151,10 @@ cities:
     name: Newcastle upon Tyne, UK
     latitude: 54.969488
     longitude: -1.618375
+- philadelphia:
+    name: Philadelphia, PA
+    latitude: 39.952335
+    longitude: -75.16378900000001
 - pittsburgh:
     name: Pittsburgh, PA
     latitude: 40.44062479999999
