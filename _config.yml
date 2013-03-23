@@ -139,6 +139,10 @@ cities:
     name: Miami, FL
     latitude: 25.7889689
     longitude: -80.2264393
+- munich:
+    name: Munich, Germany
+    latitude: 48.1430014
+    longitude: 11.5399758
 - naperville:
     name: Naperville, IL
     latitude: 41.7858629
