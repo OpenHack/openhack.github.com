@@ -19,13 +19,23 @@ Follow us on Twitter for timely updates [@OpenHackEri](http://twitter.com/OpenHa
 
 ### Meetings
 
-**First Meeting March 21, 2013**
+**Hang Man App April 18, 2013**
+
+This months challenge is to create a hang man web application. 
+
+Features
+* One Player
+* Play Against the Computer
+* Play Against another player on the same computer
+* Play Against another player over the web.
 
 7:00pm at the Brick House Coffee Bar 3741 West 26th Street, ERIE PA 16506
 
+* [April Meetup](http://www.meetup.com/erie-rb/events/110256172/)
+
 ### Next meetups
 
-* [April Meetup](http://www.meetup.com/erie-rb/events/110256172/)
+* [May Meetup](http://www.meetup.com/erie-rb/events/110777832/)
 
 ### Contact
 
