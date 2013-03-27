@@ -12,10 +12,12 @@ OpenHack NYC meets about once a month to hang out and code together. The event i
 [Meetup Group](http://www.meetup.com/Open-Hack-NYC/)
 
 ### Next Meetup
+[March 30, 2013 at Flatiron School](http://www.meetup.com/Open-Hack-NYC/events/111241752/)
 
-[March 16, 2013 at Flatiron School](http://www.meetup.com/Open-Hack-NYC/events/108457492/)
 
-Previous Meetups
+### Previous Meetups
 
-- [March 9th, 2013](http://www.meetup.com/Open-Hack-NYC/events/102726842/)
-- [November 14th, 2013](http://www.meetup.com/Open-Hack-NYC/events/88304872/)
+- [March 23, 2013 at Flatiron School](http://www.meetup.com/Open-Hack-NYC/events/109596302/)
+- [March 16, 2013 at Flatiron School](http://www.meetup.com/Open-Hack-NYC/events/108457492/)
+- [March 9th, 2013 at Flatiron School](http://www.meetup.com/Open-Hack-NYC/events/102726842/)
+- [November 14th, 2013 at Flatiron School](http://www.meetup.com/Open-Hack-NYC/events/88304872/)
