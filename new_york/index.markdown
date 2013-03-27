@@ -7,9 +7,9 @@ title: OpenHack - New York
 
 ### Info
 
-OpenHack NYC meets about once a month to hang out and code together. The event is open to programmers of all skill levels and from any programming community.
+OpenHack NYC meets whenever and wherever to hang out and code together. The event is open to programmers of all skill levels and from any programming community. Want to host a hack? Propose it on the [Meetup Group](http://www.meetup.com/Open-Hack-NYC/).
 
-[Meetup Group](http://www.meetup.com/Open-Hack-NYC/)
+[Join For Updates](http://www.meetup.com/Open-Hack-NYC/).
 
 ### Next Meetup
 [March 30, 2013 at Flatiron School](http://www.meetup.com/Open-Hack-NYC/events/111241752/)
