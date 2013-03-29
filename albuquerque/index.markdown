@@ -5,6 +5,8 @@ title: OpenHack - Albuquerque, NM
 
 ## Albuquerque, NM
 
+![Albuquerque, NM Sandia](/albuquerque/sandia_drywall.jpg)
+
 ### Info
 
 OpenHack ABQ's first meetup will be taking place on **April 18, 2013** at
@@ -26,7 +28,6 @@ The first meetup will be at Convivium Coworking starting at 6:00pm located at:
 5924 Anaheim Ave NE  
 Albuquerque, NM 87113
 
-_Many_ thanks to Convivium Coworking for sponsoring our first meeting!
 
 [Map](http://goo.gl/maps/5y7xs)
 
@@ -37,3 +38,12 @@ speed on the happenings.
 
 Contact [Geoff Petrie](mailto:g.petrie+openhack@gmail.com) for more
 information.
+
+### Thank Yous
+
+Thank you to [Convivium Coworking](http://www.conviviumcoworking.com/) for
+providing a space for our first meeting!
+
+Thank you to [Ben Byrne](http://www.flickr.com/photos/drywall/) for providing
+us with the photo of the [Sandia
+Mountains](http://www.flickr.com/photos/drywall/2888810632/).
