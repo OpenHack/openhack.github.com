@@ -3,6 +3,10 @@ server: true
 markdown: maruku
 auto: true
 cities:
+- albuquerque:
+    name: Albuquerque, NM
+    latitude: 35.110703
+    longitude: -106.609991
 - atlanta:
     name: Atlanta, GA
     latitude: 33.7489954
