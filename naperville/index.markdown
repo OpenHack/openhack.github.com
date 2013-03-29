@@ -26,7 +26,7 @@ Hope to see you there!!
 
 ### Next Meetup
 
-Our first meetup went so well, we're doing this again! Date TBD.
+Our next meetup is planned for April 23rd at 6:30 -- please RSVP on our [Meetup page](http://www.meetup.com/OpenHack-Naperville/).
 
 ### Past Meetups
 
