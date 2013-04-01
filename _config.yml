@@ -199,8 +199,8 @@ cities:
     name: Taipei, Taiwan
     latitude: 25.04684
     longitude: 121.51737
-- tallahasse:
-    name: Tallahasse, FL
+- tallahassee:
+    name: Tallahassee, FL
     latitude: 30.43429
     longitude: -84.28942699999999
 - toledo:
