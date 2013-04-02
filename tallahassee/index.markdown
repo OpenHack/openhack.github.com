@@ -1,16 +1,16 @@
 ---
 layout: default
-title: OpenHack - Tallahasse, FL
+title: OpenHack - Tallahassee, FL
 ---
 
-## Tallahasse, FL
+## Tallahassee, FL
 
 ![TALLAHASSEE FLORIDA!](http://www.talgov.com/Uploads/Public/sldr_pln_wayfinding.png)
 
 ### Info
 OpenHack Tallahassee: Code together, on anything, in Tally!
 
-We're a group of developers, tinkerers, programmers, designers, students, professionals....and more. Tallahasse has a young, intelligent and vibrant culture.
+We're a group of developers, tinkerers, programmers, designers, students, professionals....and more. Tallahassee has a young, intelligent and vibrant culture.
 Our meetups should be about seeing what comes out of that culture when a bunch of local hackers get together.
 
 Everyone is welcome. All ages and experience levels.
@@ -18,7 +18,7 @@ Everyone is welcome. All ages and experience levels.
 
 For a rundown on the OpenHack basics - [read this](/#the_basics)
 
-### Meetup Locations
+### Locations
 I think we have many possible locations. I will find a  way that will allow us to vote soon, <br />for now here are the options I had in mind.
 >
 >1. [All Saints Cafe](http://www.allsaintscafe.com/)
@@ -30,7 +30,7 @@ I think we have many possible locations. I will find a  way that will allow us t
 >7. Name a place...
 
 <br />
-### Sign Up Here
+### Sign Up
 
 Best thing to do is get an email chain going. <br />That will let us know who's interested and allow us all to plan future meetups. <br />
 
