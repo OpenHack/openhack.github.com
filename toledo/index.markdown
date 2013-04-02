@@ -21,14 +21,18 @@ We are currently looking for sponsors to help provide food and beverages. If you
 
 We announce future meetups via our [Twitter](http://twitter.com/openhacktoledo) account. Follow that if you wish.
 
-**Monday, February 4th**
+**Monday, April 15th**
 
 ### Past meetups
 
-**Monday, January 21st**
+**Monday, March 19th**
 
-**Monday, December 17th**
+**Monday, March 5th**
 
-**Monday, December 3rd**
+**Monday, February 19th**
 
-**Monday, November 19th**
+**Monday, February 5th**
+
+### Contact Info
+
+Andrew "Sticky" Lynch is the host of Toledo Openhack.  You can get in contact with him at [aklynch11us@gmail.com](mailto:aklynch11us@gmail.com).  Please email me with any suggestions or critiques to improve Openhack Toledo!
