@@ -15,6 +15,8 @@ Things that don't matter: programming languages, expertise, age or gender.
 
 ### Contact
 
+Follow [@OpenHackBLR](https://twitter.com/OpenHackBLR) on twitter for latest updates.
+
 Send a mail to openhackbangalore@gmail.com if :
 
 * You need more information about the OpenHack events
