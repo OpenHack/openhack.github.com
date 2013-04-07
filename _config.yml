@@ -55,6 +55,10 @@ cities:
     name: Buffalo, NY
     latitude: 42.88644679999999
     longitude: -78.8783689
+- calgary:
+    name: Calgary, AB
+    latitude: 51.0419341
+    longitude: -114.0360957
 - chicago:
     name: Chicago, IL
     latitude: 41.8781136
