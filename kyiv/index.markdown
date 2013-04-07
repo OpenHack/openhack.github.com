@@ -8,4 +8,4 @@ title: OpenHack - Kyiv, Ukraine
 We are working on bringing OpenHack to ukrainian cities.
 Planning the first event and looking for possible locations!
 
-Check [@OpenHackKyiv](http://twitter.com/OpenHackKiev) or [@OpenHackUkraine](http://twitter.com/OpenHackUkraine) for more info.
+Check [@OpenHackKiev](http://twitter.com/OpenHackKiev) or [@OpenHackUkraine](http://twitter.com/OpenHackUkraine) for more info.
