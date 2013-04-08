@@ -48,7 +48,7 @@ Signing up is easy. <br /> Just register for our newsletter (no spam; pinky swea
 
 [The First Meetup!](https://www.facebook.com/events/111510852352810/)
 
-The first meetup will be held Friday 4/12 @ 5pm. We will meet on FSU's Campus, [Love Building](http://map.campus.fsu.edu/index.aspx?LOV) Rm. 151.
+The first meetup will be held Friday 4/12 @ 7pm. We will meet on FSU's Campus, [Love Building](http://map.campus.fsu.edu/index.aspx?LOV) Rm. 151.
 
 General Info:
 * If you come with an idea to pitch make sure to bring all/any materials you'll need.
