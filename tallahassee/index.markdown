@@ -15,60 +15,49 @@ Our meetups should be about seeing what comes out of that culture when a bunch o
 
 Everyone is welcome. All ages and experience levels.
 
+OpenHackTLH is coordinated by me :-) [Frank](http://about.me/frankv) <br />
+Have any quesitons? Want to help out? Feel free to get in [touch](mailto:fvalcarcel@me.com).
 
-For a rundown on the OpenHack basics - [read this](/#the_basics)
 
+* For a rundown on the OpenHack basics - [read this](/#the_basics)
 
-
-### Locations
-I think we have many possible locations. After some consideration I have removed the libraries. We will decide the location of our first meetup through the survey.
->
->1. [All Saints Cafe](http://www.allsaintscafe.com/)
->2. [Atomic Coffee](http://atomiccoffee.org/)
->3. [Redeye Coffee](http://re3eye.com/)
->4. [What Cafe](http://whatcafe.com/)
->5. [Making Awesome (MakerSpace)](http://makingawesome.org/)
->6. Name a place...
-
-<br />
-<br />
-<br />
-### Survey
-
-<div id="surveyMonkeyInfo"><div><script src="http://www.surveymonkey.com/jsEmbed.aspx?sm=joiNLbVHh_2fxmCCLiNe87LA_3d_3d"> </script></div>Create your free online surveys with <a href="http://www.surveymonkey.com/">SurveyMonkey</a> , the world's leading questionnaire tool.</div>
-
-<br />
 <br />
 <br />
 ### Sign Up
 
-Best thing to do is get an email chain going. <br />That will let us know who's interested and allow us all to plan future meetups. <br />
+Signing up is easy. <br /> Just register for our newsletter (no spam; pinky swear) and be notified of upcoming hacks.<br />
 
-#[Sign up for OpenHack](http://cuttlesoft.us2.list-manage1.com/subscribe?u=0a9c4e6d98c40fc427b9fcf80&id=9edcb2c6c8) and our newsletter
+#[Register Here](http://cuttlesoft.us2.list-manage1.com/subscribe?u=0a9c4e6d98c40fc427b9fcf80&id=9edcb2c6c8)
 
      
 <br />
 <br />
-### Follow OpenHackTLH
+### Follow
 
 <br />
->![OpenHackTLH on Twitter](images/twitter_ohtlh.png)   [@OpenHackTLH](http://www.twitter.com/openhacktlh)
-
-
+<a href="http://www.twitter.com/openhacktlh"><img src="images/twitter-3-512.png" width="24px" align="left" style="padding-right: 10px;">@OpenHackTLH </a>
 <br />
 <br />
-#Map of Locations
-
-<iframe width="600" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?hl=en&amp;gl=us&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=214472835361693166202.0004d9526fb390263a907&amp;t=m&amp;ll=30.449858,-84.285736&amp;spn=0.103589,0.205994&amp;z=12&amp;output=embed"></iframe><br /><small>View <a href="https://maps.google.com/maps/ms?hl=en&amp;gl=us&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=214472835361693166202.0004d9526fb390263a907&amp;t=m&amp;ll=30.449858,-84.285736&amp;spn=0.103589,0.205994&amp;z=12&amp;source=embed" style="color:#0000FF;text-align:left">Openhack Spots</a> in a larger map</small>
+<a href="https://www.facebook.com/groups/620761451272641/"><img src="images/facebook-3-512.png" width="24px" align="left" style="padding-right: 10px;">Facebook Group </a>
 
 
 <br />
-### Next meetups
+<br />
+<br />
+### Meetups
 
-* [First meetup](http://)
-* [Second Meetup](http://)
+[The First Meetup!](https://www.facebook.com/events/111510852352810/)
 
+The first meetup will be held Friday 4/12 @ 5pm. We will meet on FSU's Campus, [Love Building](http://map.campus.fsu.edu/index.aspx?LOV) Rm. 151.
+
+General Info:
+* If you come with an idea to pitch make sure to bring all/any materials you'll need.
+* If you come to code, bring a laptop
+* OpenHackTLH will be providing refreshments (Coffee, Tea, Water, Soda).
+* Remeber to have fun and be patient, this is the first time I've tried to do something like this and I may not be perfect at it first go around.
+
+<br />
 <br />
 ### Past meetups
 
-None yet, but I know Tally can definietly build a strong list in no time.
+I know Tally can definietly build a strong list in no time.
