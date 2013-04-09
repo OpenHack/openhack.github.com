@@ -48,13 +48,15 @@ Signing up is easy. <br /> Just register for our newsletter (no spam; pinky swea
 
 [The First Meetup!](https://www.facebook.com/events/111510852352810/)
 
-The first meetup will be held Friday 4/12 @ 7pm. We will meet on FSU's Campus, [Love Building](http://map.campus.fsu.edu/index.aspx?LOV) Rm. 151.
+The first meetup will be held Friday 4/12 @ **7pm**. We will meet on FSU's Campus, [Love Building](http://map.campus.fsu.edu/index.aspx?LOV) Rm. 151.
+
+**Subscribers to plain-text emails were mailed in incorrect time. Sorry.**
 
 General Info:
 * If you come with an idea to pitch make sure to bring all/any materials you'll need.
 * If you come to code, bring a laptop
 * OpenHackTLH will be providing refreshments (Coffee, Tea, Water, Soda).
-* Remeber to have fun and be patient, this is the first time I've tried to do something like this and I may not be perfect at it first go around.
+* Remember to have fun and be patient, this is the first time I've tried to do something like this and I may not be perfect at it first go around.
 
 <br />
 <br />
