@@ -123,10 +123,18 @@ cities:
     name: Jersey City, NJ
     latitude: 40.72815749999999
     longitude: -74.0776417
+- kharkov:
+    name: Kharkov, Ukraine
+    latitude: 49.9935
+    longitude: 36.230383
 - kontich:
     name: Kontich, Belgium
     latitude: 51.1398236
     longitude: 4.4380337
+- kyiv:
+    name: Kyiv, Ukraine
+    latitude: 50.4501
+    longitude: 30.5234
 - logan:
     name: Logan, UT
     latitude: 41.7369803
@@ -163,6 +171,10 @@ cities:
     name: Newcastle upon Tyne, UK
     latitude: 54.969488
     longitude: -1.618375
+- odessa:
+    name: Odessa, Ukraine
+    latitude: 46.484583
+    longitude: 30.7326
 - philadelphia:
     name: Philadelphia, PA
     latitude: 39.952335
