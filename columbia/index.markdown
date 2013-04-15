@@ -1,21 +1,26 @@
 ---
 layout: default
-title: OpenHack - Columbia
+title: OpenHack - Columbia, SC
 ---
 
-## Columbia
+## Columbia, SC
 
 ![Photo of your meetup or city!](/columbia/Columbia.jpg)
 
 ### Info
 
-OpenHack Columbia meets at [IT-oLogy](http://www.it-ology.org).  Please message Karl McCollester @karlmccollester with suggestions or questions.
+OpenHack Columbia meets alternating months at  [IT-oLogy](http://www.it-ology.org) and [CETi](http://www.uscstartup.org).  Please message Karl McCollester (@karlmccollester) or Raghav Badiger (@itzamyth) with suggestions or questions.
 
 ### Next meetups
 
-* Our [First meetup](http://www.eventbrite.com/event/5939742931) will be on April 8th!
+* Our next [Open Hack](http://www.meetup.com/Open-Hack-Columbia/events/114301232/) is on May 6th at CETi
 
 ### Past meetups
+
+####April 8
+Our first meetup was on April 8th and had about 20 attendees.  Thanks to all the hackers who joined us!
+![picture](https://twitter.com/USCStartUp/status/321388537389932544/photo/1)
+
 
 ### The OpenHack Format
 
