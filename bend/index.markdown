@@ -16,4 +16,4 @@ group](https://plus.google.com/communities/101259262590578399151) and
 
 ### Next meetup
 
-* March 13 2013, 6:00PM @ Tech Space Bend
+* April 17 2013, 6:00PM @ Tech Space Bend

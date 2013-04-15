@@ -16,6 +16,11 @@ title: OpenHack - Shanghai, China
 For more info ask [@michalkow](http://github.com/michalkow/)
 or mail me directly at [kowalkowski.michal@gmail.com](mailto:kowalkowski.michal@gmail.com).
 
-### FIRST MEETUP
+### NEXT MEETUP
 
-* March 23th - We meet at [Shooters 52 Cafe](http://www.smartshanghai.com/venue/9113/shooters_52) at 2 PM.
+* April 13th - We meet at [Shooters 52 Cafe](http://www.smartshanghai.com/venue/9113/shooters_52) at 2 PM.
+
+
+### PAST MEETUPS
+
+* March 23th

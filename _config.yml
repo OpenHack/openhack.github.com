@@ -3,6 +3,10 @@ server: true
 markdown: maruku
 auto: true
 cities:
+- albuquerque:
+    name: Albuquerque, NM
+    latitude: 35.110703
+    longitude: -106.609991
 - atlanta:
     name: Atlanta, GA
     latitude: 33.7489954
@@ -51,6 +55,10 @@ cities:
     name: Buffalo, NY
     latitude: 42.88644679999999
     longitude: -78.8783689
+- calgary:
+    name: Calgary, AB
+    latitude: 51.0419341
+    longitude: -114.0360957
 - chicago:
     name: Chicago, IL
     latitude: 41.8781136
@@ -115,10 +123,18 @@ cities:
     name: Jersey City, NJ
     latitude: 40.72815749999999
     longitude: -74.0776417
+- kharkov:
+    name: Kharkov, Ukraine
+    latitude: 49.9935
+    longitude: 36.230383
 - kontich:
     name: Kontich, Belgium
     latitude: 51.1398236
     longitude: 4.4380337
+- kyiv:
+    name: Kyiv, Ukraine
+    latitude: 50.4501
+    longitude: 30.5234
 - logan:
     name: Logan, UT
     latitude: 41.7369803
@@ -139,6 +155,10 @@ cities:
     name: Miami, FL
     latitude: 25.7889689
     longitude: -80.2264393
+- munich:
+    name: Munich, Germany
+    latitude: 48.1430014
+    longitude: 11.5399758
 - naperville:
     name: Naperville, IL
     latitude: 41.7858629
@@ -151,6 +171,14 @@ cities:
     name: Newcastle upon Tyne, UK
     latitude: 54.969488
     longitude: -1.618375
+- odessa:
+    name: Odessa, Ukraine
+    latitude: 46.484583
+    longitude: 30.7326
+- philadelphia:
+    name: Philadelphia, PA
+    latitude: 39.952335
+    longitude: -75.16378900000001
 - pittsburgh:
     name: Pittsburgh, PA
     latitude: 40.44062479999999
@@ -187,6 +215,10 @@ cities:
     name: Taipei, Taiwan
     latitude: 25.04684
     longitude: 121.51737
+- tallahassee:
+    name: Tallahassee, FL
+    latitude: 30.43429
+    longitude: -84.28942699999999
 - toledo:
     name: Toledo, OH
     latitude: 41.6639
