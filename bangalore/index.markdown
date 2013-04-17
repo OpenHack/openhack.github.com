@@ -34,6 +34,10 @@ First meetup of OpenHack Bangalore !
   RSVP: [Click here](http://gathers.us/events/openhack-bangalore-april-2013)  
   Contact: Emil - +919035152750  
 
+  Please bring :
+  1. Laptop with accessories
+  2. Portable internet dongle(if you have one)
+
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.co.in/maps?q=Bang+The+Table&amp;hl=en&amp;cid=10762884059932635524&amp;gl=IN&amp;t=m&amp;ie=UTF8&amp;iwloc=A&amp;ll=12.976917,77.640542&amp;spn=0.007465,0.011362&amp;output=embed">
 </iframe>
 <br />
