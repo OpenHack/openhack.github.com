@@ -203,6 +203,10 @@ cities:
     name: Santa Barbara, CA
     latitude: 34.431903
     longitude: -119.848416
+- savannah:
+    name: Savannah, GA
+    latitude: 32.0835407
+    longitude: -81.09983419999999
 - shanghai:
     name: Shanghai, China
     latitude: 31.203405
