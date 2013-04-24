@@ -51,6 +51,10 @@ cities:
     name: Bristol, UK
     latitude: 51.4522387
     longitude: -2.5900163
+- brussels:
+    name: Brussels, Belgium
+    latitude: 50.8503396
+    longitude: 4.3517103
 - buffalo:
     name: Buffalo, NY
     latitude: 42.88644679999999
