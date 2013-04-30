@@ -50,9 +50,10 @@ information.
 Thank you to [Convivium Coworking](http://www.conviviumcoworking.com/) for
 providing a space for our first meeting!
 
-Thank you to [Ben Byrne](http://www.flickr.com/photos/drywall/) for providing
-us with the photo of the [Sandia
-Mountains](http://www.flickr.com/photos/drywall/2888810632/).
+**Photo Credits:**  
+[Ben Byrne](http://www.flickr.com/photos/drywall/) - Sandia Mountains header.  
+[James Woodward](https://twitter.com/JMW) - Shots from first event.  
+[Lori Patton](http://design564.com) - B&W group shot from first event.
 
 ### What people are saying
 
