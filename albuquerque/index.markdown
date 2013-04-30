@@ -34,7 +34,8 @@ The first meetup was April 18, 2013 at Convivium Coworking.
 
 Photos from the first event:
 
-![Some of the group](/albuquerque/img/photo03-geoff_petrie.jpg) ![Hard thinking](/albuquerque/img/photo02-james_woodward.jpg) ![A conversation](/albuquerque/img/photo01-james_woodward.jpg)
+![Some of the group](/albuquerque/img/photo03-geoff_petrie.jpg) ![Hard thinking](/albuquerque/img/photo02-james_woodward.jpg)
+![A conversation](/albuquerque/img/photo01-james_woodward.jpg) ![Another group shot](/albuquerque/img/photo04-lori_patton.jpg)
 
 ### Contact
 
@@ -62,6 +63,6 @@ Mountains](http://www.flickr.com/photos/drywall/2888810632/).
 "We got so much work done!"
 
 What's the takeaway from this? It seems clear: Come to OpenHackABQ, get tons of
-work done and offially change your life!
+work done and officially change your life!
 
 **See you there!**
