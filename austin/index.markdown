@@ -7,10 +7,10 @@ title: OpenHack - Austin, TX
 
 ![Austin, TX Skyline](/austin/atx.jpg)
 
-### Next Meeting: May 1st, 7PM at Capital Factory
+### Next Meeting: May 21st, 7PM at Capital Factory
 
 We'll hold our next meeting at 7PM at [Capital Factory (701 Brazos)](http://goo.gl/maps/mKAtt)
-on Wednesday, May 1st.
+on Tuesday, May 21st.
 
 Additionally, we've received a very generous invite by the organizers of AngelHack Austin to participate
 in their global hackathon competition where you can win potentially $100k+ in prizes,
