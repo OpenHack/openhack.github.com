@@ -167,6 +167,10 @@ cities:
     name: Naperville, IL
     latitude: 41.7858629
     longitude: -88.1472893
+- naples:
+    name: Naples, FL
+    latitude: 26.1420358
+    longitude: -81.7948103
 - new_york:
     name: New York City, NY
     latitude: 40.7143528
