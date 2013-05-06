@@ -15,8 +15,8 @@ Please RSVP on NextPlex below so we know how much food to get!
 
 ### Next meetups
 
-* [April 2, 2013](http://nextplex.com/buffalo-ny/calendar/events/5645)
-* [April 16, 2013](http://nextplex.com/buffalo-ny/calendar/events/5646)
+* [May 7, 2013](http://nextplex.com/buffalo-ny/calendar/events/6703)
+* [May 21, 2013](http://nextplex.com/buffalo-ny/calendar/events/6704)
 
 ### Past meetups
 
@@ -33,3 +33,5 @@ Please RSVP on NextPlex below so we know how much food to get!
 * February 19, 2013 - ~10
 * March 5, 2013 - ~10
 * March 19, 2013 - ~13
+* April 2, 2013 - ~15
+* April 16, 2013 - ~15
