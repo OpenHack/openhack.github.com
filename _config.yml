@@ -41,8 +41,8 @@ cities:
     longitude: -86.80248999999999
 - boise:
     name: Boise, ID
-    latitude: 45.494576
-    longitude: -114.143261
+    latitude: 43.589235
+    longitude: -116.256917
 - boston:
     name: Boston, MA
     latitude: 42.3584308
