@@ -31,6 +31,13 @@ Your skill level is irrelevant, your mindset to learn and share is.
 
 Hack nights will be held at Nós Coworking at shopping Total, Porto Alegre, RS, Brazil.
 
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=pt-BR&amp;geocode=&amp;q=Av.+Crist%C3%B3v%C3%A3o+Colombo,+545,+Floresta,+Porto+Alegre+-+RS+90560-000,+Brazil&amp;aq=0&amp;oq=Av.+Crist%C3%B3v%C3%A3o+Colombo,+545+-+Floresta%E2%80%8E+Porto+Alegre+-+RS,+90560-000,+Brazil&amp;sll=37.0625,-95.677068&amp;sspn=42.03917,79.013672&amp;ie=UTF8&amp;hq=&amp;hnear=Av.+Crist%C3%B3v%C3%A3o+Colombo,+545+-+Floresta,+Porto+Alegre+-+Rio+Grande+do+Sul,+90560-000,+Rep%C3%BAblica+Federativa+do+Brasil&amp;ll=-30.025363,-51.212325&amp;spn=0.011258,0.01929&amp;t=m&amp;z=14&amp;output=embed">
+</iframe>
+<br/>
+<br/>
+
+
+
 ### How it works
 
 You participate for free. We still looking for sponsor to provide food & drink.
@@ -68,5 +75,3 @@ Rafael Barboza [@rbarboza](http://twitter.com/rbarboza)
 ### Questions
 
 <openhackpoa@gmail.com>
-
-
