@@ -17,7 +17,11 @@ OpenHackYYC is being organized by [Dave Lee](https://twitter.com/kastiglione).
 
 ### Next meetups
 
-The first meetup is being planned. If you're interested, there are a few ways
-to get in touch, Twitter [@OpenHackYYC](https://twitter.com/OpenHackYYC), email
-[OpenHackYYC@gmail.com](mailto:OpenHackYYC@gmail.com), or open a GitHub Issue
-[openhack.github.com](https://github.com/kastiglione/openhack.github.com/issues).
+Our inaugural meetup will be held Thursday May 23, officially starting at 6pm,
+but feel free to come any time after 5pm. If you plan to attend, please get in
+touch so that the appropriate amount of pizza can be generated.
+
+Beer is sponsored by Molson. Pizza is sponsored by Dave Lee.
+
+[@OpenHackYYC](https://twitter.com/OpenHackYYC), [OpenHackYYC@gmail.com](mailto:OpenHackYYC@gmail.com).
+
