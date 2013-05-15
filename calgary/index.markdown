@@ -27,6 +27,8 @@ OpenHackYYC is being organized by [Dave Lee](https://twitter.com/kastiglione).
 
 ### Next meetups
 
+[OpenHackYYC Meetup](http://www.meetup.com/OpenHackYYC/)
+
 Our inaugural meetup will be held Thursday May 23, officially starting at 6pm,
 but feel free to come any time after 5pm. If you plan to attend, please get in
 touch so that the appropriate amount of pizza can be generated.
