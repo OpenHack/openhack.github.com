@@ -1,7 +1,7 @@
 ---
 layout: default
 
-otitle: OpenHack - Porto Alegre, Brazil
+title: OpenHack - Porto Alegre, Brazil
 ---
 
 ## Porto Alegre, Brazil
