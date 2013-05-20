@@ -46,9 +46,10 @@ Signing up is easy. <br /> Just register for our newsletter (no spam; pinky swea
 <br />
 ### Meetups
 
-[Second Meetup](https://www.facebook.com/events/160272727477368/)
+[Third Meetup](https://www.facebook.com/groups/620761451272641/)
 
-The next meetup will be held Friday 5/17 @ **7pm**. We will meet at [All Saints Cafe](https://maps.google.com/maps?ie=UTF-8&q=all+saints+cafe&fb=1&gl=us&hq=all+saints+cafe&hnear=0x88ec8a5187124b53:0xebee077ad4fdb1f8,Tallahassee,+FL&cid=0,0,16955220979110652242&ei=AxiVUfOyCYTM9gTjs4DgCA&ved=0CLQBEPwSMAA)
+The next meetup will be held Friday 5/31 @ **7pm**.<br />
+I think we're going back to FSU's [Love Building](http://map.campus.fsu.edu/index.aspx?LOV) Rm. 151.
 
 
 General Info:
@@ -60,8 +61,20 @@ General Info:
 <br />
 <br />
 ### Past meetups
+<br />
+####OpenHackTLH's [Second Meetup](https://www.facebook.com/events/160272727477368/)
+* 6 people
+* held Friday 5/17
+* at [All Saints Cafe](https://maps.google.com/maps?ie=UTF-8&q=all+saints+cafe&fb=1&gl=us&hq=all+saints+cafe&hnear=0x88ec8a5187124b53:0xebee077ad4fdb1f8,Tallahassee,+FL&cid=0,0,16955220979110652242&ei=AxiVUfOyCYTM9gTjs4DgCA&ved=0CLQBEPwSMAA)
+<br />
 
-The [The First Meetup!](https://www.facebook.com/events/111510852352810/) had a great turnout...<br /> 
+We had a couple impromptu workshops on git and SQL injection.
+We started a project that will eventually be an FSU hashtag aggregator.
+And someone offered up their truck as a project... next time!
+<br />
+<br />
+<br />
+####The [The First Meetup!](https://www.facebook.com/events/111510852352810/) had a great turnout...
 * 15 people 
 * held Friday 4/12
 * at FSU, [Love Building](http://map.campus.fsu.edu/index.aspx?LOV) Rm. 151.
