@@ -191,6 +191,10 @@ cities:
     name: Pittsburgh, PA
     latitude: 40.44062479999999
     longitude: -79.9958864
+- porto_alegre:
+    name: Porto Alegre, Brazil
+    latitude: -30.0277041
+    longitude: -51.2287346
 - providence:
     name: Providence, RI
     latitude: 41.8239891
