@@ -10,9 +10,9 @@ Image by [Speed Demon 2 Photography](http://speeddemon2.com/), used with permiss
 
 ### Info
 
-* April - [4/2/2013](http://openhack_lvl.eventbrite.com) - Tuesday, 6-9pm - Soft drinks will be provided, feel free to order/bring-in what food you'd like.  Jimmy John's is extremely close and convenient.  :)
+* June - [6/4/2013](http://openhack_lvl.eventbrite.com) - Tuesday, 6-9pm - Soft drinks will be provided, feel free to order/bring-in what food you'd like.  Jimmy John's is extremely close and convenient.  :)
 
-We're planning on meeting at [iHub](http://nucleusky.com/ihub) (204 South Floyd Street, Louisville, KY 40202) on the first Tuesday of each month. Weekend meetings may be planned as attendance dictates.
+We're planning on meeting at [iHub](http://nucleusky.com/ihub) (204 South Floyd Street, Louisville, KY 40202) on the first Tuesday of each month. Weekend meetings may be planned as attendance dictates. [Register at Eventbrite!](http://openhack_lvl.eventbrite.com)
 
 Follow [@OpenHackLVL](http://twitter.com/OpenHackLVL) for announcements.
 
@@ -65,6 +65,8 @@ on how we can further that goal, or have ideas on our proposed format, please tw
 organizer [@mr_ndrsn](http://twitter.com/mr_ndrsn) or [@OpenHackLVL](http://twitter.com/OpenHackLVL)
 
 ### Past meetups
+* 5/7/2013
+* 4/2/2013
 * 3/5/2013
 * 2/16/2013
 * 2/5/2013
