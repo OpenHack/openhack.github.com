@@ -21,6 +21,7 @@ We meet at the Attachmate office at [2925 Roeder Ave, Suite #300](http://goo.gl/
 
 ### More Info
 
+- [Google Group](https://groups.google.com/forum/?fromgroups#!forum/bellingham-openhack)
 - IRC: [#bhamruby](irc://irc.oftc.net/#bhamruby)
 - Twitter: [@bhamruby](https://twitter.com/bhamruby)
 - [BHAMRUBY](http://bhamruby.org/)
