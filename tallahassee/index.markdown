@@ -48,8 +48,16 @@ Signing up is easy. <br /> Just register for our newsletter (no spam; pinky swea
 
 [Third Meetup](https://www.facebook.com/groups/620761451272641/)
 
-The next meetup will be held Friday 5/31 @ **7pm**.<br />
-I think we're going back to FSU's [Love Building](http://map.campus.fsu.edu/index.aspx?LOV) Rm. 151.
+The next meetup will be Friday 5/31 @ **7pm**.<br />
+In FSU's [Love Building](http://map.campus.fsu.edu/index.aspx?LOV) Rm. 151.
+
+Links for this MeetUp's talk:
+<br />
+[Why use pip and virtualenv](http://www.davidfischer.name/2010/04/why-you-should-be-using-pip-and-virtualenv/)
+<br />
+[Intro to pip and virtualenv](http://dabapps.com/blog/introduction-to-pip-and-virtualenv-python/)
+<br />
+[git repo for workshop](https://github.com/frankV/workshops)
 
 
 General Info:
