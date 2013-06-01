@@ -10,7 +10,7 @@ title: OpenHack - Pittsburgh
 ![January 2013 OpenHackPGH](/pittsburgh/images/2013-01/general-talking.jpg)
 
 Jointly presented by [PGHPython](http://pghpython.org/) and [pghrb](http://pghrb.org)
-OpenHack Pittsburgh is held on the fourth Monday of every month, from 6:00-9pm.
+OpenHack Pittsburgh is held on the fourth Monday of every even month, from 6:30-9pm.
 
 - *Open* - OpenHack is open to anyone, regardless of technology or skill
 - *Hack* - The only goal is to create something together and have fun doing it
@@ -21,14 +21,16 @@ Follow us on Twitter for timely updates: [@OpenHackPGH](http://twitter.com/OpenH
 
 ### Meetings
 
-**February 25, 2013**
+**Monday June 24th, 2013**
 
-6:00pm at The Beauty Shoppe's new event space 6101 Penn ave, PGH PA 15206
+6:30pm at 4moms - 40 24th St, Pittsburgh PA 15222
 
-<a href="http://www.showclix.com/events/16623" border="0" style="text-decoration:none;padding-left:25px;"><img src="https://s3.amazonaws.com/sc-img/t05.gif" /></a>
+<a href="http://www.meetup.com/pittsburgh-ruby/events/120200292/" border="0" style="text-decoration:none;padding-left:25px;">RSVP Now</a>
 
 ### Previous Meetings
 
+- [March 25, 2013](http://www.meetup.com/pittsburgh-ruby/events/106184432/)
+- [February 25, 2013](http://www.meetup.com/pittsburgh-ruby/events/100822012/)
 - [January 21, 2013](http://www.meetup.com/pittsburgh-ruby/events/96033112/)
 
 ### Contact
