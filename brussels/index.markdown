@@ -15,7 +15,7 @@ If you have any question, please follow us on twitter [@openhackBRU](http://twit
 
 ### Next meetups
 
-**First OpenHack meetup will take place on 29th may at Betacowork. [Registration here](http://openhack-brussels.eventbrite.com/)**
+**First OpenHack meetup was a success!. We plan one for the end of june and will communicate soon about it.**
 
 We plan to organize one meetup per month.
 
