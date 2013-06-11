@@ -5,7 +5,7 @@ title: OpenHack - Victoria, BC
 
 ## Victoria, BC
 
-![Photo of your meetup or city!](/victoria/FILL_ME_IN.png)
+![Serious Coffe, Victoria BC](/victoria/victoria.jpg)
 
 ### Info
 
