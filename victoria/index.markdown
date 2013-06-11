@@ -9,13 +9,16 @@ title: OpenHack - Victoria, BC
 
 ### Info
 
-Put some info about when and where your meetup is here.
+We meet every Tuesday night from 6-8pm at Serious Coffee at 1280 Broad St 
 
-### Next meetups
+You can hack on anything! 
+* Any language, framework, public/open-source, personal, other.
+* You don’t have to have an idea to hack on! You’re more than welcome to come just to pair with someone.
+* We always start off with a quick round of introductions, to say who you are, what you’re working on, and if you’d like help with your idea.
 
-* [First meetup](http://)
-* [Second Meetup](http://)
+This is what OpenHack is all about - slingin’ code. 
+For 2 hours you can pair up with somebody or work totally alone - it’s totally up to you.
 
-### Past meetups
+* First OpenHack will be Tuesday June 18, 2013
 
-Put down how many people came, maybe some photos or other fun stuff down here!
+
