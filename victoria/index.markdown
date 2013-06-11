@@ -9,7 +9,7 @@ title: OpenHack - Victoria, BC
 
 ### Info
 
-We meet every Tuesday night from 6-8pm at Serious Coffee at 1280 Broad St 
+We meet every Tuesday night from 6-8pm at [Serious Coffee](http://www.seriouscoffee.com/locations/victoria/broad-street) at [1280 Broad St](https://maps.google.ca/maps?client=ubuntu&channel=fs&oe=utf-8&q=1280+Broad+St&ie=UTF8&hq=&hnear=1280+Broad+St,+Victoria,+British+Columbia+V8W+2A4&gl=ca&t=m&z=16&vpsrc=0) 
 
 You can hack on anything! 
 * Any language, framework, public/open-source, personal, other.
