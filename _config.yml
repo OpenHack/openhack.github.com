@@ -27,7 +27,7 @@ cities:
     name: Beijing, China
     latitude: 39.90403
     longitude: 116.407526
-- bellingham: 
+- bellingham:
     name: Bellingham, WA
     longitude: -122.5100717
     latitude: 48.7618795
@@ -191,10 +191,18 @@ cities:
     name: Philadelphia, PA
     latitude: 39.952335
     longitude: -75.16378900000001
+- phoenix:
+    name: Phoenix, AZ
+    latitude: 33.4483771
+    longitude: -112.0740373
 - pittsburgh:
     name: Pittsburgh, PA
     latitude: 40.44062479999999
     longitude: -79.9958864
+- porto_alegre:
+    name: Porto Alegre, Brazil
+    latitude: -30.0277041
+    longitude: -51.2287346
 - providence:
     name: Providence, RI
     latitude: 41.8239891

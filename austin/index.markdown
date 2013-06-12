@@ -7,22 +7,12 @@ title: OpenHack - Austin, TX
 
 ![Austin, TX Skyline](/austin/atx.jpg)
 
-### Next Meeting: May 21st, 7PM at Capital Factory
+### Next Meeting: Wednesday, June 18th, 7PM at Capital Factory
 
 We'll hold our next meeting at 7PM at [Capital Factory (701 Brazos)](http://goo.gl/maps/mKAtt)
-on Tuesday, May 21st.
+on Tuesday, June 18th.
 
-Additionally, we've received a very generous invite by the organizers of AngelHack Austin to participate
-in their global hackathon competition where you can win potentially $100k+ in prizes,
-**seed capital**, potential acceptance in a Silicon Valley accelerator and trips to
-Silicon Valley where you'll pitch your startup to reps from Google Ventures, Andreessen Horowitz,
-and other large investors.
-
-And we get this for free, folks ;-) Want details?
-Visit the [Mailing List](https://groups.google.com/forum/?fromgroups#!forum/openhack-atx) and
-look for my most recent post about AngelHack.
-
-For more information on AngelHack, go see [their website](http://angelhack.com/).
+### Schedule: First Wednesday of each month, Third Tuesday at Capital Factory
 
 For anyone who's never been to Capital Factory, there's parking under the building itself
 (The Austin Centre) (for a fee).
@@ -88,10 +78,6 @@ but for now that's the general schedule.
 If you're looking for other options (maybe certain days don't work for you), there's [Cafe Bedouins](http://cafebedouins.com/).
 They generally meet every Tuesday at a coffee shop or other similar location at 7PM.
 It's not as structured as above, but it's another option for you to get in on as well.
-
-There's also a Meetup.com group we've been made aware of that may interest you, called the
-[Austin Pair Programming Circle](http://www.meetup.com/Austin-Pair-Programming-Circle/). While fairly new,
-they appear to be meeting weekly at the Opa Coffee and Wine Bar on South Lamar.
 
 ### Sponsors
 

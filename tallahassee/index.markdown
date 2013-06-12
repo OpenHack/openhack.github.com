@@ -46,20 +46,45 @@ Signing up is easy. <br /> Just register for our newsletter (no spam; pinky swea
 <br />
 ### Meetups
 
-[The First Meetup!](https://www.facebook.com/events/111510852352810/)
+[Third Meetup](https://www.facebook.com/groups/620761451272641/)
 
-The first meetup will be held Friday 4/12 @ **7pm**. We will meet on FSU's Campus, [Love Building](http://map.campus.fsu.edu/index.aspx?LOV) Rm. 151.
+The next meetup will be Friday 5/31 @ **7pm**.<br />
+In FSU's [Love Building](http://map.campus.fsu.edu/index.aspx?LOV) Rm. 151.
 
-**Subscribers to plain-text emails were mailed in incorrect time. Sorry.**
+Links for this MeetUp's talk:
+<br />
+[Why use pip and virtualenv](http://www.davidfischer.name/2010/04/why-you-should-be-using-pip-and-virtualenv/)
+<br />
+[Intro to pip and virtualenv](http://dabapps.com/blog/introduction-to-pip-and-virtualenv-python/)
+<br />
+[git repo for workshop](https://github.com/frankV/workshops)
+
 
 General Info:
-* If you come with an idea to pitch make sure to bring all/any materials you'll need.
+* If you come with an idea to pitch make sure to bring any materials you'll need.
 * If you come to code, bring a laptop
-* OpenHackTLH will be providing refreshments (Coffee, Tea, Water, Soda).
-* Remember to have fun and be patient, this is the first time I've tried to do something like this and I may not be perfect at it first go around.
+* We'll do our best to make sure the wifi is strong
+* Refreshments may occasionally be provided
 
 <br />
 <br />
 ### Past meetups
+<br />
+####OpenHackTLH's [Second Meetup](https://www.facebook.com/events/160272727477368/)
+* 6 people
+* held Friday 5/17
+* at [All Saints Cafe](https://maps.google.com/maps?ie=UTF-8&q=all+saints+cafe&fb=1&gl=us&hq=all+saints+cafe&hnear=0x88ec8a5187124b53:0xebee077ad4fdb1f8,Tallahassee,+FL&cid=0,0,16955220979110652242&ei=AxiVUfOyCYTM9gTjs4DgCA&ved=0CLQBEPwSMAA)
+<br />
 
-I know Tally can definietly build a strong list in no time.
+We had a couple impromptu workshops on git and SQL injection.
+We started a project that will eventually be an FSU hashtag aggregator.
+And someone offered up their truck as a project... next time!
+<br />
+<br />
+<br />
+####The [The First Meetup!](https://www.facebook.com/events/111510852352810/) had a great turnout...
+* 15 people 
+* held Friday 4/12
+* at FSU, [Love Building](http://map.campus.fsu.edu/index.aspx?LOV) Rm. 151.
+
+
