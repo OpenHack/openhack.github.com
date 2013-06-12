@@ -13,7 +13,7 @@ OpenHack Bellingham is organized by members of the Bellingham Rubyists and the B
 
 ### Meetings
 
-Meetings are held on the 4th Thursday of every month, from 6pm to around 9pm.  Come late and/or leave early as your schedule requires.  We start with brief round of introductions: who you are, what you're working on, what you need help with, etc.  Then we start hacking: you can pair up with somebody or work solo - it’s up to you.  Follow our Twitter feed to get more info on upcoming meetings.
+**Our next meeting is Thursday, June 27th.**  Meetings are held on the 4th Thursday of every month, from 6pm to around 9pm.  Come late and/or leave early as your schedule requires.  We start with brief round of introductions: who you are, what you're working on, what you need help with, etc.  Then we start hacking: you can pair up with somebody or work solo - it’s up to you.  Follow our mailing list or Twitter feed to get more info on upcoming meetings.
 
 ### Location
 
