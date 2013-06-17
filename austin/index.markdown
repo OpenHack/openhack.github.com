@@ -7,7 +7,7 @@ title: OpenHack - Austin, TX
 
 ![Austin, TX Skyline](/austin/atx.jpg)
 
-### Next Meeting: Wednesday, June 18th, 7PM at Capital Factory
+### Next Meeting: Tuesday, June 18th, 7PM at Capital Factory
 
 We'll hold our next meeting at 7PM at [Capital Factory (701 Brazos)](http://goo.gl/maps/mKAtt)
 on Tuesday, June 18th.
