@@ -263,6 +263,10 @@ cities:
     name: Vancouver, BC
     latitude: 49.261226
     longitude: -123.1139268
+- victoria:
+    name: Victoria, BC
+    latitude: 48.425648
+    longitude: -123.3648836
 - waterloo:
     name: Waterloo, ON
     latitude: 43.4642578
