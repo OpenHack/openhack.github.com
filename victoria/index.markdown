@@ -21,8 +21,7 @@ Next is the hack session. This is what OpenHack is all about - slingin’ code. 
 
 You can hack on anything you want. Open source, closed source. Work. Play. Any skill level on anything on any project, it’s all good as long as you’re here to sling code.
 
-NOTE: BRING A COMPUTER! It's hard to hack on much of anything on your phone. 
+NOTE: BRING A COMPUTER! 
 
-
-### RSVP here, if you want: http://www.meetup.com/OpenHack-Victoria
+RSVP here, if you want: http://www.meetup.com/OpenHack-Victoria
 
