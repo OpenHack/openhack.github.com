@@ -13,9 +13,15 @@ We meet every Tuesday night from 6-8pm at [Serious Coffee](http://www.seriouscof
 
 Everyone is welcome to join and you can hack on anything!
 
-* Any language, framework, public/open-source, personal, other.
-* You don’t have to have an idea to hack on! You’re more than welcome to come just to pair with someone.
-* We always start off with a quick round of introductions, to say who you are, what you’re working on, and if you’d like help with your idea.
+Come out. Hang. Sling code. It'll be fun. :)
 
-### First OpenHack will be Tuesday June 18, 2013
+We’ll begin with introductions at 6:15. Just say who you are, what you do and where you do it (if you want to), what languages/frameworks you work with, and anything else you want to share. This is just to let everybody get to know each other and see who does what so others can help/pair with them, or ask for help if you know something they don’t.
+
+Next is the hack session. This is what OpenHack is all about - slingin’ code. You can pair up with somebody or work totally alone - it’s totally up to you. 
+
+You can hack on anything you want. Open source, closed source. Work. Play. Any skill level on anything on any project, it’s all good as long as you’re here to sling code.
+
+NOTE: BRING A COMPUTER! 
+
+RSVP here, if you want: http://www.meetup.com/OpenHack-Victoria
 
