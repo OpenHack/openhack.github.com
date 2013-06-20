@@ -5,16 +5,16 @@ title: OpenHack - Boston
 
 ## Boston
 
-OpenHack Boston meets at [DockYard](http://dockyard.com) once a month (usually Thursdays). 
+OpenHack Boston meets at either [DockYard](http://dockyard.com) or [MAARK](http://www.maark.com) once a month (usually Thursdays). 
 
 Please RSVP so we know how much food to get!
 
 ### Next meetups
-
-* [May 30, 2013](https://guestlistapp.com/events/162957)
+* [June 27, 2013](https://guestlistapp.com/events/169779)
 
 ### Past meetups
 
+* [May 30, 2013](https://guestlistapp.com/events/162957)
 * [April 25, 2013](https://guestlistapp.com/events/160761)
 * [March 28, 2013](https://guestlistapp.com/events/150240)
 * [February 21, 2013](https://guestlistapp.com/events/150231)
