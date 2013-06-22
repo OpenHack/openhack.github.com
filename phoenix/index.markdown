@@ -9,7 +9,11 @@ title: OpenHack - Phoenix, AZ
 
 ### Upcoming OpenHacks
 
-- **Thur, June 20th, 6:30pm** - The Inaugural OpenHack PHX at [HeatSync Labs](http://goo.gl/niN2A) in Mesa
+- **TBA** (likely July 24 or 25)
+
+### Past OpenHacks
+
+- **Thur, June 20th, 6:30pm** - The Inaugural OpenHack PHX at [HeatSync Labs](http://www.heatsynclabs.org/) in Mesa, sponsored by [State Farm](https://www.statefarm.com/) (~25 attendees) - [Photos](http://www.flickr.com/photos/openhackphx/sets/72157634262712091/)
 
 ### About OpenHack PHX
 
