@@ -9,6 +9,8 @@ title: OpenHack - Phoenix, AZ
 
 ### Upcoming OpenHacks
 
+Sign up to the [announce mailing list](http://eepurl.com/BkGf9) to get email alerts about upcoming OpenHacks.
+
 - **TBA** (likely July 24 or 25)
 
 ### Past OpenHacks
