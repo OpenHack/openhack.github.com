@@ -16,16 +16,16 @@ Please dont be shy if you have no idea yet - you can join someone one of us!
 
 ### Join us!
 
-The next [OpenHack Munich][3] will take place on June 11th 2013 (17:30) at [gutefrage.net][2].
+The next [OpenHack Munich][3] will take place on July 9th 2013 (17:30) at [gutefrage.net][2].
 
 Please register at [Meetup.com][4] to join us!
 
 ### Feedback wanted!
 
 If you want to help us or have feedback, please don't hesitate and
-contact us via Twitter.
+contact us via [Twitter][1].
 
 [1]: https://twitter.com/OpenHackMuc
 [2]: http://www.gutefrage.net/ueber_uns
 [3]: http://www.meetup.com/OpenHack-Munich/
-[4]: http://www.meetup.com/OpenHack-Munich/events/120461952/
+[4]: http://www.meetup.com/OpenHack-Munich/events/124608462/
