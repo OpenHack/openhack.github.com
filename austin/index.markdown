@@ -7,12 +7,12 @@ title: OpenHack - Austin, TX
 
 ![Austin, TX Skyline](/austin/atx.jpg)
 
-### Next Meeting: Tuesday, June 18th, 7PM at Capital Factory
+### Next Meeting: Wednesday, July 3rd, 7PM at Capital Factory
 
 We'll hold our next meeting at 7PM at [Capital Factory (701 Brazos)](http://goo.gl/maps/mKAtt)
-on Tuesday, June 18th.
+on Wednesday, July 3rd.
 
-### Schedule: First Wednesday of each month, Third Tuesday at Capital Factory
+### Schedule: First Wednesday of each month
 
 For anyone who's never been to Capital Factory, there's parking under the building itself
 (The Austin Centre) (for a fee).
@@ -68,10 +68,7 @@ We'll wrap up between 10:30 and 11PM.
 
 ### How often are you running OpenHack ATX?
 
-Our venue, Capital Factory, has been great to work with. After our fist several meetings,
-they've set us up with a recurring schedule of every *first Wednesday of the month* and
-*third Tuesday of the month*. We'll continue to announce meetings via the mailing list, Twitter, and here,
-but for now that's the general schedule.
+OpenHack runs once monthly starting in July. It will be on the first Wednesday of each month.
 
 ### Other, similar options
 
