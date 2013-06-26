@@ -13,9 +13,12 @@ OpenHack Columbia meets alternating months at  [IT-oLogy](http://www.it-ology.or
 
 ### Next meetups
 
-* Our next [Open Hack](http://www.meetup.com/Open-Hack-Columbia/events/114301232/) is on May 6th at CETi
+* Our next [Open Hack](http://www.meetup.com/Open-Hack-Columbia/events/126529402/) is on July first at IT-oLogy
 
 ### Past meetups
+
+####May 6th
+May 6th was at CETi and had close to 30 attendees!  We took at break in June for the SC Day of Civic Hacking
 
 ####April 8
 Our first meetup was on April 8th and had about 20 attendees.  Thanks to all the hackers who joined us!
