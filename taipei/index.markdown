@@ -18,14 +18,14 @@ for English and Chinese speakers.
 ### Community
 
  * [Facebook group][openhackfb]
- * <a href="https://plus.google.com/115727541741204190730" rel="publisher">Google+</a>
+ * [Google+][openhackgp]
  * [Twitter][openhacktw]
 
 ### Next meetup
 
 <div class="vevent">
  <p><strong class="summary">OpenHack Taipei July</strong><br>
- <span class="description">Code together, on anything, with local hackers.  See event page on <a href="https://www.facebook.com/events/509444522441279/">Facebook</a> or <a href="https://plus.google.com/events/ctboursfcc0unt3c2dtp9cd7upg">Google+</a>.</span><br>
+ <span class="description">Code together, on anything, with local hackers.  See event page on <a href="https://www.facebook.com/events/471786272915534/">Facebook</a> or <a href="https://plus.google.com/events/c0oaia7oi4saomu4f7alcq3hdmk">Google+</a>.</span><br>
  When:
    <span class="dtstart">
       2013 July 28, Sunday, 7:00PM<span class="value-title" title="2013-07-28T19:00+08:00"></span>
