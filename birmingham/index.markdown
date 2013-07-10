@@ -17,4 +17,4 @@ you're thinking!
 
 ### Next meetup
 
-* [8 August 2012]https://guestlistapp.com/events/171795)
+* [8 August 2012](https://guestlistapp.com/events/171795)
