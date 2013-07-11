@@ -75,6 +75,10 @@ cities:
     name: Cincinnati, OH
     latitude: 39.102945
     longitude: -84.508684
+- cleveland:
+    name: Cleveland, OH
+    latitude: 41.510845
+    longitude: -81.567016
 - columbia:
     name: Columbia, SC
     latitude: 34.0007104
