@@ -155,6 +155,10 @@ cities:
     name: London, UK
     latitude: 51.5170986
     longitude: -0.1460838
+- los_angeles:
+    name: Los Angeles, CA
+    latitude: 34.0522342
+    longitude: -118.2436849
 - louisville:
     name: Louisville, KY
     latitude: 38.253777
