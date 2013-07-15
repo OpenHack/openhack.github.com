@@ -15,7 +15,7 @@ If you have any question, please follow us on twitter [@openhackBRU](http://twit
 
 ### Next meetups
 
-**First OpenHack meetup was a success!. We plan one for the end of june and will communicate soon about it.**
+**Second OpenHack meetup is for this summer! A eventbrite link will come soon but book your last tuesday of July!**
 
 We plan to organize one meetup per month.
 
