@@ -5,7 +5,7 @@ title: OpenHack - Miami, FL
 
 ## Miami, FL
 
-![OpenHack Miami!](/miami/openhack_miami.jpeg)
+![OpenHack Miami!](/miami/macbook_mojito.jpg)
 
 ### Info
 
