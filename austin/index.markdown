@@ -7,10 +7,24 @@ title: OpenHack - Austin, TX
 
 ![Austin, TX Skyline](/austin/atx.jpg)
 
-### Next Meeting: Wednesday, July 3rd, 7PM at Capital Factory
+### Next Meeting: Wednesday, August 7th, 7PM at Capital Factory
 
 We'll hold our next meeting at 7PM at [Capital Factory (701 Brazos)](http://goo.gl/maps/mKAtt)
-on Wednesday, July 3rd.
+on Wednesday, August 7th.
+
+This time we're going to try something a little different and just see how it works. We'll introduce ourselves,
+and then split off into groups by which technology you know, or are looking to learn. For example, if we have
+4 Rubyists, 4 Python people and 4 Java guys, we'll have 3 teams of four: Ruby/Python/Java. Each team will have
+to come up with a project to work on (so have something in mind when you show up).
+
+Each team will select a project in the language/ecosystem they're all most comfortable with or looking to learn,
+and then work on that project for the evening. This can be any project - open source, a work project (make sure
+you're not violating any workplace rules though), personal, startup idea, whatever.
+
+At the end of the night each team will present what they did to the whole group of people. There's no clear winner,
+but you may earn some bragging rights if you do something awesome!
+
+Most importantly, you'll meet new people and learn something new, so come join us on Wednesday, August 7th!
 
 ### Schedule: First Wednesday of each month
 
