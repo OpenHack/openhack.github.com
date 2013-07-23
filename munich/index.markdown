@@ -5,21 +5,27 @@ title: OpenHack - Munich, Germany
 
 ## Munich, Germany
 
-We plan to organize a monthly meetup, follow [OpenHackMuc][1] on Twitter for
-more Infos.
+We hack monthly, follow [OpenHackMuc][1] on Twitter for more Infos. Usually we are around 10 people and we have all kind of intersting projects. Some examples are:
 
-### Info
+* Visualising telescope data
+* Weired hardware devices
+* Playing around with Rails 4
+* Various small things in Scala 
 
-The next [OpenHack Munich][3] will take place on Mai 16th 2013 (17:00) at [gutefrage.net][2].
+Please dont be shy if you have no idea yet - you can join someone one of us!
+
+### Join us!
+
+The next [OpenHack Munich][3] will take place on July 9th 2013 (17:30) at [gutefrage.net][2].
 
 Please register at [Meetup.com][4] to join us!
 
 ### Feedback wanted!
 
 If you want to help us or have feedback, please don't hesitate and
-contact us via Twitter.
+contact us via [Twitter][1].
 
 [1]: https://twitter.com/OpenHackMuc
 [2]: http://www.gutefrage.net/ueber_uns
 [3]: http://www.meetup.com/OpenHack-Munich/
-[4]: http://www.meetup.com/OpenHack-Munich/events/115541782/
+[4]: http://www.meetup.com/OpenHack-Munich/events/124608462/

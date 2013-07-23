@@ -23,5 +23,6 @@ You can hack on anything you want. Open source, closed source. Work. Play. Any s
 
 NOTE: BRING A COMPUTER! 
 
-RSVP here, if you want: http://www.meetup.com/OpenHack-Victoria
+RSVP on the [meetup group](http://www.meetup.com/OpenHack-Victoria) to stay in touch with updates
 
+Sponsored by [FreeRunning Technologies](http://www.freerunningtech.com)

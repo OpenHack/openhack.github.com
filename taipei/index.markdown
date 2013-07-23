@@ -18,20 +18,20 @@ for English and Chinese speakers.
 ### Community
 
  * [Facebook group][openhackfb]
- * [Google+ page][openhackgp]
+ * [Google+][openhackgp]
  * [Twitter][openhacktw]
 
 ### Next meetup
 
 <div class="vevent">
- <p><strong class="summary">OpenHack March</strong><br>
- <span class="description">Code together, on anything, with local hackers.  See event page on <a href="https://www.facebook.com/events/509444522441279/">Facebook</a> or <a href="https://plus.google.com/events/ctboursfcc0unt3c2dtp9cd7upg">Google+</a>.</span><br>
+ <p><strong class="summary">OpenHack Taipei July</strong><br>
+ <span class="description">Code together, on anything, with local hackers.  See event page on <a href="https://www.facebook.com/events/471786272915534/">Facebook</a> or <a href="https://plus.google.com/events/c0oaia7oi4saomu4f7alcq3hdmk">Google+</a>.</span><br>
  When:
    <span class="dtstart">
-      2013 March 17, Sunday, 6:00PM<span class="value-title" title="2013-03-17T18:00+08:00"></span>
+      2013 July 28, Sunday, 7:00PM<span class="value-title" title="2013-07-28T19:00+08:00"></span>
    </span>-
    <span class="dtend">
-      10:00PM<span class="value-title" title="2013-03-17T22:00+08:00"></span>
+      10:00PM<span class="value-title" title="2013-07-28T22:00+08:00"></span>
    </span><br>
   Where:
    <span class="location vcard">
@@ -58,9 +58,18 @@ for English and Chinese speakers.
 
 ### Past meetups
 
-* *2013 February 3, Sunday* at the usual place.
-* *2013 January 12, Saturday* at [混_Hun][hun] café/co-working space, event page [on Facebook][meetup2fb] or [on Google+][meetup2gp]. Again [a bunch of photos](https://plus.google.com/b/115727541741204190730/photos/115727541741204190730/albums/5832504112078932049) from the event.
-* *2012 December 15* at [混_Hun][hun] café/co-working space, event page [on Facebook][meetup1fb] or [on Google+][meetup1gp]. We have [a bunch of photos](https://plus.google.com/photos/116948925972911973649/albums/5822326740327191329) from the event. People worked on (not exhaustive list and in no particular order): installing Linux for the first time, 3D modeling, desktop publishing, 24pullrequests, iOS development, Arduino sensors, web development.
+#### 2013
+
+* June 30, Sunday
+* May 26, Sunday
+* April 28, Sunday
+* March 17, Sunday
+* February 3, Sunday at the usual place.
+* January 12, Saturday at [混_Hun][hun] café/co-working space, event page [on Facebook][meetup2fb] or [on Google+][meetup2gp]. Again [a bunch of photos](https://plus.google.com/b/115727541741204190730/photos/115727541741204190730/albums/5832504112078932049) from the event.
+
+#### 2012
+
+* December 15 at [混_Hun][hun] café/co-working space, event page [on Facebook][meetup1fb] or [on Google+][meetup1gp]. We have [a bunch of photos](https://plus.google.com/photos/116948925972911973649/albums/5822326740327191329) from the event. People worked on (not exhaustive list and in no particular order): installing Linux for the first time, 3D modeling, desktop publishing, 24pullrequests, iOS development, Arduino sensors, web development.
 
 ### Comments
 
