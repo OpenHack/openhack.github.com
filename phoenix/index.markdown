@@ -11,12 +11,12 @@ title: OpenHack - Phoenix, AZ
 
 Sign up to the [announce mailing list](http://eepurl.com/BkGf9) to get email alerts about upcoming OpenHacks.
 
-- **Thur, July 25th, 6:30pm** - OpenHack PHX #002 at [Game CoLab](http://gamecolab.org/) in Phoenix. [RSVP on Nextplex](http://nextplex.com/phoenix-az/calendar/events/8831-july-openhack), or just show up. No sponsors this time, so you're on your own for food and beverage.
-- **Thur, August 29th, 6:30pm** - OpenHack PHX #003 at [Gangplank](http://chandler.gangplankhq.com/) in Chandler (main room). [RSVP on NextPlex](http://nextplex.com/phoenix-az/calendar/events/8959-openhack-003), or just show up.
+- **Thur, August 29th, 6:30pm** - OpenHackPHX #003 at [Gangplank](http://chandler.gangplankhq.com/) in Chandler (main room). [RSVP on NextPlex](http://nextplex.com/phoenix-az/calendar/events/8959-openhack-003), or just show up.
 
 ### Past OpenHacks
 
-- **Thur, June 20th, 6:30pm** - The Inaugural OpenHack PHX at [HeatSync Labs](http://www.heatsynclabs.org/) in Mesa, sponsored by [State Farm](https://www.statefarm.com/) (~25 attendees) - [Photos](http://www.flickr.com/photos/openhackphx/sets/72157634262712091/)
+- **Thur, June 20th, 6:30pm** - OpenHackPHX #001 at [HeatSync Labs](http://www.heatsynclabs.org/) in Mesa, sponsored by [State Farm](https://www.statefarm.com/). (~25 attendees) - [Photos](http://www.flickr.com/photos/openhackphx/sets/72157634262712091/)
+- **Thur, July 25th, 6:30pm** - OpenHackPHX #002 at [Game CoLab](http://gamecolab.org/) in Phoenix. (8 attendees) - [Photos](http://www.flickr.com/photos/openhackphx/sets/72157634799048653/)
 
 ### About OpenHack PHX
 
