@@ -23,7 +23,7 @@ are up to? Come on by and sit in on a project being worked on.
 
 ### Next meetups
 
-The next meetup will be **August 15, 2013** at Convivim Coworking:
+The next meetup will be **August 15, 2013** at Convivium Coworking:
 
 5924 Anaheim Ave NE
 Albuquerque, NM 87113
