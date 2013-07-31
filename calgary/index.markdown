@@ -9,7 +9,7 @@ title: OpenHack - Calgary, AB
 
 ### About OpenHack
 
-OpenHack is a meetup with a simple purpose: Code together, on anything.
+OpenHack is a meetup with a simple purpose: Coders getting together and coding.
 
 #### The Basics
 
@@ -19,9 +19,9 @@ OpenHack is a meetup with a simple purpose: Code together, on anything.
 
 ### Info
 
-Meetups will be held at [AcceleratorYYC](http://www.acceleratoryyc.com/), which
-is located in Inglewood on 9th Ave SE. Free parking is available during the
-evening.
+[Meetups](http://www.meetup.com/OpenHackYYC/) will be held at
+[AcceleratorYYC](http://www.acceleratoryyc.com/), which is located in Inglewood
+on 9th Ave SE. Free parking is available during the evening.
 
 OpenHackYYC is being organized by [Dave Lee](https://twitter.com/kastiglione).
 
@@ -29,11 +29,15 @@ OpenHackYYC is being organized by [Dave Lee](https://twitter.com/kastiglione).
 
 [OpenHackYYC Meetup](http://www.meetup.com/OpenHackYYC/)
 
-Our inaugural meetup will be held Thursday May 23, officially starting at 6pm,
-but feel free to come any time after 5pm. If you plan to attend, please get in
-touch so that the appropriate amount of pizza can be generated.
+The next meetup will be held Thursday August 15, starting at 5:30pm.  If you
+plan to attend, please RSVP to the [Meetup
+group](http://www.meetup.com/OpenHackYYC/) so that the appropriate amount of
+hors d'oeuvres and aperitifs can be available.
 
-Beer is sponsored by Molson. Pizza is sponsored by Dave Lee.
+Beer is sponsored by Molson.
 
 [@OpenHackYYC](https://twitter.com/OpenHackYYC), [OpenHackYYC@gmail.com](mailto:OpenHackYYC@gmail.com).
 
+### Past meetups
+
+* May 23, 2013 - ~20 attendees
