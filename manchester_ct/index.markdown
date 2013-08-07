@@ -9,7 +9,7 @@ title: OpenHack - Manchester, CT
 
 ### Info
 
-OpenHack Manchester meets at (Axis901)[http://www.axis901.com], a new co-working facility in Manchester, CT.
+OpenHack Manchester meets at [Axis901](http://www.axis901.com), a new co-working facility in Manchester, CT.
 
 Here's how OpenHack will work (borrowed greatly from Boston's OpenHack):
 
