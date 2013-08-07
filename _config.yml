@@ -163,6 +163,10 @@ cities:
     name: Manchester, NH
     latitude: 42.99663109999999
     longitude: -71.4670062
+- manchester_ct:
+    name: Manchester, CT
+    latitude: 41.769803
+    longitude: -72.520349
 - miami:
     name: Miami, FL
     latitude: 25.7889689
