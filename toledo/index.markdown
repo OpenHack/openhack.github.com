@@ -19,11 +19,21 @@ We are currently looking for sponsors to help provide food and beverages. If you
 
 ### Next meetups
 
-**Wednesday, August 7th**
+**Wednesday, August 21th**
+
+**Wednesday, September 4th**
+
+**Wednesday, September 18**
+
+**Wednesday, October 2nd**
+
+**Wednesday, October 16th**
 
 We announce future meetups via our [Twitter](http://twitter.com/openhacktoledo) account. Follow that if you wish.
 
 ### Past meetups
+
+**Wednesday, August 7th**
 
 **Monday, June 24th**
 
