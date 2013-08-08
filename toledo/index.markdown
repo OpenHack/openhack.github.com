@@ -9,9 +9,8 @@ title: OpenHack - Toledo, OH
 
 ### Info
 
-[Seed Coworking](http://seedcowork.com) is hosting OpenHack for the Toledo area. Meetups are held every other Monday from 6pm - 10pm. All skill levels welcomed. Come to learn, teach, work, or play.
+[Seed Coworking](http://seedcowork.com) is hosting OpenHack for the Toledo area. Meetups are held the 1st and 3rd Wednesday of each month from 7pm - 10pm. All skill levels welcomed. Come to learn, teach, work, or play.
 
-We will order food at 6pm. If you are interested, please bring cash for your order. BYOB.
 
 ### Sponsors
 
