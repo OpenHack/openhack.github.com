@@ -15,6 +15,13 @@ If you'd like to get involved, ping
 [@OpenHackBHM](http://twitter.com/OpenHackBHM) to let us know what
 you're thinking!
 
+
+
+### Previous meetups
+
+* [8 August 2013](https://guestlistapp.com/events/171795)
+
+
 ### Next meetup
 
-* [8 August 2012](https://guestlistapp.com/events/171795)
+* 12 September 2013
