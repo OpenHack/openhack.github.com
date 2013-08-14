@@ -24,10 +24,10 @@ We have a thriving developer community in Phoenix, but far too few opportunities
 
 The rules are simple:
 
-- You can hack on anything! Any language, framework, public/open-source, personal/closed source... *anything*
+- You can hack on anything! Any language, framework, public/open-source, personal/closed source... *anything*.
 - You don’t have to have an idea, you can join someone else.
+- Developers of all skill levels are welcome to attend.
 - We'll kick the event off with a quick round of introductions.
-- If there's a sponsor for food and drinks, it will be noted, but you're welcome to bring your own.
 - We'll generally wrap things up around 9pm or move to a nearby restaurant, coffee shop or bar.
 
 ### Support
