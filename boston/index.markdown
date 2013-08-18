@@ -30,7 +30,7 @@ Here's how OpenHack will work:
 Please RSVP so we know how much food to get!
 
 ### Next meetups
-TBA
+* [August 29, 2013](https://guestlistapp.com/events/177726)
 
 ### Past meetups
 
