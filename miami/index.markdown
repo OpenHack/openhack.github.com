@@ -19,7 +19,14 @@ Follow [@OpenHackMia](http://twitter.com/openhackmia) for announcements.
 
 ### Next meetups
 
-* TBA
+* [August 26, 2013](http://www.meetup.com/miamirb/events/135917302/)
+* [September 2, 2013](http://www.meetup.com/miamirb/events/135917472/)
+* [September 9, 2013](http://www.meetup.com/miamirb/events/135917552/)
+
+### RubyConf Special
+
+* [November 4, 2013](http://www.meetup.com/miamirb/events/130875572/)
+* [November 11, 2013](http://www.meetup.com/miamirb/events/130875612/)
 
 ### Past meetups
 
