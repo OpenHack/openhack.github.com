@@ -29,7 +29,6 @@ Most OpenHack Twitter accounts use usernames like this:
 * [OpenHackBHM](https://twitter.com/OpenHackBHM) for Birmingham
 * [OpenHackFW](https://twitter.com/OpenHackFW) for Fort Wayne
 * [OpenHackIC](https://twitter.com/OpenHackIC) for Iowa City
-* [OpenHackNYC](https://twitter.com/OpenHackNYC) for New York City
 * [OpenHackPGH](https://twitter.com/OpenHackPGH) for Pittsburgh
 * etc.
 

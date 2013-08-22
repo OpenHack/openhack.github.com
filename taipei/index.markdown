@@ -24,14 +24,14 @@ for English and Chinese speakers.
 ### Next meetup
 
 <div class="vevent">
- <p><strong class="summary">OpenHack Taipei July</strong><br>
- <span class="description">Code together, on anything, with local hackers.  See event page on <a href="https://www.facebook.com/events/471786272915534/">Facebook</a> or <a href="https://plus.google.com/events/c0oaia7oi4saomu4f7alcq3hdmk">Google+</a>.</span><br>
+ <p><strong class="summary">OpenHack Taipei August</strong><br>
+ <span class="description">Code together, on anything, with local hackers.  See event page on <a href="https://www.facebook.com/events/504052499683359/">Facebook</a></span><br>
  When:
    <span class="dtstart">
-      2013 July 28, Sunday, 7:00PM<span class="value-title" title="2013-07-28T19:00+08:00"></span>
+      2013 August 25, Sunday, 7:00PM<span class="value-title" title="2013-08-25T19:00+08:00"></span>
    </span>-
    <span class="dtend">
-      10:00PM<span class="value-title" title="2013-07-28T22:00+08:00"></span>
+      10:00PM<span class="value-title" title="2013-08-25T22:00+08:00"></span>
    </span><br>
   Where:
    <span class="location vcard">
@@ -60,6 +60,7 @@ for English and Chinese speakers.
 
 #### 2013
 
+* July 30, Sunday
 * June 30, Sunday
 * May 26, Sunday
 * April 28, Sunday

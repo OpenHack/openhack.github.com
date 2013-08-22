@@ -15,7 +15,7 @@ Please RSVP on NextPlex below so we know how much food to get!
 
 ### Next meetups
 
-* [July 2, 2013](http://nextplex.com/buffalo-ny/calendar/events/8285)
+* [August 6, 2013](http://nextplex.com/buffalo-ny/calendar/events/9417-openhack-august)
 
 ### Past meetups
 
@@ -38,4 +38,4 @@ Please RSVP on NextPlex below so we know how much food to get!
 * May 21, 2013 - ~12
 * June 4, 2013 - ~15
 * June 18, 2012 - ~15
-
+* July 2, 2013 - ~10

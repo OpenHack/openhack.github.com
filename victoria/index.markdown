@@ -5,11 +5,11 @@ title: OpenHack - Victoria, BC
 
 ## Victoria, BC
 
-![Serious Coffe, Victoria BC](/victoria/victoria.jpg)
+![Peacock Billiards, Victoria BC](/victoria/victoria.jpg)
 
 ### Info
 
-We meet every Tuesday night from 6-8pm at [Serious Coffee](http://www.seriouscoffee.com/locations/victoria/broad-street) at [1280 Broad St](https://maps.google.ca/maps?client=ubuntu&channel=fs&oe=utf-8&q=1280+Broad+St&ie=UTF8&hq=&hnear=1280+Broad+St,+Victoria,+British+Columbia+V8W+2A4&gl=ca&t=m&z=16&vpsrc=0) 
+We meet every Tuesday night from 6-9pm at [Peacock Billiards](http://www.peacockbilliards.com/) at [1175 Douglas St](https://maps.google.ca/maps?client=ubuntu&channel=fs&oe=utf-8&q=1280+Broad+St&ie=UTF8&hq=&hnear=1280+Broad+St,+Victoria,+British+Columbia+V8W+2A4&gl=ca&t=m&z=16&vpsrc=://maps.google.ca/maps?ie=UTF-8&q=peacocks+victoria&fb=1&gl=ca&hq=peacocks+victoria&cid=0,0,8681642815041155577&ei=V6XuUamgC4ybigKlxICwBQ&ved=0CDUQrwswAA)
 
 Everyone is welcome to join and you can hack on anything!
 

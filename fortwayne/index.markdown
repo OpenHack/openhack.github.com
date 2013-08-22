@@ -22,10 +22,12 @@ you're thinking!
 
 ### Next meetup
 
-* [11 July 2013](http://openhackfw.eventbrite.com/)
+* [12 September 2013](http://openhackfw.eventbrite.com/)
 
 ### Past meetups
 
+* [8 August 2013](http://openhackfw-2013-08.eventbrite.com/)
+* [11 July 2013](http://openhackfw-2013-07.eventbrite.com/)
 * [13 July 2013](http://openhackfw-2013-06.eventbrite.com/)
 * [9 May 2013](http://openhackfw-2013-05.eventbrite.com/)
 * [11 April 2013](http://openhackfw-2013-04.eventbrite.com/)

@@ -5,7 +5,11 @@ title: OpenHack - Munich, Germany
 
 ## Munich, Germany
 
-We hack monthly, follow [OpenHackMuc][1] on Twitter for more Infos. Usually we are around 10 people and we have all kind of intersting projects. Some examples are:
+![OpenHack Munich](/munich/header.jpg)
+
+### Info
+
+We hack monthly, follow [OpenHackMuc][1] on Twitter for more Infos. Usually we are around 15 people and we have all kind of intersting projects. Some examples are:
 
 * Visualising telescope data
 * Weired hardware devices
@@ -16,7 +20,7 @@ Please dont be shy if you have no idea yet - you can join someone one of us!
 
 ### Join us!
 
-The next [OpenHack Munich][3] will take place on July 9th 2013 (17:30) at [gutefrage.net][2].
+The next [OpenHack Munich][3] will take place on August 13th 2013 (17:30) at [gutefrage.net][2].
 
 Please register at [Meetup.com][4] to join us!
 
@@ -28,4 +32,4 @@ contact us via [Twitter][1].
 [1]: https://twitter.com/OpenHackMuc
 [2]: http://www.gutefrage.net/ueber_uns
 [3]: http://www.meetup.com/OpenHack-Munich/
-[4]: http://www.meetup.com/OpenHack-Munich/events/124608462/
+[4]: http://www.meetup.com/OpenHack-Munich/events/129201962/

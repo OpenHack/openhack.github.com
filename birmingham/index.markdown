@@ -15,6 +15,8 @@ If you'd like to get involved, ping
 [@OpenHackBHM](http://twitter.com/OpenHackBHM) to let us know what
 you're thinking!
 
+Registration is free and available through [EventBrite](https://openhackbhm.eventbrite.com/)
+
 ### Next meetup
 
-* [8 August 2012](https://guestlistapp.com/events/171795)
+* [12 September 2013](https://openhackbhm.eventbrite.com)
