@@ -11,7 +11,7 @@ title: OpenHack - Phoenix, AZ
 
 Sign up to the [announce mailing list](http://eepurl.com/BkGf9) to get email alerts about upcoming OpenHacks.
 
-- **Thur, August 29th, 6:30pm** - OpenHackPHX #003, space TBD. [RSVP on NextPlex](http://nextplex.com/phoenix-az/calendar/events/8959-openhack-003), or just show up.
+- **Thur, August 29th, 6:30pm** - OpenHackPHX #003 at [Heatsync Labs](http://www.heatsynclabs.org/). [RSVP on NextPlex](http://nextplex.com/phoenix-az/calendar/events/8959-openhack-003), or just show up.
 
 ### Past OpenHacks
 
