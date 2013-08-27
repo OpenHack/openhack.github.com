@@ -14,7 +14,7 @@ title: OpenHack - Phoenix, AZ
 
 You do not need to RSVP. Feel free to just drop in, and to bring anyone else who would enjoy OpenHack.
 
-*Sign up to the [announce mailing list](http://eepurl.com/BkGf9) to get email alerts about upcoming OpenHacks.*
+*Sign up for the [announce mailing list](http://eepurl.com/BkGf9) to get email alerts about upcoming OpenHacks.*
 
 ### About OpenHackPHX
 
