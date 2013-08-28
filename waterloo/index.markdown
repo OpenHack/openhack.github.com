@@ -7,7 +7,7 @@ title: OpenHack - Waterloo, ON
 
 Waterloo OpenHack meetup coming soon!
 
-For more info bug [@mkhDev](http://twitter.com/mkhDev).
+For more info bug [@bnmrrs](http://twitter.com/bnmrrs) or [@ArtBarnLabs](http://twitter.com/ArtBarnLabs) .
 
 ### Next meetups
 
