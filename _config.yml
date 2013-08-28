@@ -147,6 +147,10 @@ cities:
     name: Kyiv, Ukraine
     latitude: 50.4501
     longitude: 30.5234
+- liege:
+    name: Liege, Belgium
+    latitude: 50.6325574
+    longitude: 5.5796662
 - logan:
     name: Logan, UT
     latitude: 41.7369803
