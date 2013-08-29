@@ -19,7 +19,7 @@ planning on a meetup per month.
 
 ### Next meetups
 
-* [TBA](http://)
+* [First meetup: 2013-09-19](http://www.meetup.com/Open-Hack-Liege/events/137299452/)
 
 ### Past meetups
 
