@@ -10,7 +10,7 @@ Image by [Speed Demon 2 Photography](http://speeddemon2.com/), used with permiss
 
 ### Info
 
-* June - [6/4/2013](http://openhack_lvl.eventbrite.com) - Tuesday, 6-9pm - Soft drinks will be provided, feel free to order/bring-in what food you'd like.  Jimmy John's is extremely close and convenient.  :)
+* September - [9/3/2013](http://openhack_lvl.eventbrite.com) - Tuesday, 6-9pm - Soft drinks will be provided, feel free to order/bring-in what food you'd like.  Jimmy John's is extremely close and convenient.  :)
 
 We're planning on meeting at [iHub](http://nucleusky.com/ihub) (204 South Floyd Street, Louisville, KY 40202) on the first Tuesday of each month. Weekend meetings may be planned as attendance dictates. [Register at Eventbrite!](http://openhack_lvl.eventbrite.com)
 
@@ -19,7 +19,7 @@ Follow [@OpenHackLVL](http://twitter.com/OpenHackLVL) for announcements.
 ### The OpenHack Format
 
 We have a *little* structure around our meetings to give people a chance to speak, bounce
-ideas off others, and "break the ice" for anyone who hasn't met before.  we are loosely
+ideas off others, and "break the ice" for anyone who hasn't met before.  We are loosely
 adopting a structure that has worked well for other OpenHack meetups.
 
 - 6:00 - Meet at iHub
@@ -65,11 +65,4 @@ on how we can further that goal, or have ideas on our proposed format, please tw
 organizer [@mr_ndrsn](http://twitter.com/mr_ndrsn) or [@OpenHackLVL](http://twitter.com/OpenHackLVL)
 
 ### Past meetups
-* 5/7/2013
-* 4/2/2013
-* 3/5/2013
-* 2/16/2013
-* 2/5/2013
-* 1/12/2013 - 13
-* 1/1/2013 - 4
-* 12/4/2012 - 22
+We've been meeting every month since 12/2012!  Attendance averages around 10-12 people with a couple outliers at 4 and 22.
