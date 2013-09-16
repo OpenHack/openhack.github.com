@@ -9,7 +9,6 @@ title: OpenHack - Phoenix, AZ
 
 ### Upcoming OpenHacks
 
-- **Thur, August 29th, 6:30pm** - OpenHack #003 at [Heatsync Labs](http://www.heatsynclabs.org/) in Mesa. [RSVP on NextPlex](http://nextplex.com/phoenix-az/calendar/events/8959-openhack-003).
 - **Thur, Sept. 26th, 6:30pm** - OpenHack #004 at [desarrollo](http://i04545.wix.com/desarrollo#!about-us/cx7b) (located at [Infusionsoft](http://www.infusionsoft.com/contact)) in Chandler. [RSVP on NextPlex](http://nextplex.com/phoenix-az/calendar/events/9366-openhack-004).
 
 You do not need to RSVP. Feel free to just drop in, and to bring anyone else who would enjoy OpenHack.
@@ -32,6 +31,7 @@ The rules are simple:
 
 - **Thur, June 20th, 6:30pm** - OpenHackPHX #001 at [HeatSync Labs](http://www.heatsynclabs.org/) in Mesa, sponsored by [State Farm](https://www.statefarm.com/). (~25 attendees) - [Photos](http://www.flickr.com/photos/openhackphx/sets/72157634262712091/)
 - **Thur, July 25th, 6:30pm** - OpenHackPHX #002 at [Game CoLab](http://gamecolab.org/) in Phoenix. (8 attendees) - [Photos](http://www.flickr.com/photos/openhackphx/sets/72157634799048653/)
+- **Thur, August 29th, 6:30pm** - OpenHack #003 at [Heatsync Labs](http://www.heatsynclabs.org/) in Mesa. (~12 attendees)
 
 ### Support
 
