@@ -13,7 +13,7 @@ title: OpenHack - Los Angeles, CA
 
 OpenHack L.A. will meet once a month, starting September, 2013.
 
-If you have any questions, contact [@OpenHackLA](http://twitter.com/OpenHackLA) or [@_jamesaanderson](http://twitter.com/_jamesaanderson)
+If you have any questions, contact [@OpenHackLA](http://twitter.com/OpenHackLA) or [@_jamesaanderson](http://twitter.com/_jamesaanderson).
 
 ### Next meetups
 
