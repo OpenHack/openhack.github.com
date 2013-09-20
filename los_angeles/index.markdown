@@ -9,10 +9,12 @@ title: OpenHack - Los Angeles, CA
 
 ### Info
 
-OpenHack Los Angeles meetup coming soon!
+**Twitter:** [@OpenHackLA](http://twitter.com/OpenHackLA)
 
-For more info follow [@OpenHackLA](http://twitter.com/OpenHackLA).
+OpenHack L.A. will meet once a month, starting September, 2013.
+
+If you have any questions, contact [@OpenHackLA](http://twitter.com/OpenHackLA) or [@_jamesaanderson](http://twitter.com/_jamesaanderson)
 
 ### Next meetups
 
-TBA
+[Check out our meetup.com page for event details.](http://meetup.com/Open-Hack-L-A)
