@@ -10,6 +10,7 @@ title: OpenHack - Phoenix, AZ
 ### Upcoming OpenHacks
 
 - **Thur, Sept. 26th, 6:30pm** - OpenHack #004 at [desarrollo](http://i04545.wix.com/desarrollo#!about-us/cx7b) (located at [Infusionsoft](http://www.infusionsoft.com/contact)) in Chandler. [RSVP on NextPlex](http://nextplex.com/phoenix-az/calendar/events/9366-openhack-004).
+- **Tue, Oct. 22nd, 6:30pm** - OpenHack #005 at [Co+Hoots](http://www.cohoots.com/) in Phoenix. [RSVP on NextPlex](http://nextplex.com/phoenix-az/calendar/events/11158-openhack-005).
 
 You do not need to RSVP. Feel free to just drop in, and to bring anyone else who would enjoy OpenHack.
 
