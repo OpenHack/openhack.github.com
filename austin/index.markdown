@@ -7,24 +7,16 @@ title: OpenHack - Austin, TX
 
 ![Austin, TX Skyline](/austin/atx.jpg)
 
-### Next Meeting: Wednesday, August 7th, 7PM at Capital Factory
+### Next Meeting: Wednesday, September 4th, 7PM at Capital Factory
 
 We'll hold our next meeting at 7PM at [Capital Factory (701 Brazos)](http://goo.gl/maps/mKAtt)
-on Wednesday, August 7th.
+on Wednesday, September 4th.
 
-This time we're going to try something a little different and just see how it works. We'll introduce ourselves,
-and then split off into groups by which technology you know, or are looking to learn. For example, if we have
-4 Rubyists, 4 Python people and 4 Java guys, we'll have 3 teams of four: Ruby/Python/Java. Each team will have
-to come up with a project to work on (so have something in mind when you show up).
+Last month our experiment of individuals pairing based on technology background or interest seemed to go over well, so we'll try that again. The idea is pretty simple: come with a project and/or programming language in mind that you know or are looking to learn, and then you'll team up (or pair up) with others who work in that language. Together you'll decide on a project to work on, and at the end of the night we'll all discuss what we did.
 
-Each team will select a project in the language/ecosystem they're all most comfortable with or looking to learn,
-and then work on that project for the evening. This can be any project - open source, a work project (make sure
-you're not violating any workplace rules though), personal, startup idea, whatever.
+As always, if you just want to show up and work on something solo, that's absolutely fine, too. Feel free to bounce ideas off of others while you're there.
 
-At the end of the night each team will present what they did to the whole group of people. There's no clear winner,
-but you may earn some bragging rights if you do something awesome!
-
-Most importantly, you'll meet new people and learn something new, so come join us on Wednesday, August 7th!
+This is a great way to meet new people and learn some valuable skills, so come on out!
 
 ### Schedule: First Wednesday of each month
 
@@ -43,46 +35,6 @@ She runs the events there and can show you where we'll be.
 
 Please follow us on Twitter and/or subscribe to the mailing list for announcements and updates.
 We'll also generally try to keep this page updated at all times.
-
-### Format
-
-We have a *little* structure around our meetings to give people a chance to speak, bounce ideas off
-others, and "break the ice" for anyone who hasn't met before. We tried this during our first meeting
-and it went rather well, so we'll stick with it until folks tell us otherwise:
-
-- 7:00PM  Meet at CF
-- 7:15PM  Introductions (stand-up style)
-- 7:30PM  Hack
-- 10:30PM "Bring it to the Tribe"
-
-We'll begin with introductions at 7:15. Just say who you are, what you do and where you do it (if you want to),
-what languages/frameworks you work with, and anything else you want to share. This is just to let everybody get to
-know each other and see who does what so others can help/pair with them, or ask for help if you know something they don't.
-
-Next is the hack session. This is what OpenHack is all about - slingin' code. That's 3 hours. You can pair up with somebody
-or work totally alone - it's totally up to you. We encourage you to pair just for the fun of it, but nobody's going to even
--remotely- have a problem if you don't. I mean hey, we're hackers in ATX, there IS no chiller crowd anywhere :)
-
-You can pair or solo hack on anything you want. Open source, closed source. Work. Play. Python. .NET. Ruby. PHP. Java. Scala.
-Erlang. Clojure. Haskell. Objective-C. C#. VB. Even [brainfuck](http://en.wikipedia.org/wiki/Brainfuck) - it doesn't matter!
-Any skill level on anything on any project, it's all good as long as you're here to sling code.
-
-Finally, we'll wrap up with a segment that, for lack of a better term, we'll call "bring it to the tribe". The idea is that
-as a community of developers, engineers and computer scientists, we're a "tribe" of sorts. So we need to help each other out.
-OpenHack - for us anyway - isn't just about the code, but also about *the people who write it*! So we want to leverage the
-collective widsom of our "tribe" to help each other. This small wrap-up is designed to give people a chance to present a
-problem they may be having (code related) to the group. Things like, "I can't seem to grasp rspec's DSL, can anybody
-recommend a good book or resource", or "does anyone have any tips on how to convince my boss to let me re-implement this
-crufty old system written in outdated perl scripts as a REST-based SOA since it would be just so much cleaner?". Things like
-that are what the tribe session is meant for, and we want to provide an open, official forum for members to ask each
-other for help in their present challenge. Maybe some one has experience, a book, or a contact who can help you out. This
-gives each of us a chance to leverage the group's "tribal knowledge" to solve a problem.
-
-We'll wrap up between 10:30 and 11PM.
-
-### How often are you running OpenHack ATX?
-
-OpenHack runs once monthly starting in July. It will be on the first Wednesday of each month.
 
 ### Other, similar options
 
