@@ -17,7 +17,11 @@ Meetings are held on the 4th Thursday of every month, from 6pm to around 9pm.  C
 
 ### Location
 
+The September meeting will take place at the AVA.ai office at [1201 Cornwall Avenue, Suite 201](http://goo.gl/maps/i9VIo).
+
+<!--
 Unless otherwise announced, we meet at the Attachmate office at [2925 Roeder Ave, Suite #300](http://goo.gl/maps/r6y0Y) overlooking beautiful Bellingham Bay. On nice summer evenings we may even hang out on the roof to catch every last minute of sunshine.
+-->
 
 
 ### More Info
