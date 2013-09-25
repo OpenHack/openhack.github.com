@@ -11,7 +11,7 @@ title: OpenHack - Los Angeles, CA
 
 **Twitter:** [@OpenHackLA](http://twitter.com/OpenHackLA)
 
-OpenHack L.A. will meet once a month, starting September, 2013.
+OpenHack L.A. will meet once a month at [Kleverdog Coworking](http://kleverdogcoworking.com), starting September, 2013.
 
 If you have any questions, contact [@OpenHackLA](http://twitter.com/OpenHackLA) or [@_jamesaanderson](http://twitter.com/_jamesaanderson).
 
