@@ -30,11 +30,13 @@ Here's how OpenHack will work:
 Please RSVP so we know how much food to get!
 
 ### Next meetups
-* [September 26,
-  2013](http://www.meetup.com/Boston-Ember-js/events/140201602/)
+
+TBD
 
 ### Past meetups
 
+* [September 26,
+  2013](http://www.meetup.com/Boston-Ember-js/events/140201602/)
 * [August 29, 2013](https://guestlistapp.com/events/177726)
 * [July 25, 2013](https://guestlistapp.com/events/172200)
 * [June 27, 2013](https://guestlistapp.com/events/169779)
