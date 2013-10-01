@@ -19,7 +19,6 @@ Follow [@OpenHackMia](http://twitter.com/openhackmia) for announcements.
 
 ### Next meetups
 
-* [September 30, 2013](http://www.meetup.com/miamirb/events/139859522/)
 * [October 7, 2013](http://www.meetup.com/miamirb/events/143052882/)
 * [October 14, 2013](http://www.meetup.com/miamirb/events/143053002/)
 * [October 28, 2013](http://www.meetup.com/miamirb/events/143053162/)
@@ -31,6 +30,7 @@ Follow [@OpenHackMia](http://twitter.com/openhackmia) for announcements.
 
 ### Past meetups
 
+* Sep 30, 2013 (5 attendees)
 * Sep 23, 2013 (3 attendees)
 * Sep 09, 2013 (8 attendees)
 * Sep 02, 2013 (5 attendees)
