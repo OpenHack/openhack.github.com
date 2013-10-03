@@ -9,7 +9,7 @@ title: OpenHack - Albuquerque, NM
 
 ### Info
 
-OpenHack ABQ's next meetup will be taking place on **September 19, 2013** at
+OpenHack ABQ's next meetup will be taking place on **October 17, 2013** at
 [Convivium Coworking](http://www.conviviumcoworking.com/) starting at 6:00pm.
 
 OpenHack ABQ's purpose is to offer a space where people of any skill level
@@ -21,14 +21,32 @@ You'll find someone to pair with at the meetup.
 OpenHack ABQ is _very_ novice friendly. Just interested in seeing what people
 are up to? Come on by and sit in on a project being worked on.
 
-### Next meetups
+### Next meetup
 
-The next meetup will be **September 19, 2013** at Convivium Coworking:
+The next meetup will be **October 17, 2013** at Convivium Coworking:
 
 5924 Anaheim Ave NE
 Albuquerque, NM 87113
 
 [Map](http://goo.gl/maps/5y7xs)
+
+### Contact
+
+Follow [@OpenHackABQ](https://twitter.com/OpenHackABQ) on Twitter or join our
+[Facebook Group](https://www.facebook.com/groups/621303567898347/) to stay
+informed about what is happening.
+
+Contact [Geoff Petrie](mailto:g.petrie+openhack@gmail.com) for more
+information.
+
+### Thank Yous
+
+Thank you to [Convivium Coworking](http://www.conviviumcoworking.com/) for
+providing a space for our first meeting!
+
+### Previous Meetings
+
+Our sixth meeting was September 19, 2013 at Convivium Coworking.
 
 Our fifth meeting was August 15, 2013 at Convivium Coworking.
 
@@ -44,20 +62,6 @@ Photos from the first event:
 
 ![Some of the group](/albuquerque/img/photo03-geoff_petrie.jpg) ![Hard thinking](/albuquerque/img/photo02-james_woodward.jpg)
 ![A conversation](/albuquerque/img/photo01-james_woodward.jpg) ![Another group shot](/albuquerque/img/photo04-lori_patton.jpg)
-
-### Contact
-
-Follow [@OpenHackABQ](https://twitter.com/OpenHackABQ) on Twitter or join our
-[Facebook Group](https://www.facebook.com/groups/621303567898347/) to stay
-informed about what is happening.
-
-Contact [Geoff Petrie](mailto:g.petrie+openhack@gmail.com) for more
-information.
-
-### Thank Yous
-
-Thank you to [Convivium Coworking](http://www.conviviumcoworking.com/) for
-providing a space for our first meeting!
 
 **Photo Credits:**  
 [Ben Byrne](http://www.flickr.com/photos/drywall/) - Sandia Mountains header.  
