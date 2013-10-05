@@ -9,12 +9,24 @@ title: OpenHack - Tulsa, OK
 
 ### Info
 
-We are currently open for ideas and suggestions on a meetup location and time. Current plans are leaning towards weekend afternoons when most people have off work and have some free time to kill.
+[Tulsa Web Devs](http://tulsawebdevs.org/) meets on the 3rd Monday of the month at 6pm at i2E Tulsa and meet every Friday at [Fab Lab Tulsa](http://fablabtulsa.com/) for coworking.
 
-### Next meetups
+[Code for Tulsa](http://codefortulsa.org/) is a [Code for America](http://codeforamerica.org/) brigade that grew out of Tulsa Web Devs, with members being recognized by the White House as Champions of Change
 
-* Sadly, we aren't sure yet.
+Members of Tulsa Web Devs have been involved in civic hacking projects, various hack days and organized the inaugural [200OK](http://200ok.us) developer conference.
 
-### Past meetups
+### Social
 
-No past meetups have occured yet as of 11/7/2012.
+* [Tulsa Web Devs Facebook Group](https://www.facebook.com/groups/199713962534/)
+* [Tulsa Web Devs Google+ Community](https://plus.google.com/u/0/communities/105329276617610687480)
+* [Code for Tulsa Facebook Group](https://www.facebook.com/CodeForTulsa)
+* #tulsawebdevs on Freenode IRC
+
+### Upcoming Events
+
+[on Facebook](https://www.facebook.com/groups/199713962534/events/)
+
+### Past Events
+
+* 200OK Developer Conference - September 27,2013
+* National Day of Civic Hacking - June 1, 2013
