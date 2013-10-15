@@ -13,11 +13,11 @@ The ACM student organization at MSU is starting to organize OpenHacks!
 
 We're currently planning on holding the events about once a month during
 the school year. Everyone's welcome, so if you're interested in joining
-in send an email to us at acm@cse.msu.edu -- or checkout [our website](acm).
+in send an email to us at acm@cse.msu.edu -- or checkout [our website][acm].
 
 ### Next meetups
 
-Check out our schedule at [acm.cse.msu.edu](acm)
+Check out our schedule at [acm.cse.msu.edu][acm]
 
 ### Past meetups
 
