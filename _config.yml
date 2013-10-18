@@ -95,6 +95,10 @@ cities:
     name: Dublin, Ireland
     latitude: 53.3399637
     longitude: -6.259983099999999
+- east_lansing:
+    name: East Lansing, MI
+    latitude: 42.7255116
+    longitude: -84.4667982
 - erie:
     name: Erie, PA
     latitude: 42.12922409999999
