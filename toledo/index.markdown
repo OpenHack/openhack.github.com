@@ -14,43 +14,21 @@ title: OpenHack - Toledo, OH
 
 ### Sponsors
 
-We are currently looking for sponsors to help provide food and beverages. If you are interested in sponsoring OpenHack please email us at [hi@seedcoworking.com](mailto:hi@seedcoworking.com).
+We are currently looking for sponsors to help provide food and beverages. If you are interested in sponsoring OpenHack please email us at [aklynch11us@gmail.com](mailto:aklynch11us@gmail.com).
+
+LRITA.org sponsored our meetup on October 2nd and plan on sponsoring Openhack Toledo again on November 6th!
 
 ### Next meetups
 
-**Wednesday, August 21th**
-
-**Wednesday, September 4th**
-
-**Wednesday, September 18**
-
-**Wednesday, October 2nd**
-
 **Wednesday, October 16th**
+
+**Wednesday, November 6th**
+
+**Wednesday, November 20th** 
+
 
 We announce future meetups via our [Twitter](http://twitter.com/openhacktoledo) account. Follow that if you wish.
 
-### Past meetups
-
-**Wednesday, August 7th**
-
-**Monday, June 24th**
-
-**Monday, June 10th**
-
-**Monday, May 13th**
-
-**Monday, April 29th**
-
-**Monday, April 15th**
-
-**Monday, March 19th**
-
-**Monday, March 5th**
-
-**Monday, February 19th**
-
-**Monday, February 5th**
 
 ### Contact Info
 
