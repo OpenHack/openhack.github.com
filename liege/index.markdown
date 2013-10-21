@@ -19,6 +19,7 @@ planning on a meetup per month.
 
 ### Next meetups
 
+* [Third meetup: TBD](http://www.meetup.com/Open-Hack-Liege/events/146689512/)
 * [Second meetup: 2013-10-17](http://www.meetup.com/Open-Hack-Liege/events/142502702/)
 * [First meetup: 2013-09-19](http://www.meetup.com/Open-Hack-Liege/events/137299452/)
 
