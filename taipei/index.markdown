@@ -25,13 +25,13 @@ for English and Chinese speakers.
 
 <div class="vevent">
  <p><strong class="summary">OpenHack Taipei September</strong><br>
- <span class="description">Code together, on anything, with local hackers.  See event page on <a href="https://www.facebook.com/events/509461809122162/">Facebook</a></span><br>
+ <span class="description">Code together, on anything, with local hackers.  See event page on <a href="https://www.facebook.com/events/651316911569271/">Facebook</a></span><br>
  When:
    <span class="dtstart">
-      2013 September 29, Sunday, 7:00PM<span class="value-title" title="2013-09-29T19:00+08:00"></span>
+      2013 October 27, Sunday, 7:00PM<span class="value-title" title="2013-10-27T19:00+08:00"></span>
    </span>-
    <span class="dtend">
-      10:00PM<span class="value-title" title="2013-09-29T22:00+08:00"></span>
+      10:00PM<span class="value-title" title="2013-10-27T22:00+08:00"></span>
    </span><br>
   Where:
    <span class="location vcard">
@@ -60,6 +60,7 @@ for English and Chinese speakers.
 
 #### 2013
 
+* September 29, Sunday
 * August 25, Sunday
 * July 30, Sunday
 * June 30, Sunday
