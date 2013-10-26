@@ -33,6 +33,7 @@ The rules are simple:
 - **Thur, July 25th, 6:30pm** - OpenHackPHX #002 at [Game CoLab](http://gamecolab.org/) in Phoenix. (8 attendees) - [Photos](http://www.flickr.com/photos/openhackphx/sets/72157634799048653/)
 - **Thur, August 29th, 6:30pm** - OpenHack #003 at [Heatsync Labs](http://www.heatsynclabs.org/) in Mesa. (~12 attendees)
 - **Thur, Sept. 26th, 6:30pm** - OpenHack #004 at [desarrollo](http://i04545.wix.com/desarrollo#!about-us/cx7b) (located at [Infusionsoft](http://www.infusionsoft.com/contact)) in Chandler. (18 attendees) - [Photos](http://www.flickr.com/photos/openhackphx/sets/72157636065953123/)
+- **Tue, Oct. 22nd, 6:30pm** - OpenHack #005 at [Co+Hoots](http://www.cohoots.com/) in Phoenix. (12 attendees) - [Photos](http://www.flickr.com/photos/openhackphx/sets/72157636976946796/)
 
 ### Support
 
