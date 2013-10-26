@@ -9,9 +9,9 @@ title: OpenHack - Phoenix, AZ
 
 ### Upcoming OpenHacks
 
-- **Tue, Oct. 22nd, 6:30pm** - OpenHack #005 at [Co+Hoots](http://www.cohoots.com/) in Phoenix. [RSVP on NextPlex](http://nextplex.com/phoenix-az/calendar/events/11158-openhack-005).
+- **Thurs, Dec. 5th, 6:30pm** - OpenHack #006 at [Heatsync Labs](http://www.heatsynclabs.org/) in Mesa. [RSVP on NextPlex](http://nextplex.com/phoenix-az/calendar/events/12248-openhack-006).
 
-You do not need to RSVP. Feel free to just drop in, and to bring anyone else who would enjoy OpenHack.
+You do not need to RSVP. Feel free to just drop in, and to bring anyone else who you think would enjoy OpenHack.
 
 *Sign up for the [announce mailing list](http://eepurl.com/BkGf9) to get email alerts about upcoming OpenHacks.*
 
