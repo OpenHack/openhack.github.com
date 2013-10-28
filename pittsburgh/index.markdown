@@ -19,20 +19,6 @@ OpenHack Pittsburgh is held on the fourth Monday of every even month, from 6:30-
 
 Follow us on Twitter for timely updates: [@OpenHackPGH](http://twitter.com/OpenHackPGH)
 
-### Meetings
-
-**Monday June 24th, 2013**
-
-6:30pm at 4moms - 40 24th St, Pittsburgh PA 15222
-
-<a href="http://www.meetup.com/pittsburgh-ruby/events/120200292/" border="0" style="text-decoration:none;padding-left:25px;">RSVP Now</a> 
-
-### Previous Meetings
-
-- [March 25, 2013](http://www.meetup.com/pittsburgh-ruby/events/106184432/)
-- [February 25, 2013](http://www.meetup.com/pittsburgh-ruby/events/100822012/)
-- [January 21, 2013](http://www.meetup.com/pittsburgh-ruby/events/96033112/)
-
 ### Contact
 
 Contact us on Twitter or by email to inquire about hosting or sponsorship opportunities.
