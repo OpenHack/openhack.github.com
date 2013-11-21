@@ -7,10 +7,10 @@ title: OpenHack - Austin, TX
 
 ![Austin, TX Skyline](/austin/atx.jpg)
 
-### Next Meeting: Wednesday, November 6th, 7PM at Capital Factory
+### Next Meeting: Wednesday, December 4th, 7PM at Capital Factory
 
 We'll hold our next meeting at 7PM at [Capital Factory (701 Brazos)](http://goo.gl/maps/mKAtt)
-on Wednesday, November 6th.
+on Wednesday, December 4th.
 
 The idea is pretty simple: come with a project and/or programming language in mind that you know or are looking to learn, and then you'll team up (or pair up) with others who work in that language. Together you'll decide on a project to work on, and at the end of the night we'll all discuss what we did.
 
