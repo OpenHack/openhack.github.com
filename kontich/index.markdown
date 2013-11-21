@@ -17,15 +17,19 @@ You don’t have to have an idea to hack on! You’re more than welcome to come 
 
 Meetings are held every 3rd thursday of the month from 6pm to 11pm.
 
+Find us on [campfire](https://10to1.campfirenow.com/981ce)
+
 Hosted by [10to1](http://10to1.be).
 
 ### Next meetups
 
-- [Thursday 20 june 2013](https://plus.google.com/events/cokhr0ks7a11te86kodgud9g9ho)
+- [Thursday 21 november 2013](https://plus.google.com/events/cunj4ep8gskbj4ee3cof9ipuubg)
 
 See the [calendar](https://www.google.com/calendar/embed?src=74bgcbj8qtbqkcdj8iggp5grdc%40group.calendar.google.com&ctz=Europe/Brussels) for all the next meetups.
 
 ### Past meetups
+
+- [Thursday 20 june 2013](https://plus.google.com/events/cokhr0ks7a11te86kodgud9g9ho)
 
 - [Thursday 16 may 2013](https://plus.google.com/events/c337t17sasffoo9j77buopsaua4)
 
