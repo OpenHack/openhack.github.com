@@ -7,6 +7,29 @@ title: OpenHack - Austin, TX
 
 ![Austin, TX Skyline](/austin/atx.jpg)
 
+### January Social!
+
+OpenHack January is going to be a little different, for fun. On January 9th we're going to have a social
+event at 7PM at Mr. Tramp's pub in north Austin on Research blvd:
+
+- 8565 Research Boulevard
+- Austin, TX 78758
+- (512) 837-3500
+- mistertramps.com‎
+- http://goo.gl/maps/KqIGf
+
+We'll meet at 7PM. Unlike past OpenHack events, we're not going to focus PURELY on hacking or have any real structure - this is more of a social. However, that said, feel free to bring your laptop and a project! We're always down to crush a little code :)
+
+Feel free to invite friends - even those who wouldn't normally attend an OpenHack (a.k.a "non-developers"). The more the merrier.
+
+Just so we're clear, this is a NON-SPONSORED event, so you're going to be buying your own food and drinks. No free pizza this time. And face it, if you're coming for freebies, you're coming for the wrong reasons ;-)
+
+We'll have their back room to ourselves, but feel free to get out and mingle. When you show up to the event, just head straight into the large back room from the front door, past the bar on your right and that's where we'll be.
+
+The food and drinks at Mr. Tramp's is pretty good stuff. I personally recommend the fries - and others have told me the nachos are pretty darn awesome. They have a multitude of beers on tap and an experienced bar staff, so you should have no problem finding something you like.
+
+Looking forward to seeing everyone there!
+
 ### Next Meeting: Wednesday, December 4th, 7PM at Capital Factory
 
 We'll hold our next meeting at 7PM at [Capital Factory (701 Brazos)](http://goo.gl/maps/mKAtt)
