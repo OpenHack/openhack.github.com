@@ -91,6 +91,10 @@ cities:
     name: Dayton, OH
     latitude: 39.7589478
     longitude: -84.1916069
+- denton:
+    name: Denton, TX
+    latitude: 33.215349
+    longitude: -97.13459499999999
 - dublin:
     name: Dublin, Ireland
     latitude: 53.3399637
