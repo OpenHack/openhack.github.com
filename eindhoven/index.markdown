@@ -7,7 +7,7 @@ title: OpenHack - Eindhoven, Netherlands
 
 ![Photo of our hackers!](http://wiki.madspace.nl/lib/exe/fetch.php?media=p1010110_small.jpg)
 
-We are a team of friendly hackers in Eindhoven that regularly do pair programming together and love the open hack concept! 
+We are a team of friendly hackers in Eindhoven that regularly code together and love the open hack concept! 
 
 **Please join us!** We hack on open source and cool new technology. For more info see [http://www.MADspace.nl]( http://www.MADspace.nl )
 
