@@ -11,6 +11,8 @@ We are a team of friendly hackers in Eindhoven that regularly code together and 
 
 **Please join us!** We hack on open source and cool new technology. For more info see [http://www.MADspace.nl]( http://www.MADspace.nl )
 
+We love to hack with the newest tools like [http://getbootstrap.com/](http://getbootstrap.com/), [https://www.docker.io/](https://www.docker.io/)
+
 ### Info
 
 **Address:** Don Boscostraat 4, 5611 KW Eindhoven ( Near the station )
@@ -19,6 +21,7 @@ We are a team of friendly hackers in Eindhoven that regularly code together and 
 
 ### Next meetups
 **the 4th of January 2014 - [see our agenda](http://www.meetup.com)**
+
 
 We will organize an OpenHack each first Saturday of the month. 
 
