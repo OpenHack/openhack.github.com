@@ -7,18 +7,18 @@ title: OpenHack - Eindhoven, Netherlands
 
 ![Photo of our hackers!](http://wiki.madspace.nl/lib/exe/fetch.php?media=p1010110_small.jpg)
 
-We are a couple of friendly hackers in Eindhoven that code a lot together and love the open hack concept. 
+We are a team of friendly hackers in Eindhoven that code a lot together and love the open hack concept! 
 
-Please join us! We hack on open source and cool new technology. For more info see [http://www.MADspace.nl]( http://www.MADspace.nl )
+**Please join us!** We hack on open source and cool new technology. For more info see [http://www.MADspace.nl]( http://www.MADspace.nl )
 
 ### Info
 
-Address: Don Boscostraat 4, 5611 KW Eindhoven ( Near the station )
+**Address:** Don Boscostraat 4, 5611 KW Eindhoven ( Near the station )
 
-Mail:  [asc.eindhoven@gmail.com]( asc.eindhoven@gmail.com )
+**Mail:**  [asc.eindhoven@gmail.com]( asc.eindhoven@gmail.com )
 
 ### Next meetups
-the 4th of January 2014 - [see our meetup](http://www.meetup.com)
+**the 4th of January 2014 - [see our meetup](http://www.meetup.com)**
 
 We will organize an OpenHack each first Saturday of the month. 
 
