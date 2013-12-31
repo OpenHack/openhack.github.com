@@ -19,4 +19,4 @@ Registration is free and available through [EventBrite](https://openhackbhm.even
 
 ### Next meetup
 
-* [10 October 2013](https://openhackbhm.eventbrite.com)
+* [9 January 2014](https://openhackbhm.eventbrite.com)
