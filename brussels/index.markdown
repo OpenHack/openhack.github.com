@@ -15,7 +15,7 @@ If you have any question, please follow us on twitter [@openhackBRU](http://twit
 
 ### Next meetups
 
-**Next event will be by the end of august, stay tuned!**
+**Next event will be on 17 November!**
 *The second edition was a succes! Thanks to all attendees*
 
 We plan to organize one meetup per month.
