@@ -33,7 +33,7 @@ Please RSVP so we know how much food to get!
 
 ### Next meetups
 
-* [January 30, 2013](http://www.meetup.com/Boston-Ember-js/events/160542412/)
+* [January 30, 2014](http://www.meetup.com/Boston-Ember-js/events/160542412/)
 
 ### Past meetups
 
