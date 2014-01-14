@@ -8,7 +8,7 @@ title: OpenHack - Boston
 ![boston](/boston/boston.jpg)
 
 OpenHack Boston meets at [DockYard](http://dockyard.com), located at 101
-Trmeont Street (2nd floor), Boston, MA 02108.
+Tremont Street (2nd floor), Boston, MA 02108.
 
 Follow [@BostonOpenHack](https://twitter.com/BostonOpenHack) for future
 updates.
@@ -32,11 +32,12 @@ Here's how OpenHack will work:
 Please RSVP so we know how much food to get!
 
 ### Next meetups
-* [December 19,
-  2013](http://www.meetup.com/Boston-Ember-js/events/154894722/)
+
+* [January 30, 2013](http://www.meetup.com/Boston-Ember-js/events/160542412/)
 
 ### Past meetups
 
+* [December 20, 2013](http://www.meetup.com/Boston-Ember-js/events/154894722/)
 * [November 21, 2013](http://guestlistapp.com/events/212394)
 * [September 26, 2013](http://www.meetup.com/Boston-Ember-js/events/140201602/)
 * [August 29, 2013](https://guestlistapp.com/events/177726)
