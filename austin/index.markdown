@@ -7,49 +7,13 @@ title: OpenHack - Austin, TX
 
 ![Austin, TX Skyline](/austin/atx.jpg)
 
-### January Social!
+### OpenHack February
 
-OpenHack January is going to be a little different, for fun. On January 9th we're going to have a social
-event at 7PM at Mr. Tramp's pub in north Austin on Research blvd:
+OpenHack February is going to be Wednesday, February 12th at Capital Factory: 701 Brazos, 16th floor (office side) at 7PM.
 
-- 8565 Research Boulevard
-- Austin, TX 78758
-- (512) 837-3500
-- mistertramps.com‎
-- http://goo.gl/maps/KqIGf
+In 2014 we're changing our schedule slightly to be on the *second* Wednesday of each month. Our next meeting will be either in March or April. I'm considering skipping March, or possibly moving the venue, due to SXSW. I don't want anyone competing with that sea of tourists if we don't have to :)
 
-We'll meet at 7PM. Unlike past OpenHack events, we're not going to focus PURELY on hacking or have any real structure - this is more of a social. However, that said, feel free to bring your laptop and a project! We're always down to crush a little code :)
-
-Feel free to invite friends - even those who wouldn't normally attend an OpenHack (a.k.a "non-developers"). The more the merrier.
-
-Just so we're clear, this is a NON-SPONSORED event, so you're going to be buying your own food and drinks. No free pizza this time. And face it, if you're coming for freebies, you're coming for the wrong reasons ;-)
-
-We'll have their back room to ourselves, but feel free to get out and mingle. When you show up to the event, just head straight into the large back room from the front door, past the bar on your right and that's where we'll be.
-
-The food and drinks at Mr. Tramp's is pretty good stuff. I personally recommend the fries - and others have told me the nachos are pretty darn awesome. They have a multitude of beers on tap and an experienced bar staff, so you should have no problem finding something you like.
-
-Looking forward to seeing everyone there!
-
-### Next Meeting: Wednesday, December 4th, 7PM at Capital Factory
-
-We'll hold our next meeting at 7PM at [Capital Factory (701 Brazos)](http://goo.gl/maps/mKAtt)
-on Wednesday, December 4th.
-
-The idea is pretty simple: come with a project and/or programming language in mind that you know or are looking to learn, and then you'll team up (or pair up) with others who work in that language. Together you'll decide on a project to work on, and at the end of the night we'll all discuss what we did.
-
-As always, if you just want to show up and work on something solo, that's absolutely fine, too. Feel free to bounce ideas off of others while you're there.
-
-This is a great way to meet new people and learn some valuable skills, so come on out!
-
-### Schedule: First Wednesday of each month
-
-For anyone who's never been to Capital Factory, there's parking under the building itself
-(The Austin Centre) (for a fee).
-When you get inside the building, look for elevators to offices in the building
-(should be on the opposite side of the hotel lobby from where the parking garage elevators are).
-Take that elevator to the 16th floor (top floor). When you step off, you'll be "at"
-Capital Factory and should see signage as to where to go from there, or just ask for Nicholle.
-She runs the events there and can show you where we'll be.
+As always, bring a laptop, a project and a friend. While you're here, try to make some new friends as well!
 
 ### Mailing List, Twitter
 
