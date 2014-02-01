@@ -19,10 +19,13 @@ Follow [@OpenHackMia](http://twitter.com/openhackmia) for announcements.
 
 ### Next meetups
 
-* [January 27, 2014](http://www.meetup.com/miamirb/events/158107282/)
+* [February 3, 2014](http://www.meetup.com/miamirb/events/163786172/)
+* [February 10, 2014](http://www.meetup.com/miamirb/events/163786422/)
+* [February 24, 2014](http://www.meetup.com/miamirb/events/163786842/)
 
 ### Past meetups
 
+* Jan 27, 2014 (10 attendees)
 * Jan 13, 2014 (10 attendees)
 * Jan 06, 2014 (9 attendees)
 * Dec 30, 2013 (6 attendees)
