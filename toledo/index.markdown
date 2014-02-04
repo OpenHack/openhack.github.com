@@ -20,11 +20,11 @@ LRITA.org sponsored our meetup on October 2nd and plan on sponsoring Openhack To
 
 ### Next meetups
 
-**Wednesday, December 4th**
+**Wednesday**
 
-**Wednesday, January 15th**
+**Wednesday**
 
-**Wednesday, February 5th** 
+**Wednesday** 
 
 
 We announce future meetups via our [Twitter](http://twitter.com/openhacktoledo) account. Follow that if you wish.
