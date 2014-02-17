@@ -11,11 +11,13 @@ title: OpenHack - Buffalo, NY
 
 OpenHack Buffalo meets at [CoworkBuffalo](http://coworkbuffalo.com) on the 1st and 3rd Tuesdays of the month.
 
-Please RSVP on NextPlex below so we know how much food to get!
+Please RSVP on [NextPlex](http://nextplex.com/buffalo-ny/calendar) so we know how much food to get!
 
 ### Next meetups
 
-* [August 6, 2013](http://nextplex.com/buffalo-ny/calendar/events/9417-openhack-august)
+* [February 18, 2014](http://nextplex.com/buffalo-ny/calendar/events/14783)
+* [March 4, 2014](http://nextplex.com/buffalo-ny/calendar/events/15244)
+* [March 18, 2014](http://nextplex.com/buffalo-ny/calendar/events/15245)
 
 ### Past meetups
 
@@ -39,3 +41,4 @@ Please RSVP on NextPlex below so we know how much food to get!
 * June 4, 2013 - ~15
 * June 18, 2012 - ~15
 * July 2, 2013 - ~10
+* August 6, 2013
