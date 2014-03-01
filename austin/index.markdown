@@ -7,13 +7,9 @@ title: OpenHack - Austin, TX
 
 ![Austin, TX Skyline](/austin/atx.jpg)
 
-### OpenHack February
+### OpenHack
 
-OpenHack February is going to be Wednesday, February 12th at Capital Factory: 701 Brazos, 16th floor (office side) at 7PM.
-
-In 2014 we're changing our schedule slightly to be on the *second* Wednesday of each month. Our next meeting will be either in March or April. I'm considering skipping March, or possibly moving the venue, due to SXSW. I don't want anyone competing with that sea of tourists if we don't have to :)
-
-As always, bring a laptop, a project and a friend. While you're here, try to make some new friends as well!
+Due to SXSW, we're not going to run OpenHack in March. We'll resume in April.
 
 ### Mailing List, Twitter
 
