@@ -7,7 +7,7 @@ title: OpenHack - Austin, TX
 
 ![Austin, TX Skyline](/austin/atx.jpg)
 
-### OpenHack
+### OpenHack March
 
 Due to SXSW, we're not going to run OpenHack in March. We'll resume in April.
 
