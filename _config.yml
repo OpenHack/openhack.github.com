@@ -8,9 +8,9 @@ cities:
     latitude: 35.110703
     longitude: -106.609991
 - alma:
-    name: "Alma & Saguenay, QC"
-    latitude: 48.5500
-    longitude: -71.6500
+    name: Alma & Saguenay, QC
+    latitude: 48.55
+    longitude: -71.65
 - atlanta:
     name: Atlanta, GA
     latitude: 33.7489954
@@ -307,6 +307,10 @@ cities:
     name: Victoria, BC
     latitude: 48.425648
     longitude: -123.3648836
+- washington:
+    name: Washington, DC
+    latitude: 38.93246000000001
+    longitude: -77.2379629
 - waterloo:
     name: Waterloo, ON
     latitude: 43.4642578
