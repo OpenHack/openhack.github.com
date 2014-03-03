@@ -9,7 +9,7 @@ title: OpenHack - Albuquerque, NM
 
 ### Info
 
-OpenHackABQ's next meetup will be taking place on **Thursday February 20, 2014** at
+OpenHackABQ's next meetup will be taking place on **Thursday March 27, 2014** at
 [Convivium Coworking](http://www.conviviumcoworking.com/) starting at 6:00pm.
 
 OpenHackABQ's purpose is to offer a space where people of any skill level
@@ -23,7 +23,7 @@ are up to? Come on by and sit in on a project someone is working on.
 
 ### Next meetup
 
-The next meetup will be **February 20, 2014** at Convivium Coworking:
+The next meetup will be **March 27, 2014** at Convivium Coworking:
 
 5924 Anaheim Ave NE
 Albuquerque, NM 87113
@@ -46,7 +46,9 @@ for being a sponsor of OpenHack Albuquerque! We couldn't do this without you!
 
 ### Previous Meetings
 
-Our tenth meeting was Thursday January 16, 2014 at Convivium Coworking.
+Our tenth meeting was February 20, 2014 at Convivium Coworking.
+
+Our tenth meeting was January 16, 2014 at Convivium Coworking.
 
 Our ninth meeting was December 19, 2013 at Convivium Coworking.
 
