@@ -8,10 +8,10 @@ cities:
     latitude: 35.110703
     longitude: -106.609991
 - alma:
-    name: Alma & Saguenay, QC
-    latitude: 48.55
-    longitude: -71.65
-- atlanta:
+    name: "Alma & Saguenay, QC"
+    latitude: 48.5500
+    longitude: -71.6500
+ - atlanta:
     name: Atlanta, GA
     latitude: 33.7489954
     longitude: -84.3879824
