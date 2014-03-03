@@ -307,6 +307,10 @@ cities:
     name: Victoria, BC
     latitude: 48.425648
     longitude: -123.3648836
+- washington:
+    name: Washington, DC
+    latitude: 38.93246000000001
+    longitude: -77.2379629
 - waterloo:
     name: Waterloo, ON
     latitude: 43.4642578
