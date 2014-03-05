@@ -5,9 +5,28 @@ title: OpenHack - Washington, DC
 
 ## Washington, DC
 
+### Information about our Next Event
+
+Ok, meetup is not reliable right now due to a DDoS attack so you can't register for the OpenHackDC event. Bummer. You don't need to register if you plan on coming, but instead you can just <a href="http://twitter.com/home?status=I'll+be+in+attendance+at+the+first+OpenHackDC+event+@OpenHackDC+http%3A%2F%2Fbit.ly%2F1q17Wht" target="_blank">tweet at us</a>.
+
+#### When
+
+5:30-9:00pm on Tuesday, March 18th, 2014
+
+#### Where
+
+8474 Tyco Rd.<br />
+Suite D, Floor 2<br />
+Vienna, VA 22182 <br />
+<a href="https://maps.google.com/?q=8474+Tyco+Rd.,+Suite+D,+Floor+2,+Vienna,+VA+22182" target="_blank">Google Maps</a><br />
+
+We're located above ABC Imaging - look for the large Citrrus sign on the second floor window.
+
 ### Info
 
-The DC OpenHack is held at [Citrrus HQ](http://www.citrrus.com) the first and third Tuesday of every month from 5:30pm to 9:00pm. For event times, you should monitor out [Meetup page]().
+The DC OpenHack is held at [Citrrus HQ](http://www.citrrus.com) the first and third Tuesday of every month from 5:30pm to 9:00pm. For event times, you should monitor our <a href="http://www.meetup.com/OpenHack-DC" target="_blank">Meetup page</a>.
+
+<a href="http://twitter.com/intent/user?screen_name=OpenHackDC" target="_blank">Follow @OpenHackDC</a> for the latest news and updates
 
 ### Timeline
 
