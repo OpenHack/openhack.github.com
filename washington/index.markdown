@@ -11,7 +11,7 @@ Ok, meetup is not reliable right now due to a DDoS attack so you can't register 
 
 #### When
 
-5:30-9:00pm on Tuesday, March 18th, 2014
+5:30-9:00pm on Wednesday, March 19th, 2014
 
 #### Where
 
