@@ -21,16 +21,18 @@ Here's how OpenHack works:
 * Food and drinks will be provided
 * We'll generally wrap up around 9pm. If there’s interest, we'll head to a nearby coffee shop or bar for more discussion
 
-Feel free to join us - bring a friend, a laptop, and a project!
+Feel free to join us - bring a laptop, a project, and a friend!
 
-### More Info
+### Next Meetups
 
-Dates and location are TBA, but you can find more information on our group at [NextPlex](http://nextplex.com/syracuse-ny/groups/openhack-syracuse) and follow [@OpenHackSYR](http://twitter.com/OpenHackSYR) on twitter to stay up to date.
+OpenHack Syracuse meets downtown at the [Syracuse Tech Garden](http://www.thetechgarden.com/) on the last Tuesday of each month.
 
+[April 8th, 2014](http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/15908-openhack-1-0)
 
-### Next meetups
+May 13th, 2014
 
-* Coming soon!
+Please RSVP on our group's [NextPlex page](http://nextplex.com/syracuse-ny/groups/openhack-syracuse) so we know how much food to order.
+
+OH, and don't forget to follow [@OpenHackSYR](http://twitter.com/OpenHackSYR) on twitter to stay up to date!
 
 ### Past meetups
-
