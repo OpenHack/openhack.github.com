@@ -7,9 +7,25 @@ title: OpenHack - Austin, TX
 
 ![Austin, TX Skyline](/austin/atx.jpg)
 
-### OpenHack March
+### OpenHack April - April 9th, 7PM
 
-Due to SXSW, we're not going to run OpenHack in March. We'll resume in April.
+Let's write some code together at OpenHack April!
+
+April 9th, 7PM. Capital Factory: 701 Brazos, 16th floor (downtown).
+
+As usual, we'll start off with a quick round of introductions (tell us who you
+are, what you do, and what you want to work on or what you'd want to pair on)
+and we'll get to work on our projects.
+
+OpenHack is a great chance to meet other developers and expand your professional
+network, as well as make some friends. I'd also like to encourage everyone to
+seek each others' advice on engineering issues to see if you can find a better
+way to accomplish your goals.
+
+Come on out, make some new friends, and have a good time!
+
+[RSVP at Meetup.com](http://www.meetup.com/openhackatx/events/173248382/)
+(totally optional, you can just show up if you want.)
 
 ### Mailing List, Twitter
 
