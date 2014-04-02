@@ -7,11 +7,9 @@ title: OpenHack - Washington, DC
 
 ### Information about our Next Event
 
-Ok, meetup is not reliable right now due to a DDoS attack so you can't register for the OpenHackDC event. Bummer. You don't need to register if you plan on coming, but instead you can just <a href="http://twitter.com/home?status=I'll+be+in+attendance+at+the+first+OpenHackDC+event+@OpenHackDC+http%3A%2F%2Fbit.ly%2F1q17Wht" target="_blank">tweet at us</a>.
-
 #### When
 
-5:30-9:00pm on Wednesday, March 19th, 2014
+5:30-9:00pm on Tuesday, April 1st, 2014
 
 #### Where
 
@@ -58,8 +56,11 @@ The DC OpenHack is held at [Citrrus HQ](http://www.citrrus.com) the first and th
 
 ### Next meetups
 
+* Third Meetup (coming soon)
+* [Second Meetup](http://www.meetup.com/OpenHack-DC/events/172355382/)
 * [First Meetup](http://www.meetup.com/OpenHack-DC/events/169121832/)
 
 ### Past meetups
 
-Coming soon!
+#### March 19th, 2014
+![Picture of OpenHack DC Group at our First Meetup](/washington/images/2014-03-19.jpeg "March 19th, 2014")
