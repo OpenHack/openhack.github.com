@@ -25,7 +25,7 @@ Feel free to join us - bring a laptop, a project, and a friend!
 
 ### Next Meetups
 
-OpenHack Syracuse meets downtown at the [Syracuse Tech Garden](http://www.thetechgarden.com/) on the last Tuesday of each month.
+OpenHack Syracuse meets downtown at the [Syracuse Tech Garden](http://www.thetechgarden.com/) on the second Tuesday of each month.
 
 [April 8th, 2014](http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/15908-openhack-1-0)
 
