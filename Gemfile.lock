@@ -30,6 +30,5 @@ PLATFORMS
 DEPENDENCIES
   geocoder
   jekyll
-  maruku
   rake
   sass
