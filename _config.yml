@@ -1,6 +1,6 @@
 ---
 server: true
-markdown: maruku
+markdown: kramdown
 auto: true
 cities:
 - albuquerque:
