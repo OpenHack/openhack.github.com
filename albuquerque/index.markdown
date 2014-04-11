@@ -23,9 +23,10 @@ are up to? Come on by and sit in on a project someone is working on.
 
 ### Next meetup
 
-The next meetup will be **April 17, 2014** at Convivium Coworking:
+The next meetup will be **April 17, 2014** at:
 
-5924 Anaheim Ave NE
+Convivium Coworking  
+5924 Anaheim Ave NE  
 Albuquerque, NM 87113
 
 [Map](http://goo.gl/maps/5y7xs)
@@ -52,18 +53,29 @@ June 19, 2014 at Convivium Coworking.
 
 ### Previous Meetings
 
-12. March 27, 2014 at Convivium Coworking.  
-11. February 20, 2014 at Convivium Coworking.  
-10. January 16, 2014 at Convivium Coworking.  
-09. December 19, 2013 at Convivium Coworking.  
-08. November 21, 2013 at Convivium Coworking.  
-07. October 17, 2013 at Convivium Coworking.  
-06. September 19, 2013 at Convivium Coworking.  
-05. August 15, 2013 at Convivium Coworking.  
-04. July 18, 2013 at Convivium Coworking.  
-03. June 20, 2013 at Convivium Coworking.  
-02. May 16, 2013 at Convivium Coworking.  
-01. April 18, 2013 at Convivium Coworking.  
+12. March 27, 2014 at Convivium Coworking.
+
+11. February 20, 2014 at Convivium Coworking.
+
+10. January 16, 2014 at Convivium Coworking.
+
+09. December 19, 2013 at Convivium Coworking.
+
+08. November 21, 2013 at Convivium Coworking.
+
+07. October 17, 2013 at Convivium Coworking.
+
+06. September 19, 2013 at Convivium Coworking.
+
+05. August 15, 2013 at Convivium Coworking.
+
+04. July 18, 2013 at Convivium Coworking.
+
+03. June 20, 2013 at Convivium Coworking.
+
+02. May 16, 2013 at Convivium Coworking.
+
+01. April 18, 2013 at Convivium Coworking.
 
 Photos from the first event:
 
