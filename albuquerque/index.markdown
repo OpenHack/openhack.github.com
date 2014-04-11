@@ -9,7 +9,7 @@ title: OpenHack - Albuquerque, NM
 
 ### Info
 
-OpenHackABQ's next meetup will be taking place on **Thursday March 27, 2014** at
+OpenHackABQ's next meetup will be taking place on **Thursday April 17, 2014** at
 [Convivium Coworking](http://www.conviviumcoworking.com/) starting at 6:00pm.
 
 OpenHackABQ's purpose is to offer a space where people of any skill level
@@ -23,7 +23,7 @@ are up to? Come on by and sit in on a project someone is working on.
 
 ### Next meetup
 
-The next meetup will be **March 27, 2014** at Convivium Coworking:
+The next meetup will be **April 17, 2014** at Convivium Coworking:
 
 5924 Anaheim Ave NE
 Albuquerque, NM 87113
@@ -44,29 +44,26 @@ information.
 A **huge** thank you to [Convivium Coworking](http://www.conviviumcoworking.com/)
 for being a sponsor of OpenHack Albuquerque! We couldn't do this without you!
 
+### Future Meeting
+
+April 17, 2014 at Convivium Coworking.  
+May 15, 2014 at Convivium Coworking.  
+June 19, 2014 at Convivium Coworking.
+
 ### Previous Meetings
 
-Our tenth meeting was February 20, 2014 at Convivium Coworking.
-
-Our tenth meeting was January 16, 2014 at Convivium Coworking.
-
-Our ninth meeting was December 19, 2013 at Convivium Coworking.
-
-Our eighth meeting was November 21, 2013 at Convivium Coworking.
-
-Our seventh meeting was October 17, 2013 at Convivium Coworking.
-
-Our sixth meeting was September 19, 2013 at Convivium Coworking.
-
-Our fifth meeting was August 15, 2013 at Convivium Coworking.
-
-Our fourth meeting was July 18, 2013 at Convivium Coworking.
-
-Our third meeting was June 20, 2013 at Convivium Coworking.
-
-Our second meeting was May 16, 2013 at Convivium Coworking.
-
-The first meetup was April 18, 2013 at Convivium Coworking.
+12. March 27, 2014 at Convivium Coworking.  
+11. February 20, 2014 at Convivium Coworking.  
+10. January 16, 2014 at Convivium Coworking.  
+09. December 19, 2013 at Convivium Coworking.  
+08. November 21, 2013 at Convivium Coworking.  
+07. October 17, 2013 at Convivium Coworking.  
+06. September 19, 2013 at Convivium Coworking.  
+05. August 15, 2013 at Convivium Coworking.  
+04. July 18, 2013 at Convivium Coworking.  
+03. June 20, 2013 at Convivium Coworking.  
+02. May 16, 2013 at Convivium Coworking.  
+01. April 18, 2013 at Convivium Coworking.  
 
 Photos from the first event:
 
