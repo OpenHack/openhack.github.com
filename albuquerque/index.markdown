@@ -53,29 +53,18 @@ June 19, 2014 at Convivium Coworking.
 
 ### Previous Meetings
 
-12. March 27, 2014 at Convivium Coworking.
-
-11. February 20, 2014 at Convivium Coworking.
-
-10. January 16, 2014 at Convivium Coworking.
-
-09. December 19, 2013 at Convivium Coworking.
-
-08. November 21, 2013 at Convivium Coworking.
-
-07. October 17, 2013 at Convivium Coworking.
-
-06. September 19, 2013 at Convivium Coworking.
-
-05. August 15, 2013 at Convivium Coworking.
-
-04. July 18, 2013 at Convivium Coworking.
-
-03. June 20, 2013 at Convivium Coworking.
-
-02. May 16, 2013 at Convivium Coworking.
-
-01. April 18, 2013 at Convivium Coworking.
+* March 27, 2014 at Convivium Coworking.
+* February 20, 2014 at Convivium Coworking.
+* January 16, 2014 at Convivium Coworking.
+* December 19, 2013 at Convivium Coworking.
+* November 21, 2013 at Convivium Coworking.
+* October 17, 2013 at Convivium Coworking.
+* September 19, 2013 at Convivium Coworking.
+* August 15, 2013 at Convivium Coworking.
+* July 18, 2013 at Convivium Coworking.
+* June 20, 2013 at Convivium Coworking.
+* May 16, 2013 at Convivium Coworking.
+* April 18, 2013 at Convivium Coworking.
 
 Photos from the first event:
 
