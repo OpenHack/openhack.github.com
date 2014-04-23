@@ -10,6 +10,9 @@ title: OpenHack - Boston
 OpenHack Boston meets at [DockYard](http://dockyard.com), located at 101
 Tremont Street (2nd floor), Boston, MA 02108.
 
+### Next meetups
+* [April 28, 2014](http://guestli.st/249969)
+
 Follow [@BostonOpenHack](https://twitter.com/BostonOpenHack) for future
 updates.
 
@@ -24,20 +27,17 @@ Here's how OpenHack will work:
 * The organizers will order food, so you don't have to worry about dinner.
   We greatly appreciate sponsors for this, and please do get in contact if
   you are interested.
-* BYOB is very encouraged!
-* We'll call it a night around 10pm or 11pm. Focus usually wanes by this point, for
+* BYOB is encouraged!
+* We'll call it a night around 10pm. Focus usually wanes by this point, for
   obvious reasons! If there's interest for further discussion, we can head to a
   bar.
 
 Please RSVP so we know how much food to get!
 
-### Next meetups
-
-* [January 30, 2014](http://www.meetup.com/Boston-Ember-js/events/160542412/)
-
 ### Past meetups
 
-* [December 20, 2013](http://www.meetup.com/Boston-Ember-js/events/154894722/)
+* [January 30, 2014](http://www.meetup.com/Boston-Ember-js/events/160542412/)
+* [December 19, 2013](http://www.meetup.com/Boston-Ember-js/events/154894722/)
 * [November 21, 2013](http://guestlistapp.com/events/212394)
 * [September 26, 2013](http://www.meetup.com/Boston-Ember-js/events/140201602/)
 * [August 29, 2013](https://guestlistapp.com/events/177726)
