@@ -9,7 +9,7 @@ title: OpenHack - Washington, DC
 
 #### When
 
-5:30-9:00pm on Tuesday, April 1st, 2014
+5:30-9:00pm on the first and third Tuesday of every month
 
 #### Where
 
@@ -26,11 +26,13 @@ The DC OpenHack is held at [Citrrus HQ](http://www.citrrus.com) the first and th
 
 <a href="http://twitter.com/intent/user?screen_name=OpenHackDC" target="_blank">Follow @OpenHackDC</a> for the latest news and updates
 
+In the past, people have worked on projects using NodeJS, Objective-C, Java, C, Lua and AngularJS, and on worked on iPhone and Android devices, Arduino, Tessel.io and Rasberry Pi.
+
 ### Timeline
 
 * 5:30 Arrive and setup
-* 6:00 Introductions - who are you and what are you doing?
-* 6:30 Dinner arrives
+* 6:00 Dinner arrives
+* 6:30 Introductions - who are you and what are you doing?
 * 8:50 Begin to pack up
 * 9:00 Depart
 
@@ -39,7 +41,7 @@ The DC OpenHack is held at [Citrrus HQ](http://www.citrrus.com) the first and th
 * You can work on anything you'd like - open source or personal
 * You don't need to come with an idea
 * One of the sponsors will be going around to get a little bit of info on what you're working on so we can share it with the community.
-    
+
   If it's something that can't/shouldn't be publicized, please let us know so we don't post it!
 
 ### Sponsor
@@ -56,7 +58,10 @@ The DC OpenHack is held at [Citrrus HQ](http://www.citrrus.com) the first and th
 
 ### Next meetups
 
-* Third Meetup (coming soon)
+* [Sixth Meetup](http://www.meetup.com/OpenHack-DC/events/dldqgjysjbnb/)
+* [Fifth Meetup](http://www.meetup.com/OpenHack-DC/events/dldqgjyshbkc/)
+* [Fourth Meetup](http://www.meetup.com/OpenHack-DC/events/177568652/)
+* [Third Meetup](http://www.meetup.com/OpenHack-DC/events/175875712/)
 * [Second Meetup](http://www.meetup.com/OpenHack-DC/events/172355382/)
 * [First Meetup](http://www.meetup.com/OpenHack-DC/events/169121832/)
 
