@@ -15,9 +15,10 @@ Please RSVP on [NextPlex](http://nextplex.com/buffalo-ny/calendar) so we know ho
 
 ### Next meetups
 
-* [April 15, 2014](http://nextplex.com/buffalo-ny/calendar/events/15661)
-* [May 6, 2014](http://nextplex.com/buffalo-ny/calendar/events/16084)
 * [May 20, 2014](http://nextplex.com/buffalo-ny/calendar/events/16085)
+* [June 3, 2014](http://nextplex.com/buffalo-ny/calendar/events/16807)
+* [June 17, 2014](http://nextplex.com/buffalo-ny/calendar/events/16808)
+
 
 ### Past meetups
 
@@ -46,3 +47,5 @@ Please RSVP on [NextPlex](http://nextplex.com/buffalo-ny/calendar) so we know ho
 * March 4, 2014
 * March 18, 2014
 * April 1, 2014
+* April 15, 2014
+* May 6, 2014
