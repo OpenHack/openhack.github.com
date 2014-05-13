@@ -17,17 +17,27 @@ You don’t have to have an idea to hack on! You’re more than welcome to come 
 
 Meetings are held every 3rd thursday of the month from 6pm to 11pm.
 
+Location and drinks provided by [10to1](http://10to1.be), foodwise we're mostly ordering [pizzas from here](http://www.pizza.be/da-capa) so @-mention [@bobvlanduyt](https://twitter.com/bobvlanduyt) or [@pjaspers](https://twitter.com/pjaspers) to order.
+
 Find us on [campfire](https://10to1.campfirenow.com/981ce)
 
 Hosted by [10to1](http://10to1.be).
 
 ### Next meetups
 
-- [Thursday 20 february 2014](https://plus.google.com/events/cl4v62prp56k22l70d660efrcvg?authkey=CIHq1fCFh6K4Rg)
+- [Thursday 15 May]()
 
 See the [calendar](https://www.google.com/calendar/embed?src=74bgcbj8qtbqkcdj8iggp5grdc%40group.calendar.google.com&ctz=Europe/Brussels) for all the next meetups.
 
 ### Past meetups
+
+- [Thursday 17 April 2014]()
+
+- [Thursday 20 March 2014]()
+ 
+- [Thursday 20 february 2014](https://plus.google.com/events/cl4v62prp56k22l70d660efrcvg?authkey=CIHq1fCFh6K4Rg)
+
+- [Thursday 16 January 2014](https://plus.google.com/events/cl4v62prp56k22l70d660efrcvg?authkey=CIHq1fCFh6K4Rg)
 
 - [Thursday 12 december 2013](https://plus.google.com/events/ckuuuh73g22rnn9li0eptb3ueg8) (One week early because of the holidays)
 
