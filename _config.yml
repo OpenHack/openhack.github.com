@@ -247,6 +247,10 @@ cities:
     name: Shanghai, China
     latitude: 31.203405
     longitude: 121.481323
+- st_helier:
+    name: St. Helier, Jersey
+    latitude: 49.1868225
+    longitude: -2.1065682
 - sydney:
     name: Sydney, Australia
     latitude: -33.8674869
