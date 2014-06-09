@@ -21,6 +21,7 @@ Follow [@OpenHackMia](http://twitter.com/openhackmia) for announcements.
 
 * [June 09, 2014](http://www.meetup.com/miamirb/events/184240312/)
 * [June 23, 2014](http://www.meetup.com/miamirb/events/184240442/)
+* [June 30, 2014](http://www.meetup.com/miamirb/events/187976042/)
 
 ### Past meetups
 
