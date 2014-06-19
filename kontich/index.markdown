@@ -25,16 +25,18 @@ Hosted by [10to1](http://10to1.be).
 
 ### Next meetups
 
-- [Thursday 15 May]()
+- [Thursday 19 June]()
 
 See the [calendar](https://www.google.com/calendar/embed?src=74bgcbj8qtbqkcdj8iggp5grdc%40group.calendar.google.com&ctz=Europe/Brussels) for all the next meetups.
 
 ### Past meetups
 
+- [Thursday 15 May]()
+
 - [Thursday 17 April 2014]()
 
 - [Thursday 20 March 2014]()
- 
+
 - [Thursday 20 february 2014](https://plus.google.com/events/cl4v62prp56k22l70d660efrcvg?authkey=CIHq1fCFh6K4Rg)
 
 - [Thursday 16 January 2014](https://plus.google.com/events/cl4v62prp56k22l70d660efrcvg?authkey=CIHq1fCFh6K4Rg)
