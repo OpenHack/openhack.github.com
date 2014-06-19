@@ -15,10 +15,13 @@ Bring your laptop, grab a brew at the counter, and become a part of Denton's [em
 
 ### Next meetups at [Banter](http://dentonbanter.com/).
 
-* February 19 2014
-* March 19 2014
 * April 16 2014
 * May 21 2014
+* June 18 2014
+* July 16 2014
+* August 20 2014
+* September 17 2014
+* October 15 2014
 
 ### Follow our twitters:
 
