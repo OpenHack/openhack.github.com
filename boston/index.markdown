@@ -11,7 +11,7 @@ OpenHack Boston meets at [DockYard](http://dockyard.com), located at 101
 Tremont Street (2nd floor), Boston, MA 02108.
 
 ### Next meetups
-[June 12, 2014](https://guestlistapp.com/events/260202)
+TBA
 
 Follow [@BostonOpenHack](https://twitter.com/BostonOpenHack) for future
 updates.
@@ -36,6 +36,7 @@ Please RSVP so we know how much food to get!
 
 ### Past meetups
 
+* [June 12, 2014](https://guestlistapp.com/events/260202)
 * [May 27, 2014](https://guestlistapp.com/events/258114)
 * [April 28, 2014](http://guestli.st/249969)
 * [January 30, 2014](http://www.meetup.com/Boston-Ember-js/events/160542412/)
