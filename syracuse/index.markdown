@@ -24,13 +24,13 @@ Here's how OpenHack works:
 Feel free to join us - bring a laptop, a project, and a friend!
 
 ### Next Meetup
-[**June 10th, 2014**](http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/17551-openhack-3)
+[**July 8th, 2014**](http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/17706-openhack-4)
 
-Syracuse Tech Gardens  
-235 Harrison Street  
+Syracuse Tech Gardens
+235 Harrison Street
 Syracuse, NY 13202
 
-[RSVP on NextPlex](http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/17551-openhack-3) and we'll order food!
+[RSVP on NextPlex](http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/17706-openhack-4) and we'll order food!
 
 ### Contact
 You can follow us on twitter [@OpenHackSYR](http://twitter.com/OpenHackSYR), sign up for [our mailing list](http://eepurl.com/TEpWD), and check our [NextPlex page](http://nextplex.com/syracuse-ny/groups/openhack-syracuse) to stay up to date!
@@ -43,11 +43,12 @@ OpenHack Syracuse meets downtown at the [Tech Garden](http://www.thetechgarden.c
 
 Mark your calendar for:
 
-* June 10th
 * July 8th
 * August 12th
+* September 9th
 * and so on...
 
 ### Previous meetups
+- June 10<sup>th</sup>, 2014 at The Tech Garden (9 attendees)
 - May 13<sup>th</sup>, 2014 at The Tech Garden (7 attendees)
 - April 8<sup>th</sup>, 2014 at The Tech Garden (8 attendees)
