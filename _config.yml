@@ -271,6 +271,10 @@ cities:
     name: Shanghai, China
     latitude: 31.203405
     longitude: 121.481323
+- st_catharines:
+    name: St. Catharines, ON
+    latitude: 39.71819929999999
+    longitude: -104.9510427
 - st_helier:
     name: St. Helier, Jersey
     latitude: 49.1868225
