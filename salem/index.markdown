@@ -28,5 +28,5 @@ We are at 276 Essex Street.  It is the second floor, right above Bella Hair Stud
 
 ### Next meetups
 
-* [First meetup](http://www.meetup.com/OpenHack-Salem/events/180761332/)
+* [Late July meetup](http://www.meetup.com/OpenHack-Salem/events/191610882/)
 
