@@ -47,8 +47,8 @@ for being a sponsor of OpenHack Albuquerque! We couldn't do this without you!
 
 ### Future Meeting
 
-July 17, 2014 at Convivium Coworking
-August 21, 2014 at Convivium Coworking
+July 17, 2014 at Convivium Coworking  
+August 21, 2014 at Convivium Coworking  
 September 18, 2014 at Convivium Coworking
 
 ### Previous Meetings
