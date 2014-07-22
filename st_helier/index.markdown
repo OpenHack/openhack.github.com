@@ -19,14 +19,9 @@ You can **[register for interest](https://docs.google.com/forms/d/1jkc5MzXG-ZG-K
 
 ### Contact Info
 
-* [TechTribes on Twitter](https://twitter.com/techtribesje)
-* [Collaborate.je Website](http://collaborate.je/contact/)
+* [Hackathon Twitter Account](https://twitter.com/hackjsy)
 * [Email to hello@collaborate.je](mailto:hello@collaborate.je)
 
 ### Next meetups
 
-We're still planning this initial event but we do know it will run at some point in September 2014 and will likely be held at the [Digital Jersey Hub](http://www.digital.je/hub) in St. Helier.
-
-The planning thread is now open for discussion so please jump in and join the conversation. 
-
-* [Planning thread for the first meetup](http://collaborate.je/2014/05/jersey-hackathon-sept-2014/)
+We're still planning this initial event but we do know it will run at some point in September 2014 and will be held at the [Digital Jersey Hub](http://www.digital.je/hub) in St. Helier.
