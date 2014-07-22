@@ -19,14 +19,16 @@ You can **[register for interest](https://docs.google.com/forms/d/1jkc5MzXG-ZG-K
 
 ### Contact Info
 
-* [TechTribes on Twitter](https://twitter.com/techtribesje)
-* [Collaborate.je Website](http://collaborate.je/contact/)
+* [Hackathon Twitter Account](https://twitter.com/hackjsy)
+* [Hackathon on Facebook](https://www.facebook.com/groups/656101524475492/)
 * [Email to hello@collaborate.je](mailto:hello@collaborate.je)
 
 ### Next meetups
 
-We're still planning this initial event but we do know it will run at some point in September 2014 and will likely be held at the [Digital Jersey Hub](http://www.digital.je/hub) in St. Helier.
+The first Open, Island Wide Hackathon will take place on:
 
-The planning thread is now open for discussion so please jump in and join the conversation. 
+**Friday, 26 September 2014 at 18:00 - Sunday, 28 September 2014 at 11:00**
 
-* [Planning thread for the first meetup](http://collaborate.je/2014/05/jersey-hackathon-sept-2014/)
+at the Digital Jersey Hub.
+
+Registration is now open and you can [get tickets from the Hackathon Eventbrite Page](https://jersey-hackathon-v1.eventbrite.com/)
