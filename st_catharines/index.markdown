@@ -26,7 +26,6 @@ Here's what you should know:
 
 ### Next meetups
 
-* [August 25, 2014](http://openhackstc.eventbrite.com)
 * [September 22, 2014](http://openhackstc.eventbrite.com)
 * [October 27, 2014](http://openhackstc.eventbrite.com)
 * [November 24, 2014](http://openhackstc.eventbrite.com)
@@ -34,6 +33,7 @@ Here's what you should know:
 
 ### Past meetups
 
+* [August 25, 2014](http://openhackstc.eventbrite.com)
 * [July 28, 2014](http://openhackstc.eventbrite.com)
 
 ### Thank You
