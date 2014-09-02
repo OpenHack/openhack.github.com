@@ -113,7 +113,8 @@ a {
             background-position: right center, left bottom;
             color: white;
             border-top-color: #69b373; }
-          .wrapper #menu_wrapper ul li a:active {
+          .wrapper #menu_wrapper ul li a:active, .wrapper #menu_wrapper ul li.active a {
+            color: white;
             background-color: #69b373;
             background-image: url("/images/city-arrow-hover.png"), url("/images/green-gradient.png");
             background-repeat: no-repeat, repeat-x;
