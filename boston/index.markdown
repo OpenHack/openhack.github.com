@@ -12,7 +12,7 @@ Tremont Street (2nd floor), Boston, MA 02108.
 
 ### Next meetups
 
-TBD
+* [September 30, 2014](https://guestlistapp.com/events/287724)
 
 Follow [@BostonOpenHack](https://twitter.com/BostonOpenHack) for future
 updates.
