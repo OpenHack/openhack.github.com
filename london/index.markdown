@@ -3,6 +3,8 @@ layout: default
 title: OpenHack - London, UK
 ---
 
+<link rel="stylesheet" href="index.css">
+
 ## London, UK
 
 ![London](/london/london.jpg)
@@ -10,7 +12,9 @@ title: OpenHack - London, UK
 ### Join us
 
 OpenHack is a free event, but space is limited.
-Please [**RSVP on Meetup**][meetup] or [**RSVP on Eventbrite**][eventbrite].
+
+<a href="http://www.meetup.com/OpenHack-London/" class="btn">RSVP on Meetup</a>
+<a href="https://www.eventbrite.com/e/openhack-london-tickets-12943202467" class="btn">RSVP on Eventbrite</a>
 
 ### Who are we and what do we do?
 
