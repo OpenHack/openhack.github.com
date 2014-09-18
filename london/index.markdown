@@ -3,16 +3,18 @@ layout: default
 title: OpenHack - London, UK
 ---
 
+<link rel="stylesheet" href="index.css">
+
 ## London, UK
 
 ![London](/london/london.jpg)
 
-### RSVP
+### Join us
 
-Please [**RSVP on Eventbrite**](https://www.eventbrite.com/e/openhack-london-tickets-12943202467)
-so we know how many people to expect.
+OpenHack is a free event, but space is limited.
 
-More info at [http://openhackldn.eventbrite.com](http://openhackldn.eventbrite.com)
+<a href="http://www.meetup.com/OpenHack-London/" class="btn">RSVP on Meetup</a>
+<a href="https://www.eventbrite.com/e/openhack-london-tickets-12943202467" class="btn">RSVP on Eventbrite</a>
 
 ### Who are we and what do we do?
 
@@ -76,10 +78,10 @@ excluded from the event at the discretion of the organisers or host.
 
 We would like to thank [uSwitch][] for kindly letting us use their community space.
 
-If you or your company would like to sponsor us (e.g. pizza fund), please reach
-out to us!
+If you or your company would like to sponsor us (e.g. pizza fund), do get in touch!
 
-P.S. You should join us for the next event, [click here to RSVP][RSVP] :)
+P.S. You should join us for the next event, [click here to RSVP][meetup] :)
 
-[RSVP]: https://www.eventbrite.com/e/openhack-london-tickets-12943202467
 [uSwitch]: http://www.uswitch.com
+[eventbrite]: https://www.eventbrite.com/e/openhack-london-tickets-12943202467
+[meetup]: http://www.meetup.com/OpenHack-London/
