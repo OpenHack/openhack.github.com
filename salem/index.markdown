@@ -11,7 +11,10 @@ title: OpenHack - Salem, MA
 
 Salem OpenHack is hosted by Fast Forward at the our offices at 276 Essex Street.  Pizza and beer are provided.
 
-Our first meeting is Thursday, June 26th.  Come for the beer and pizza, stay for the creativity.
+Summer is over, time for more hacking.  Come for the beer and pizza, stay for the creativity.
+
+We have some new toys on the way.  We have a Kinect in the house and a Occulus on the way. We have added some Windows touchscreens and will
+have some new stuff coming.
 
 Schedule:
 
@@ -28,5 +31,6 @@ We are at 276 Essex Street.  It is the second floor, right above Bella Hair Stud
 
 ### Next meetups
 
-* [First meetup](http://www.meetup.com/OpenHack-Salem/events/180761332/)
+See Meetup.com for a schedule of meetups
 
+[OpenHack on Meetup.com](http://www.meetup.com/OpenHack-Salem/)
