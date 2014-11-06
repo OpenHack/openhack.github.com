@@ -22,7 +22,7 @@ I'm canceling the December OpenHackABQ event and will be looking for a new
 space so that we can pick up again in January.
 
 This is a call to action for all of the OpenHackers out there, too. If you,
-someone you work for, someone you know, has a space that can accomodate a
+someone you work for, someone you know, has a space that can accommodate a
 group like OpenHackABQ please let me know. If you have _any_ questions, do
 not hesitate to reach out to me.
 
