@@ -18,7 +18,7 @@ is not only a loss to us, but a loss to Albuquerque.
 
 Without Convivium, OpenHackABQ has no home.
 
-I'm cancelling the December OpenHackABQ event and will be looking for a new
+I'm canceling the December OpenHackABQ event and will be looking for a new
 space so that we can pick up again in January.
 
 This is a call to action for all of the OpenHackers out there, too. If you,
