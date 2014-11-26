@@ -29,8 +29,10 @@ Learn from others, or teach others.
 
 ### Where and when?
 
-We meet on the **first Monday of the month** at **uSwitch** from **6:30-9:30 pm**.
+We meet on the **first Monday of the month** at **TBD** from **6:30-9:30 pm**.
 
+Do you know a location with wi-fi that we can use for free? [Get in touch!](#contact)
+<!--
 The full address is
 
 <address>
@@ -48,6 +50,7 @@ SE1 9EU
 It's a &frac12; mile (10 min walk) from London Bridge Station.
 
 [![Walking directions from London Bridge to Notcutt House](/london/walking-directions.png)](https://goo.gl/maps/MnajB)
+-->
 
 ### Food & drink
 
