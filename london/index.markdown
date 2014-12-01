@@ -14,54 +14,46 @@ title: OpenHack - London, UK
 OpenHack is a free event, but space is limited.
 
 <a href="http://www.meetup.com/OpenHack-London/" class="btn">RSVP on Meetup</a>
-<a href="https://www.eventbrite.com/e/openhack-london-tickets-12943202467" class="btn">RSVP on Eventbrite</a>
 
 ### Who are we and what do we do?
 
 We're the London-based OpenHack group.
 
-OpenHack is a meetup with a simple purpose: Code together, on anything.
+OpenHack is a casual social coding meetup with a simple purpose: *Code together, on anything.*
 
-We welcome all skill levels, backgrounds, ages, genders, you name it.
+We welcome all skill levels, interests, ages, genders, you name it.
 
-Come and hack on anything you want, alone or in a group.
-Learn from others, or teach others.
+We're a friendly bunch and enjoy meeting new people.
+Don't forget your laptop!
 
 ### Where and when?
 
-We meet on the **first Monday of the month** at **TBD** from **6:30-9:30 pm**.
+We meet on the **first Monday of the month** at **[Skills Matter][sm-group]** from **6:30-9:00 pm**.
 
-Do you know a location with wi-fi that we can use for free? [Get in touch!](#contact)
-<!--
-The full address is
+<a href="https://skillsmatter.com">
+  <img src="/london/skills-matter.png" alt="Venue provided by Skills Matter" title="Find us at Skills Matter">
+</a>
 
 <address>
 <p>
-uSwitch Limited<br>
-Notcutt House<br>
-36 Southwark Bridge Road<br>
+<a href="http://goo.gl/maps/k7MJn">
+Skills Matter<br>
+116-120 Goswell Road<br>
 London<br>
-SE1 9EU
+EC1V 7DP
+</a>
 </p>
 </address>
 
-<img src="/london/notcutt-house.png" style="width: 500px" alt="Notcutt House" title="Notcutt House, 36 Southwark Bridge Road, London">
-
-It's a &frac12; mile (10 min walk) from London Bridge Station.
-
-[![Walking directions from London Bridge to Notcutt House](/london/walking-directions.png)](https://goo.gl/maps/MnajB)
--->
-
 ### Food & drink
 
-At the moment we do not provide any food or drink.
-Please bring your own until we find sponsors.
+Complimentary tea, coffee, and biscuits are provided by Skills Matter.
 
 ### Code of Conduct
 
-We expect all of our attendees, sponsors, volunteers, and staff to be
-respectful and considerate of others. They are all required to agree with this
-code of conduct. Organisers will enforce it throughout the event.
+We expect all of our attendees, sponsors, and volunteers to be respectful and
+considerate of others. They are all required to agree with this code of conduct.
+Organisers will enforce it throughout the event.
 
 OpenHackLDN is dedicated to providing a harassment-free experience for everyone,
 regardless of gender, age, sexual orientation, disability, physical appearance,
@@ -79,12 +71,14 @@ excluded from the event at the discretion of the organisers or host.
 
 ### Thank You
 
-We would like to thank [uSwitch][] for kindly letting us use their community space.
+- [uSwitch] for kindly letting us use their community space for our first two meetups.  
+- [Skills Matter][skills-matter] for providing a long-term space where OpenHack can thrive <3
 
-If you or your company would like to sponsor us (e.g. pizza fund), do get in touch!
+If you or your company would like to get involved or sponsor us, do get in touch!
 
-P.S. You should join us for the next event, [click here to RSVP][meetup] :)
+P.S. Come and join us for the next event, [click here to RSVP][meetup] :)
 
 [uSwitch]: http://www.uswitch.com
-[eventbrite]: https://www.eventbrite.com/e/openhack-london-tickets-12943202467
 [meetup]: http://www.meetup.com/OpenHack-London/
+[skills-matter]: https://skillsmatter.com/
+[sm-group]: https://skillsmatter.com/groups/10532-open-hack-london "OpenHack London group on Skills Matter"
