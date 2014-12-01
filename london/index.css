@@ -32,3 +32,7 @@
   position: relative;
   top: 1px;
 }
+
+address a { text-decoration: none; }
+
+a { color: green; }
