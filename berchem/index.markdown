@@ -17,7 +17,7 @@ You don’t have to have an idea to hack on! You’re more than welcome to come 
 
 Meetings are held every 3rd thursday of the month from 6pm to 11pm.
 
-Location and drinks provided by [10to1](http://10to1.be), foodwise we're mostly ordering [pizzas from here](http://www.pizza.be/da-capa) so @-mention [@bobvlanduyt](https://twitter.com/bobvlanduyt) or [@pjaspers](https://twitter.com/pjaspers) to order.
+Location and drinks provided by [10to1](http://10to1.be), foodwise we're mostly ordering [pizzas from here](http://www.just-eat.be/restaurants-pizza-apetito-antwerpen/menu) so @-mention [@bobvlanduyt](https://twitter.com/bobvlanduyt) or [@pjaspers](https://twitter.com/pjaspers) to order.
 
 Hosted by [10to1](http://10to1.be).
 
