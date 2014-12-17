@@ -1,11 +1,11 @@
 ---
 layout: default
-title: OpenHack - Kontich, Belgium
+title: OpenHack - Berchem, Antwerp, Belgium
 ---
 
-## Kontich, Belgium
+## Berchem, Antwerp, Belgium
 
-![Photo of your meetup or city!](/kontich/10to1.png)
+![Photo of your meetup or city!](/berchem/10to1.png)
 
 ### Info
 
@@ -19,13 +19,11 @@ Meetings are held every 3rd thursday of the month from 6pm to 11pm.
 
 Location and drinks provided by [10to1](http://10to1.be), foodwise we're mostly ordering [pizzas from here](http://www.pizza.be/da-capa) so @-mention [@bobvlanduyt](https://twitter.com/bobvlanduyt) or [@pjaspers](https://twitter.com/pjaspers) to order.
 
-Find us on [campfire](https://10to1.campfirenow.com/981ce)
-
 Hosted by [10to1](http://10to1.be).
 
 ### Next meetups
 
-- [Thursday 19 June]()
+- [Thursday 17 December]()
 
 See the [calendar](https://www.google.com/calendar/embed?src=74bgcbj8qtbqkcdj8iggp5grdc%40group.calendar.google.com&ctz=Europe/Brussels) for all the next meetups.
 

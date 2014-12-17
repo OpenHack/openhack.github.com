@@ -155,10 +155,10 @@ cities:
     name: Kharkov, Ukraine
     latitude: 49.9935
     longitude: 36.230383
-- kontich:
-    name: Kontich, Belgium
-    latitude: 51.1398236
-    longitude: 4.4380337
+- berchem:
+    name: Berchem, Antwerp, Belgium
+    latitude: 51.2036045
+    longitude: 4.4257328
 - kyiv:
     name: Kyiv, Ukraine
     latitude: 50.4501
