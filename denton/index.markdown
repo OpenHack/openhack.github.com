@@ -22,6 +22,11 @@ Bring your laptop, grab a brew at the counter, and become a part of Denton's [em
 * August 20 2014
 * September 17 2014
 * October 15 2014
+* November 19 2014
+* December 17 2014
+* January 21 2015
+* February 18 2015
+* March 18 2015
 
 ### Follow our twitters:
 
