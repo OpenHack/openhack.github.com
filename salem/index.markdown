@@ -26,8 +26,8 @@ People are welcome to keep hacking, but we will probably migrate to a bar afterw
 
 We are at 276 Essex Street on the second floor, right above Bella Hair Studio.  If you are coming by train, just walk down Washington Street to Essex Street, take a right and walk to our office.  If you are coming by car, there is plenty of parking behind the office.  It's free parking after 6:00 PM.
 
-### Next meetups
+### Upcoming meetups
 
-* [October meetup](http://www.meetup.com/OpenHack-Salem/events/210709132/)
-* [November meetup](http://www.meetup.com/OpenHack-Salem/events/210710422/)
-* [December meetup](http://www.meetup.com/OpenHack-Salem/events/210710792/)
+* [January meetup](http://www.meetup.com/OpenHack-Salem/events/219697951/)
+* [February meetup](http://www.meetup.com/OpenHack-Salem/events/219697985/)
+* [March meetup](http://www.meetup.com/OpenHack-Salem/events/219697997/)
