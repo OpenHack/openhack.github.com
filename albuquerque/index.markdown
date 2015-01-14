@@ -9,54 +9,29 @@ title: OpenHack - Albuquerque, NM
 
 ### Announcement
 
-I'm sad to announce that Convivium Coworking is closing its doors at the end of
-November.
+Thank you all for your recommendations on a new location for OpenHackABQ. I'm excited to say that we will be announcing our new home in the very soon. I think this new site will allow us to continue to grow into the future as one of Albuquerque's best developer/hacker groups.
 
-Convivium's support, specifically that of Deborah Reese, has been a huge factor
-in the success of OpenHackABQ. Losing such a great community driven business
-is not only a loss to us, but a loss to Albuquerque.
-
-Without Convivium, OpenHackABQ has no home.
-
-I'm canceling the December OpenHackABQ event and will be looking for a new
-space so that we can pick up again in January.
-
-This is a call to action for all of the OpenHackers out there, too. If you,
-someone you work for, someone you know, has a space that can accommodate a
-group like OpenHackABQ please let me know. If you have _any_ questions, do
-not hesitate to reach out to me.
-
-Thank you, Convivium, for everything you have done to help make OpenHackABQ a
-success!
-
-I'll see you all at the November event!
-
-Sincerely,  
-[Geoff Petrie](mailto:g.petrie+openhack@gmail.com)
+For this next meeting we'll be doing an informal get together at the Flying Star off of Silver. I'm excited to see you all!
 
 ### Info
 
-OpenHackABQ's next meetup will be taking place on **Thursday November 20, 2014** at
-[Convivium Coworking](http://www.conviviumcoworking.com/) starting at 6:00pm.
+OpenHackABQ's next meetup will be taking place on **Thursday January 15, 2015** at Flying Star off of Silver starting at 6:00pm.
 
-OpenHackABQ's purpose is to offer a space where people of any skill level
-and interest can get together to develop and design.
+OpenHackABQ's purpose is to offer a space where people of any skill level and interest can get together to develop and design.
 
-Bring any project you want to work on. Don't have a project? No problem.
-You'll find someone to pair with at the meetup.
+Bring any project you want to work on. Don't have a project? No problem.  You'll find someone to pair with at the meetup.
 
-OpenHackABQ is _very_ novice friendly. Just interested in seeing what people
-are up to? Come on by and sit in on a project someone is working on.
+OpenHackABQ is _very_ novice friendly. Just interested in seeing what people are up to? Come on by and sit in on a project someone is working on.
 
 ### Next meetup
 
-The next meetup will be **November 20, 2014** at:
+The next meetup will be **January 15, 2015** at:
 
-Convivium Coworking  
-5924 Anaheim Ave NE  
-Albuquerque, NM 87113
+Flying Star Cafe  
+723 Silver Avenue Southwest  
+Albuquerque, NM 87102
 
-[Map](http://goo.gl/maps/5y7xs)
+[Map](https://goo.gl/maps/sfzi6)
 
 ### Contact
 
@@ -74,13 +49,14 @@ for being a sponsor of OpenHack Albuquerque! We couldn't do this without you!
 
 ### Future Meeting
 
-November 20, 2014 at Convivium Coworking  
-December 18, 2014 CANCELLED  
-January 15, 2015 at TBD
+January 15, 2015 at Flying Star (723 Silver Ave SW)  
+February 19, 2015 TBA  
+March 19, 2015 TBA
 
 ### Previous Meetings
 
-* October 16, 2014 at Convivium Coworking
+* November 20, 2014 at Convivium Coworking.
+* October 16, 2014 at Convivium Coworking.
 * September 18, 2014 at Convivium Coworking.
 * August 21, 2014 at Convivium Coworking.
 * July 17, 2014 at Convivium Coworking.
