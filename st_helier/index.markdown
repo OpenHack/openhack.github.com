@@ -27,17 +27,12 @@ For more information and to register for your *free ticket* please [see our new 
 
 Fintech Hackathon - 13th March - 15th March
 
-[Register at Eventbrite](https://www.eventbrite.com/e/digital-jersey-hackjsy-fintech-hackathon-registration-15419963526)
-
-[More info](https://hackjsy.com)
+ * [Register at Eventbrite](https://www.eventbrite.com/e/digital-jersey-hackjsy-fintech-hackathon-registration-15419963526)
+ * [More info](https://hackjsy.com)
 
 ### Previous meetups
 
-The first Open, Island Wide Hackathon took place on:
-
-**Friday, 26 September 2014 at 18:00 - Sunday, 28 September 2014 at 11:00**
-
-at the Digital Jersey Hub.
+The first Open, Island Wide Hackathon took place on: **Friday, 26 September 2014 at 18:00 - Sunday, 28 September 2014 at 11:00** at the Digital Jersey Hub.
 
 For more info on the output of this event please [see the HackJsy page on Collaborate.je](http://collaborate.je/category/meetings/hackjsy/)
 
