@@ -5,30 +5,40 @@ title: OpenHack - St. Helier, Jersey
 
 ## St. Helier, Jersey
 
-![The Digital Jersey Hub in St. Helier, Jersey](/st_helier/hubphoto1.png)
+![The Digital Jersey Hub in St. Helier, Jersey](http://openhack.github.io/st_helier/hubphoto1.png)
 
 ### Info
 
-In partnership with [Collaborate.je](http://collaborate.je/), [TechTribes.je](http://techtribes.je/) and [Digital Jersey](http://www.digital.je/) we're pleased to announce the first Jersey Hackathon.
+Following the success of our inaugural hackathon in September last year, the HackJsy team are trying for something a little more ambitious. This spring we're pleased to announce
 
-We're looking for all sorts of attendees for this hackathon; Front and backend software developers, designers, artists & creatives, mobile developers and hardware hackers. 
+**The 2015 Digital Jersey / HackJsy Fintech Hackathon!**
 
-*If it's digital and you're passionate about it then we want you as part of this event!*
+A 36 hour event focusing on financial services technology, judged by a panel of industry experts with a range of prizes for winning submissions.
 
-You can **[register for interest](https://docs.google.com/forms/d/1jkc5MzXG-ZG-KuYCvw_fwC30KVZ172xXI4gstktGSJk/)** or contact us.
+For more information and to register for your *free ticket* please [see our new microsite](https://hackjsy.com).
 
 ### Contact Info
 
 * [Hackathon Twitter Account](https://twitter.com/hackjsy)
 * [Hackathon on Facebook](https://www.facebook.com/groups/656101524475492/)
-* [Email to hello@collaborate.je](mailto:hello@collaborate.je)
+* [Email to hello@hackjsy.com](mailto:hello@hackjsy.com)
 
-### Next meetups
+### Next meetup
 
-The first Open, Island Wide Hackathon will take place on:
+Fintech Hackathon - 13th March - 15th March
+
+[Register at Eventbrite](https://www.eventbrite.com/e/digital-jersey-hackjsy-fintech-hackathon-registration-15419963526)
+
+[More info](https://hackjsy.com)
+
+### Previous meetups
+
+The first Open, Island Wide Hackathon took place on:
 
 **Friday, 26 September 2014 at 18:00 - Sunday, 28 September 2014 at 11:00**
 
 at the Digital Jersey Hub.
 
-Registration is now open and you can [get tickets from the Hackathon Eventbrite Page](https://jersey-hackathon-v1.eventbrite.com/)
+For more info on the output of this event please [see the HackJsy page on Collaborate.je](http://collaborate.je/category/meetings/hackjsy/)
+
+![HackJsy](/st_helier/hackathon_banner.png)
