@@ -26,13 +26,22 @@ Here's what you should know:
 
 ### Next meetups
 
-* [September 22, 2014](http://openhackstc.eventbrite.com)
-* [October 27, 2014](http://openhackstc.eventbrite.com)
-* [November 24, 2014](http://openhackstc.eventbrite.com)
-* [December 22, 2014](http://openhackstc.eventbrite.com)
+* [January 26, 2015](http://openhackstc.eventbrite.com)
+* [February 23, 2015](http://openhackstc.eventbrite.com)
+* [March 23, 2015](http://openhackstc.eventbrite.com)
+* [April 27, 2015](http://openhackstc.eventbrite.com)
+* [May 25, 2015](http://openhackstc.eventbrite.com)
+* [June 22, 2015](http://openhackstc.eventbrite.com)
+* [July 27, 2015](http://openhackstc.eventbrite.com)
+* [August 24, 2015](http://openhackstc.eventbrite.com)
+* [September 28, 2015](http://openhackstc.eventbrite.com)
 
 ### Past meetups
 
+* [December 22, 2014](http://openhackstc.eventbrite.com)
+* [November 24, 2014](http://openhackstc.eventbrite.com)
+* [October 27, 2014](http://openhackstc.eventbrite.com)
+* [September 22, 2014](http://openhackstc.eventbrite.com)
 * [August 25, 2014](http://openhackstc.eventbrite.com)
 * [July 28, 2014](http://openhackstc.eventbrite.com)
 
