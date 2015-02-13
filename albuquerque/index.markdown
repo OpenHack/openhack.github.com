@@ -9,13 +9,15 @@ title: OpenHack - Albuquerque, NM
 
 ### Announcement
 
-Thank you all for your recommendations on a new location for OpenHackABQ. I'm excited to say that we will be announcing our new home in the very soon. I think this new site will allow us to continue to grow into the future as one of Albuquerque's best developer/hacker groups.
+I'm thrilled to announce that our new location has been selected!
 
-For this next meeting we'll be doing an informal get together at the Flying Star off of Silver. I'm excited to see you all!
+FatPipe ABQ has graciously agreed to sponsor us with space for our future meetings. I feel that this will be a terrific pairing of one of the best working groups in Albuquerque and one of the best spaces in the city!
+
+Please get the word out that our new meeting space will now be FatPipe ABQ every third Thursday of the month.
 
 ### Info
 
-OpenHackABQ's next meetup will be taking place on **Thursday January 15, 2015** at Flying Star off of Silver starting at 6:00pm.
+OpenHackABQ's next meetup will be taking place on **Thursday February 19, 2015** at FatPipe ABQ starting at 6:00pm.
 
 OpenHackABQ's purpose is to offer a space where people of any skill level and interest can get together to develop and design.
 
@@ -25,36 +27,34 @@ OpenHackABQ is _very_ novice friendly. Just interested in seeing what people are
 
 ### Next meetup
 
-The next meetup will be **January 15, 2015** at:
+The next meetup will be **February 19, 2015** at:
 
-Flying Star Cafe  
-723 Silver Avenue Southwest  
+FatPipe ABQ  
+200 Broadway Blvd NE  
 Albuquerque, NM 87102
 
-[Map](https://goo.gl/maps/sfzi6)
+[Map](https://goo.gl/maps/HpLZn)
 
 ### Contact
 
-Follow [@OpenHackABQ](https://twitter.com/OpenHackABQ) on Twitter or join our
-[Facebook Group](https://www.facebook.com/groups/621303567898347/) to stay
-informed about what is happening.
+Follow [@OpenHackABQ](https://twitter.com/OpenHackABQ) on Twitter or join our [Facebook Group](https://www.facebook.com/groups/621303567898347/) to stay informed about what is happening.
 
-Contact [Geoff Petrie](mailto:g.petrie+openhack@gmail.com) for more
-information.
+Contact [Geoff Petrie](mailto:g.petrie+openhack@gmail.com) for more information.
 
 ### Thank Yous
 
-A **huge** thank you to [Convivium Coworking](http://www.conviviumcoworking.com/)
-for being a sponsor of OpenHack Albuquerque! We couldn't do this without you!
+A **huge** thank you to our current sponsor [FatPipe ABQ](http://fatpipeabq.com/) and to our previous sponsor [Convivium Coworking](http://www.conviviumcoworking.com/) for supporting OpenHack Albuquerque! We couldn't do this without you!
 
 ### Future Meeting
 
-January 15, 2015 at Flying Star (723 Silver Ave SW)  
-February 19, 2015 TBA  
-March 19, 2015 TBA
+February 19, 2015 FatPipe ABQ  
+March 19, 2015 FatPipe ABQ  
+April 16, 2015 FatPipe ABQ
 
 ### Previous Meetings
 
+* January 15, 2015 Flying Star off Silver Ave.
+* December 18, 2014 no meeting.
 * November 20, 2014 at Convivium Coworking.
 * October 16, 2014 at Convivium Coworking.
 * September 18, 2014 at Convivium Coworking.
