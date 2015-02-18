@@ -39,6 +39,10 @@ cities:
     name: Bend, OR
     latitude: 44.053125
     longitude: -121.318132
+- berchem:
+    name: Berchem, Antwerp, Belgium
+    latitude: 51.2036045
+    longitude: 4.4257328
 - berlin:
     name: Berlin, Germany
     latitude: 52.519171
@@ -147,6 +151,10 @@ cities:
     name: Ithaca, NY
     latitude: 42.4388483
     longitude: -76.4989697
+- izmir:
+    name: Izmir, Turkey
+    latitude: 38.418881
+    longitude: 27.128671
 - jersey_city:
     name: Jersey City, NJ
     latitude: 40.72815749999999
@@ -155,10 +163,6 @@ cities:
     name: Kharkov, Ukraine
     latitude: 49.9935
     longitude: 36.230383
-- berchem:
-    name: Berchem, Antwerp, Belgium
-    latitude: 51.2036045
-    longitude: 4.4257328
 - kyiv:
     name: Kyiv, Ukraine
     latitude: 50.4501
