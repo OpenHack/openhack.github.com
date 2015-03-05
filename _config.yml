@@ -195,6 +195,10 @@ cities:
     name: Manchester, CT
     latitude: 41.769803
     longitude: -72.520349
+- melbourne:
+    name: Melbourne, Australia
+    latitude: -37.814107
+    longitude: 144.96328
 - miami:
     name: Miami, FL
     latitude: 25.7889689
