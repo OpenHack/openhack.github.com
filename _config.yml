@@ -39,6 +39,10 @@ cities:
     name: Bend, OR
     latitude: 44.053125
     longitude: -121.318132
+- berchem:
+    name: Berchem, Antwerp, Belgium
+    latitude: 51.2036045
+    longitude: 4.4257328
 - berlin:
     name: Berlin, Germany
     latitude: 52.519171
@@ -155,10 +159,6 @@ cities:
     name: Kharkov, Ukraine
     latitude: 49.9935
     longitude: 36.230383
-- berchem:
-    name: Berchem, Antwerp, Belgium
-    latitude: 51.2036045
-    longitude: 4.4257328
 - kyiv:
     name: Kyiv, Ukraine
     latitude: 50.4501
@@ -191,6 +191,10 @@ cities:
     name: Manchester, CT
     latitude: 41.769803
     longitude: -72.520349
+- melbourne:
+    name: Melbourne, Australia
+    latitude: -37.814107
+    longitude: 144.96328
 - miami:
     name: Miami, FL
     latitude: 25.7889689
