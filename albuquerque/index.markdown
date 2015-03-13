@@ -36,12 +36,11 @@ Albuquerque, NM 87102
 [Map](https://goo.gl/maps/HpLZn)
 
 ### Contact
-Add yourself to our mailing list:
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+  #mc_embed_signup{background:#ddd; clear:left; font:14px Helvetica,Arial,sans-serif; }
   /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
      We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -74,6 +73,8 @@ Add yourself to our mailing list:
 </div>
 
 <!--End mc_embed_signup-->
+
+<p>&nbsp;</p>
 
 Follow [@OpenHackABQ](https://twitter.com/OpenHackABQ) on Twitter or join our [Facebook Group](https://www.facebook.com/groups/621303567898347/) to stay informed about what is happening.
 
