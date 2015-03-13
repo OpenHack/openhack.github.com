@@ -17,7 +17,7 @@ Please get the word out that our new meeting space will now be FatPipe ABQ every
 
 ### Info
 
-OpenHackABQ's next meetup will be taking place on **Thursday February 19, 2015** at FatPipe ABQ starting at 6:00pm.
+OpenHackABQ's next meetup will be taking place on **Thursday March 19, 2015** at FatPipe ABQ starting at 6:00pm.
 
 OpenHackABQ's purpose is to offer a space where people of any skill level and interest can get together to develop and design.
 
@@ -27,7 +27,7 @@ OpenHackABQ is _very_ novice friendly. Just interested in seeing what people are
 
 ### Next meetup
 
-The next meetup will be **February 19, 2015** at:
+The next meetup will be **March 19, 2015** at:
 
 FatPipe ABQ  
 200 Broadway Blvd NE  
@@ -36,6 +36,44 @@ Albuquerque, NM 87102
 [Map](https://goo.gl/maps/HpLZn)
 
 ### Contact
+Add yourself to our mailing list:
+
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//github.us10.list-manage.com/subscribe/post?u=5f5cf4689ed3eb15aeb3b6a96&amp;id=bc16f0825d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+  <h2>Subscribe to our mailing list</h2>
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+  <label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+  <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+  <label for="mce-FNAME">First Name </label>
+  <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+  <label for="mce-LNAME">Last Name </label>
+  <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+  <div id="mce-responses" class="clear">
+    <div class="response" id="mce-error-response" style="display:none"></div>
+    <div class="response" id="mce-success-response" style="display:none"></div>
+  </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_5f5cf4689ed3eb15aeb3b6a96_bc16f0825d" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
 
 Follow [@OpenHackABQ](https://twitter.com/OpenHackABQ) on Twitter or join our [Facebook Group](https://www.facebook.com/groups/621303567898347/) to stay informed about what is happening.
 
@@ -47,12 +85,13 @@ A **huge** thank you to our current sponsor [FatPipe ABQ](http://fatpipeabq.com/
 
 ### Future Meeting
 
-February 19, 2015 FatPipe ABQ  
 March 19, 2015 FatPipe ABQ  
-April 16, 2015 FatPipe ABQ
+April 16, 2015 FatPipe ABQ  
+May 21, 2015 FatPipe ABQ
 
 ### Previous Meetings
 
+* February 19, 2015 at FatPipe ABQ.
 * January 15, 2015 Flying Star off Silver Ave.
 * December 18, 2014 no meeting.
 * November 20, 2014 at Convivium Coworking.
