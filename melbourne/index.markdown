@@ -8,9 +8,9 @@ title: OpenHack - Melbourne, Australia
 
 ![Next Lab](http://i.imgur.com/C6ebAuP.png)
 
-- Lab.4 [Thursday 12th March](https://github.com/HackUpOrg/Melbourne.AU/issues/5) - 6pm to 8:00/8:30pm  
-Space: [Electron Workshop](http://www.electronworkshop.com.au/)  
-Address: [31 Arden St, North Melbourne VIC 3051](https://www.google.com.au/maps/place/Electron+Workshop+-+Coworking+Space/@-37.801309,144.950752,15z/data=!4m2!3m1!1s0x0:0x83bc7c2c3fb10a86?sa=X&ei=2RKJVLSUKITpmQX1hoLIBQ&ved=0CHwQ_BIwCw)
+- Lab.5 [Thursday 23rd April](https://github.com/HackUpOrg/Melbourne.AU/issues/6) - 6pm to 8:00/8:30pm  
+Space: [Discovery Centre Seminar Room](http://museumvictoria.com.au/melbournemuseum/discoverycentre/visit-our-onsite-centre/) at Melbourne Museum  
+Address: [Lower Ground, Melbourne Museum, Carlton Gardens](https://www.google.com.au/maps/place/Melbourne+Museum/@-37.803646,144.972942,17z/data=!3m1!4b1!4m15!1m12!4m11!1m3!2m2!1d144.9735214!2d-37.8034383!1m6!1m2!1s0x6ad642da40c9de9f:0x8f2c10c1546cc221!2sMelbourne+Museum,+11+Nicholson+St,+Carlton+VIC+3053,+Australia!2m2!1d144.972942!2d-37.803646!3m1!1s0x6ad642da40c9de9f:0x8f2c10c1546cc221?hl=en)
 
 ##Sign Up for attendence
 (Please sign up @ our [GitHub repo](https://github.com/HackUpOrg/Melbourne.AU/issues/5))
