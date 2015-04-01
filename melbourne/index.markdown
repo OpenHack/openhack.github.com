@@ -13,7 +13,7 @@ Space: [Discovery Centre Seminar Room](http://museumvictoria.com.au/melbournemus
 Address: [Lower Ground, Melbourne Museum, Carlton Gardens](https://www.google.com.au/maps/place/Melbourne+Museum/@-37.803646,144.972942,17z/data=!3m1!4b1!4m15!1m12!4m11!1m3!2m2!1d144.9735214!2d-37.8034383!1m6!1m2!1s0x6ad642da40c9de9f:0x8f2c10c1546cc221!2sMelbourne+Museum,+11+Nicholson+St,+Carlton+VIC+3053,+Australia!2m2!1d144.972942!2d-37.803646!3m1!1s0x6ad642da40c9de9f:0x8f2c10c1546cc221?hl=en)
 
 ##Sign Up for attendence
-(Please sign up @ our [GitHub repo](https://github.com/HackUpOrg/Melbourne.AU/issues/5))
+(Please sign up @ our [GitHub repo](https://github.com/OpenHackOrg/Melbourne.AU/issues/6))
 
 ##What is this?
 A 100% *Hands On* lab where you sit down and work on a side project and/or experiment with new tech - **_for a few hours only._**
