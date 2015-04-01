@@ -13,7 +13,7 @@ Space: [Electron Workshop](http://www.electronworkshop.com.au/)
 Address: [31 Arden St, North Melbourne VIC 3051](https://www.google.com.au/maps/place/Electron+Workshop+-+Coworking+Space/@-37.801309,144.950752,15z/data=!4m2!3m1!1s0x0:0x83bc7c2c3fb10a86?sa=X&ei=2RKJVLSUKITpmQX1hoLIBQ&ved=0CHwQ_BIwCw)
 
 ##Sign Up for attendence
-(Please sign up @ our [GitHub repo](https://github.com/HackUpOrg/Melbourne.AU/issues/5))
+(Please sign up @ our [GitHub repo](https://github.com/OpenHackOrg/Melbourne.AU/issues/6))
 
 ##What is this?
 A 100% *Hands On* lab where you sit down and work on a side project and/or experiment with new tech - **_for a few hours only._**
