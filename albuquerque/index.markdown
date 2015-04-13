@@ -7,17 +7,9 @@ title: OpenHack - Albuquerque, NM
 
 ![Albuquerque, NM Sandia](/albuquerque/img/sandia_drywall.jpg)
 
-### Announcement
-
-I'm thrilled to announce that our new location has been selected!
-
-FatPipe ABQ has graciously agreed to sponsor us with space for our future meetings. I feel that this will be a terrific pairing of one of the best working groups in Albuquerque and one of the best spaces in the city!
-
-Please get the word out that our new meeting space will now be FatPipe ABQ every third Thursday of the month.
-
 ### Info
 
-OpenHackABQ's next meetup will be taking place on **Thursday March 19, 2015** at FatPipe ABQ starting at 6:00pm.
+OpenHackABQ's next meetup will be taking place on **Thursday April 16, 2015** at FatPipe ABQ starting at 6:00pm.
 
 OpenHackABQ's purpose is to offer a space where people of any skill level and interest can get together to develop and design.
 
@@ -27,7 +19,7 @@ OpenHackABQ is _very_ novice friendly. Just interested in seeing what people are
 
 ### Next meetup
 
-The next meetup will be **March 19, 2015** at:
+The next meetup will be **April 16, 2015** at:
 
 FatPipe ABQ  
 200 Broadway Blvd NE  
@@ -86,12 +78,13 @@ A **huge** thank you to our current sponsor [FatPipe ABQ](http://fatpipeabq.com/
 
 ### Future Meeting
 
-March 19, 2015 FatPipe ABQ  
 April 16, 2015 FatPipe ABQ  
-May 21, 2015 FatPipe ABQ
+May 21, 2015 FatPipe ABQ  
+June 18, 2015 FatPipe ABQ
 
 ### Previous Meetings
 
+* March 19, 2015 at FatPipe ABQ.
 * February 19, 2015 at FatPipe ABQ.
 * January 15, 2015 Flying Star off Silver Ave.
 * December 18, 2014 no meeting.
