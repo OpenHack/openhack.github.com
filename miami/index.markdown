@@ -9,7 +9,7 @@ title: OpenHack - Miami, FL
 
 ### Info
 
-MacBooks and mojitos. OpenHack Miami meets in [The Grove Spot](http://grovespot.com/) on most Mondays at 7:30pm.
+MacBooks and mojitos. OpenHack Miami meets in [The LAB Miami](http://thelabmiami.com/) on most Mondays at 7:30pm.
 
 * You can hack on anything! Any language, framework, public/open-source, personal, etc.
 * Skill level doesn't matter. We don't care if you're working on Hello World or on increasing your wizarding level.
@@ -19,12 +19,12 @@ Follow [@OpenHackMia](http://twitter.com/openhackmia) for announcements.
 
 ### Next meetups
 
-* [April 6, 2015](http://www.meetup.com/miamirb/events/221648698/)
-* [April 13, 2015](http://www.meetup.com/miamirb/events/221648701/)
 * [April 27, 2015](http://www.meetup.com/miamirb/events/221648705/)
 
 ### Past meetups
 
+* Apr 13, 2015 (5 attendees)
+* Apr 06, 2015 (4 attendees)
 * Mar 30, 2015 (8 attendees)
 * Mar 23, 2015 (4 attendees)
 * Mar 09, 2015 (10 attendees)
