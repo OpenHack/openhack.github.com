@@ -95,6 +95,10 @@ cities:
     name: Columbus, OH
     latitude: 39.9611755
     longitude: -82.99879419999999
+- dallas:
+    name: Dallas, TX
+    latitude: 32.842833
+    longitude: -96.771825
 - dayton:
     name: Dayton, OH
     latitude: 39.7589478
