@@ -343,3 +343,7 @@ cities:
     name: Windsor, ON
     latitude: 42.3183446
     longitude: -83.0342423
+- ybor_city:
+    name: Ybor City, FL
+    latitude: 27.9650212
+    longitude: -82.4350941
