@@ -13,4 +13,4 @@ HackNights are for people willing to hack on anything, at any skill level. You c
 
 Beers, snacks, pizza and foosball will be here for you.
 
-Meetings are held at [Peertransfer Valencia](https://goo.gl/maps/9JjoV) every last thursday of the month at 7pm.
+Meetings are held at [Peertransfer Valencia](https://goo.gl/maps/Em5wK) every last thursday of the month at 7pm.
