@@ -5,7 +5,8 @@ title: OpenHack - Berchem, Antwerp, Belgium
 
 ## Berchem, Antwerp, Belgium
 
-![Photo of your meetup or city!](/berchem/10to1.png)
+![10to1 offices](/berchem/10to1-offices.jpg){:style="width: 48%;"} 
+![het souterrain](/berchem/10to1-offices.jpg){:style="width: 48%;"}
 
 ### Info
 
@@ -20,10 +21,10 @@ For ordering use the [slack food channel](https://openhack-antwerp.slack.com/mes
 
 ### Next meetups
 
-Check out the [Meetup group](http://www.meetup.com/OpenHack-Antwerpen/) 
-or add the [calendar](https://www.google.com/calendar/embed?src=74bgcbj8qtbqkcdj8iggp5grdc%40group.calendar.google.com&ctz=Europe/Brussels) for all the next meetups.
+Check out the [Meetup group](http://www.meetup.com/OpenHack-Antwerpen/){:target="_blank"} 
+or add the [calendar](https://www.google.com/calendar/embed?src=74bgcbj8qtbqkcdj8iggp5grdc%40group.calendar.google.com&ctz=Europe/Brussels){:target="_blank"} for all the next meetups.
 
 ### Means of contact
 
-Slack: [openhack-antwerp.slack.com](https://openhack-antwerp.slack.com/messages/food/){:target="_blank"} // [join us](https://openhack-antwerp-slack-inviter.herokuapp.com/)  
+Slack: [openhack-antwerp.slack.com](https://openhack-antwerp.slack.com/){:target="_blank"} // [join us](https://openhack-antwerp-slack-inviter.herokuapp.com/){:target="_blank"}  
 Twitter: [@RidingWolf](https://twitter.com/ridingwolf){:target="_blank"} 
