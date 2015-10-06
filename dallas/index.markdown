@@ -13,13 +13,11 @@ Dallas Open Hack is a meetup with a simple purpose: work together, on anything. 
 #### Build Night
 Build Night is our regular monthly meetup. Come work on your projects or work with new friends. The wifi is free, the coffee is hot and the chairs are ready! Build Night meetups are the second Friday of every month from 8PM-11PM at the Union coffee shop near the SMU campus. Drinks and Food are available but currently not provided. If you take the DART, Mockingbird Station will put you within a 5 minute walk.
 
-**Our first meetup ever is Friday, August 14th, 2015!**
-
 Here's what you should know:
 
 * Work alone or in a group.
 * You don't need an idea. Find someone to pair with.
-* We will begin at 8:00PM with a quick round of introductions. Tell us about yourself, what you are working in, if you want some help, or if you are looking to help.
+* We will begin at 8:00-8:30PM with a quick round of introductions. Tell us about yourself, what you are working in, if you want some help, or if you are looking to help.
 * We will have a closing anti-introduction at 10:30PM. Tell us what you accomplished and interesting challenges you faced.
 
 ### Schedule
