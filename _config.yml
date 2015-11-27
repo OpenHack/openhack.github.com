@@ -175,6 +175,10 @@ cities:
     name: Liege, Belgium
     latitude: 50.6325574
     longitude: 5.5796662
+- lisbon:
+    name: Lisbon, Portugal
+    latitude: 38.7222524
+    longitude: -9.1393366
 - logan:
     name: Logan, UT
     latitude: 41.7369803
