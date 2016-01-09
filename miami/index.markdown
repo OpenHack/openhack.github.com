@@ -9,7 +9,7 @@ title: OpenHack - Miami, FL
 
 ### Info
 
-MacBooks and mojitos. OpenHack Miami meets in [The LAB Miami](http://thelabmiami.com/) on most Mondays at 7:30pm.
+MacBooks and mojitos. OpenHack Miami meets in [The LAB Miami](http://thelabmiami.com/) on most Mondays at 7:00pm.
 
 * You can hack on anything! Any language, framework, public/open-source, personal, etc.
 * Skill level doesn't matter. We don't care if you're working on Hello World or on increasing your wizarding level.
@@ -19,10 +19,23 @@ Follow [@OpenHackMia](http://twitter.com/openhackmia) for announcements.
 
 ### Next meetups
 
-* [August 31, 2015](http://www.meetup.com/miamirb/events/224220018/)
+* [January 4, 2016](http://www.meetup.com/miamirb/events/227815029/)
+* [January 11, 2016](http://www.meetup.com/miamirb/events/227815041/)
+* [January 25, 2016](http://www.meetup.com/miamirb/events/227815048/)
 
 ### Past meetups
 
+* Dec 14, 2015 (4 attendees)
+* Dec 07, 2015 (2 attendees)
+* Nov 23, 2015 (4 attendees)
+* Nov 09, 2015 (3 attendees)
+* Nov 02, 2015 (4 attendees)
+* Oct 26, 2015 (5 attendees)
+* Oct 12, 2015 (7 attendees)
+* Oct 05, 2015 (7 attendees)
+* Sep 28, 2015 (2 attendees)
+* Sep 14, 2015 (2 attendees)
+* Aug 31, 2015 (4 attendees)
 * Aug 24, 2015 (8 attendees)
 * Aug 10, 2015 (5 attendees)
 * Aug 03, 2015 (4 attendees)

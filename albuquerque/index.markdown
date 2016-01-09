@@ -9,7 +9,7 @@ title: OpenHack - Albuquerque, NM
 
 ### Info
 
-OpenHackABQ's next meetup will be taking place on **Thursday September 17, 2015** at FatPipe ABQ starting at 6:00pm.
+OpenHackABQ's next, and <em>final</em>, meetup will be taking place on **Thursday October 15, 2015** at FatPipe ABQ starting at 6:00pm.
 
 OpenHackABQ's purpose is to offer a space where people of any skill level and interest can get together to develop and design.
 
@@ -19,7 +19,7 @@ OpenHackABQ is _very_ novice friendly. Just interested in seeing what people are
 
 ### Next meetup
 
-The next meetup will be **September 17, 2015** at:
+The next meetup will be **October 15, 2015** at:
 
 FatPipe ABQ  
 200 Broadway Blvd NE  
@@ -76,14 +76,9 @@ Contact [Geoff Petrie](mailto:g.petrie+openhack@gmail.com) for more information.
 
 A **huge** thank you to our sponsor [FatPipe ABQ](http://fatpipeabq.com/).
 
-### Future Meeting
-
-September 17, 2015 at FatPipe ABQ.  
-October 15, 2015 at FatPipe ABQ.  
-November 19, 2015 at FatPipe ABQ.
-
 ### Previous Meetings
 
+* September 17, 2015 at FatPipe ABQ.
 * August 20, 2015 at FatPipe ABQ.
 * July 16, 2015 at FatPipe ABQ.
 * June 18, 2015 at FatPipe ABQ.
