@@ -27,5 +27,5 @@ or add the [calendar](https://www.google.com/calendar/embed?src=74bgcbj8qtbqkcdj
 
 ### Means of contact
 
-Slack: [openhack-antwerp.slack.com](https://openhack-antwerp.slack.com/){:target="_blank"} // [join us](https://openhack-antwerp-slack-inviter.herokuapp.com/){:target="_blank"}  
+Slack: [openhack-antwerp.slack.com](https://openhack-antwerp.slack.com/){:target="_blank"} [ [join us](https://openhack-antwerp-slack-inviter.herokuapp.com/){:target="_blank"} ]  
 Twitter: [@RidingWolf](https://twitter.com/ridingwolf){:target="_blank"} 
