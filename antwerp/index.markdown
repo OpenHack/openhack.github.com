@@ -5,8 +5,8 @@ title: OpenHack - Antwerp, Belgium
 
 ## Antwerp, Belgium
 
-![10to1 offices](/berchem/10to1-offices.jpg){:style="width: 48%;"} 
-![het souterrain](/berchem/het-sousterrain.jpg){:style="width: 48%;"}
+![10to1 offices](/antwerp/10to1-offices-min.jpg){:style="width: 48%;"} 
+![het souterrain](/antwerp/het-sousterrain-min.jpg){:style="width: 48%;"}
 
 ### Info
 
