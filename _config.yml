@@ -11,6 +11,10 @@ cities:
     name: Alma & Saguenay, QC
     latitude: 48.55
     longitude: -71.65
+- antwerp:
+    name: Antwerp, Belgium
+    latitude: 51.2194475
+    longitude: 4.4024643
 - atlanta:
     name: Atlanta, GA
     latitude: 33.7489954
@@ -39,10 +43,6 @@ cities:
     name: Bend, OR
     latitude: 44.053125
     longitude: -121.318132
-- berchem:
-    name: Berchem, Antwerp, Belgium
-    latitude: 51.2036045
-    longitude: 4.4257328
 - berlin:
     name: Berlin, Germany
     latitude: 52.519171
