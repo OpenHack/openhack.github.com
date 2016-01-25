@@ -25,4 +25,4 @@ NOTE: BRING A COMPUTER!
 
 RSVP on the [meetup group](http://www.meetup.com/OpenHack-Victoria) to stay in touch with updates
 
-Sponsored by [FreeRunning Technologies](http://www.freerunningtech.com)
+Sponsored by [Stembolt](https://stembolt.com/)
