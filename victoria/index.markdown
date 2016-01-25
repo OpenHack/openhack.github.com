@@ -17,11 +17,9 @@ Come out. Hang. Sling code. It'll be fun. :)
 
 We’ll begin with introductions at 6:15. Just say who you are, what you do and where you do it (if you want to), what languages/frameworks you work with, and anything else you want to share. This is just to let everybody get to know each other and see who does what so others can help/pair with them, or ask for help if you know something they don’t.
 
-Next is the hack session. This is what OpenHack is all about - slingin’ code. You can pair up with somebody or work totally alone - it’s totally up to you. 
+Next is the hack session, this is what OpenHack is all about. You can pair up with somebody or work alone - it’s totally up to you. You can hack on anything you want. Open source, closed source. Work. Play. Any skill level on any project, it’s all good as long as you’re here to sling code.
 
-You can hack on anything you want. Open source, closed source. Work. Play. Any skill level on anything on any project, it’s all good as long as you’re here to sling code.
-
-NOTE: BRING A COMPUTER! 
+NOTE: BRING A COMPUTER!
 
 RSVP on the [meetup group](http://www.meetup.com/OpenHack-Victoria) to stay in touch with updates
 
