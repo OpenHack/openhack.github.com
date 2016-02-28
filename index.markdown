@@ -10,7 +10,7 @@ OpenHack is a meetup with a simple purpose: Code together, on anything. OpenHack
 ### What is OpenHack?
 
 <div class="video-container">
-  <object width="560" height="315"><param name="movie" value="http://www.youtube.com/v/bQgbSXBjpz0?version=3&amp;hl=en_US&amp;vq=large"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/bQgbSXBjpz0?version=3&amp;hl=en_US&amp;vq=large" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/4T24oUPPaFI?start=15&end=292" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <h3 class="hidden-phone">Where is OpenHack?</h3>
