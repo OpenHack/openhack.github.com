@@ -135,6 +135,10 @@ cities:
     name: Green Bay, WI
     latitude: 44.51915899999999
     longitude: -88.019826
+- haverhill:
+    name: Haverhill, MA
+    latitude: 42.7754552
+    longitude: -71.085962
 - honolulu:
     name: Honolulu, HI
     latitude: 21.3069444
