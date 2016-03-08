@@ -8,8 +8,8 @@ title: OpenHack - Haverhill, MA
 ### Info
 
 Haverhill OpenHack is hosted at the Haverhill Hackspace located downtown at 143
-Essex Street in Suite 600. It is one of two monthly [Haverhill Hackers][meetup]
-meetups.
+Essex Street on the sixth floor in Suite 600. It is one of two monthly
+[Haverhill Hackers][meetup] meetups.
 
 Bring your laptop, charger, and anything else you may want to work on.
 
