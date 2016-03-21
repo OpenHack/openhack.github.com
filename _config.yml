@@ -251,6 +251,10 @@ cities:
     name: Pittsburgh, PA
     latitude: 40.44062479999999
     longitude: -79.9958864
+- portland:
+    name: Portland, OR
+    latitude: 45.5230622
+    longitude: -122.6764816
 - porto_alegre:
     name: Porto Alegre, Brazil
     latitude: -30.0277041
