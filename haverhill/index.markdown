@@ -23,10 +23,12 @@ Pizza, beer, and coffee are often provided to fuel the creativity.
 
 ### Upcoming meetups
 
-* [March 2016](http://www.meetup.com/HaverhillHackers/events/229411471)
+* [April 2016](http://www.meetup.com/HaverhillHackers/events/229972907/)
+* [May 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvhbwb/)
 
 ### Past meetups
 
+* [March 2016](http://www.meetup.com/HaverhillHackers/events/229411471)
 * [February 2016](http://www.meetup.com/HaverhillHackers/events/228664826/)
 
 
