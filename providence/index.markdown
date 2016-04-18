@@ -15,8 +15,7 @@ End of Line Club is a monthly Providence, RI hacknight. Code, design, and collab
 
 ### Next meetup
 
-* The meetup scheduled for Monday, April 4, has been canceled due to
-  snow.  A new date will be announced very soon.
+* Our next meetup is scheduled for Monday, May 2nd, 2016 from 6pm-11pm at [Basics Group](http://basicsgroup.com)
 
 ### Past meetups
 
