@@ -14,15 +14,31 @@ title: OpenHack - Toledo, OH
 
 ### Sponsors
 
-We are currently looking for sponsors to help provide food and beverages. If you are interested in sponsoring OpenHack please email us at [shrinkfolio@gmail.com](mailto:shrinkfolio@gmail.com).
+We welcome sponsors to help provide food and beverages. If you are interested please email us at [shrinkfolio@gmail.com](mailto:shrinkfolio@gmail.com) and [newsted@gmail.com](mailto:newsted@gmail.com).
 
-LRITA.org sponsored our meetup on October 2nd and plan on sponsoring Openhack Toledo again on November 6th!
 
-### Next meetups
 
-**Thursday, March 10** 6 - 9 PM
+### 2016 meetups
 
-**Thursday, April 14** 6 - 9 PM
+**Tuesday, June 21** 6 - 9 PM
+
+**Monday, July 11** 6 - 9 PM
+
+**Monday, July 25** 6 - 9 PM
+
+**Monday August 8** 6 - 9 PM
+
+**Monday, September 12** 6 - 9 PM
+
+**Monday, September 26** 6 - 9 PM
+
+**Monday, October 10** 6 - 9 PM
+
+**Monday, October 24** 6 - 9 PM
+
+**Monday, November 7** 6 - 9 PM
+
+**Monday, November 21** 6 - 9 PM
 
 
 We announce future meetups via our [Twitter](http://twitter.com/openhacktoledo) account. Follow that if you wish.
