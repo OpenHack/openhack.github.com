@@ -10,22 +10,12 @@ title: OpenHack - Antwerp, Belgium
 
 ### Info
 
-You can hack on anything! Any language, framework, public/open-source, personal, etc.
-Skill level doesn’t matter. We don’t care if you’re working on _Hello World_ or on increasing your _wizarding level_.
-You don’t have to have an idea to hack on! You’re more than welcome to come just to pair with someone.
+You can work on anything. Whatever language, framework, public/open-source, personal, etc. We don’t care if you’re working on _Hello World_, increasing your _wizarding level_.
+You don’t need to have an idea to hack on! You’re more than welcome to come just to pair with someone.
 
-
-There are 2 venues that each host a meetup every month, from 6pm to 11pm.  
-Drinks are provided by the venues.
-
-#### [iChoosr](http://www.ichoosr.be){:target="_blank"}  
-   _When_: 1st Tuesday of the month   
-   _Where_: Bourlastraat 3 "Kantoren", 2000 Antwerpen   
-   _Food_: we're mostly ordering [pizzas from here](http://www.lalanterna.be/){:target="_blank"} or you can bring your own, there is also very decent pitta in our building. 
-
-#### [10to1](http://10to1.be){:target="_blank"}
+#### [10to1](http://10to1.be){:target="_blank"} Hospitaalplein 11, 2018 Antwerpen
    _When_: 3rd Thursday of the month   
-   _Where_: Hospitaalplein 11, 2018 Antwerpen   
+   _Drinks_: provided by 10to1   
    _Food_: we're mostly ordering [pizzas from here](http://www.just-eat.be/restaurants-pizza-apetito-antwerpen/menu){:target="_blank"} or you can bring your own.
 
 ### Next meetups
