@@ -9,7 +9,7 @@ title: OpenHack - Miami, FL
 
 ### Info
 
-MacBooks and mojitos. OpenHack Miami meets in [The LAB Miami](http://thelabmiami.com/) on most Mondays at 7:00pm.
+MacBooks and mojitos. OpenHack Miami meets in [CIC Miami](http://miami.cic.us/) on most Mondays at 7:00pm.
 
 * You can hack on anything! Any language, framework, public/open-source, personal, etc.
 * Skill level doesn't matter. We don't care if you're working on Hello World or on increasing your wizarding level.
