@@ -19,14 +19,16 @@ Follow [@OpenHackMia](http://twitter.com/openhackmia) for announcements.
 
 ### Next meetups
 
-* [July 25, 2016](http://www.meetup.com/miamirb/events/232424826/)
-* [August 1, 2016](http://www.meetup.com/miamirb/events/232764261/)
-* [August 8, 2016](http://www.meetup.com/miamirb/events/232764270/)
-* [August 22, 2016](http://www.meetup.com/miamirb/events/232764278/)
-* [August 29, 2016](http://www.meetup.com/miamirb/events/232764293/)
+* [September 12, 2016](https://www.meetup.com/miamirb/events/234031464/)
+* [September 26, 2016](https://www.meetup.com/miamirb/events/234031472/)
 
 ### Past meetups
 
+* Aug 29, 2016 (4 attendees)
+* Aug 22, 2016 (4 attendees)
+* Aug 08, 2016 (4 attendees)
+* Aug 01, 2016 (2 attendees)
+* Jul 25, 2016 (5 attendees)
 * Jul 11, 2016 (2 attendees)
 * Jun 27, 2016 (1 attendee)
 * Jun 13, 2016 (4 attendees)
