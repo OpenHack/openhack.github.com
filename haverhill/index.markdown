@@ -15,22 +15,25 @@ Bring your laptop, charger, and anything else you may want to work on.
 
 Pizza, beer, and coffee are often provided to fuel the creativity.
 
+
 ### Schedule
 
-* 6:15PM - Welcome & Introductions
-* 6:30PM - Organize & Start hacking
-* 9:00PM - (Optional) Share what you hacked on!
+* 6:00PM - Welcome & Introductions
+* 6:15PM - Organize & Start hacking
+* 8:30PM - (Optional) Share what you hacked on!
 
 ### Upcoming meetups
 
-* [August 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvlbvb/)
-* [September 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvmbbc/)
 * [October 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvnbxb/)
 * [November 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvpbtb/)
+* [January 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywcbwb/)
+* [February 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywdbcc/)
 
 
 ### Past meetups
 
+* [September 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvmbbc/)
+* [August 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvlbvb/)
 * [July 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvkbzb/)
 * [June 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvjbcc/)
 * [May 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvhbwb/)
