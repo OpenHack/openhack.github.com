@@ -32,6 +32,8 @@ The DC OpenHack is held at [Cvent HQ](http://www.cvent.com) the second Monday of
 
 In the past, people have worked on projects using NodeJS, Objective-C, Java, C, Lua and AngularJS, and on worked on iPhone and Android devices, Arduino, Tessel.io and Rasberry Pi.
 
+Feel free to join us on our [Gitter channel](https://gitter.im/openhack-dc/Lobby)
+
 ### Timeline
 
 * 5:45 Early birds arrive and setup
