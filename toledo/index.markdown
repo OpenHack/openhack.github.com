@@ -20,30 +20,12 @@ We welcome sponsors to help provide food and beverages. If you are interested pl
 
 ### 2016 meetups
 
-**Tuesday, June 21** 6 - 9 PM
+Please join us for [Tech Toledo's Annual Mixer](https://www.meetup.com/Seed-Coworking/events/235338080/), Thursday, December 8th at the Blarney Center, Downtown Toledo. 
 
-**Monday, July 11** 6 - 9 PM
+### 2017 meetups
 
-**Monday, July 25** 6 - 9 PM
-
-**Monday August 8** 6 - 9 PM
-
-**Monday, September 12** 6 - 9 PM
-
-**Monday, September 26** 6 - 9 PM
-
-**Monday, October 10** 6 - 9 PM
-
-**Monday, October 24** 6 - 9 PM
-
-**Monday, November 7** 6 - 9 PM
-
-**Monday, November 14** 6 - 9 PM
-
-**Monday, November 21** 6 - 9 PM
-
-**Monday, November 28** 6 - 9 PM
-
+Announcements will be added in 2017 for scheduled events and hackathons. 
+Watch for updates on [Meetup](https://www.meetup.com/Seed-Coworking/)!
 
 We announce future meetups via our [Meetup](https://www.meetup.com/Seed-Coworking/) account. Join and stay in touch.
 
