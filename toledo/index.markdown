@@ -17,19 +17,66 @@ title: OpenHack - Toledo, OH
 We welcome sponsors to help provide food and beverages. If you are interested please email us at [shrinkfolio@gmail.com](mailto:shrinkfolio@gmail.com) and [newsted@gmail.com](mailto:newsted@gmail.com).
 
 
-
-### 2016 meetups
-
-Please join us for [Tech Toledo's Annual Mixer](https://www.meetup.com/Seed-Coworking/events/235338080/), Thursday, December 8th at the Blarney Center, Downtown Toledo. 
-
 ### 2017 meetups
 
 Announcements will be added in 2017 for scheduled events and hackathons. 
 Watch for updates on [Meetup](https://www.meetup.com/Seed-Coworking/)!
 
-We announce future meetups via our [Meetup](https://www.meetup.com/Seed-Coworking/) account. Join and stay in touch.
+Below is the 2017 Schedule. 
+
+#### January 
+> Tuesday 10
+> Tuesday 24
+
+#### February 
+> Tuesday 14
+> Tuesday 28
+
+#### March
+> _Scheduled events subject to change since AquaHack (Lake Erie Edition) is scheduled to begin this month._ 
+> Tuesday 14
+> Tuesday 28
+
+#### April 
+> _Walleyes season ends and Mud Hens begins_
+> Tuesday 11
+> Monday 24
+
+#### May
+> Tuesday 9
+> Monday 22
+
+#### June
+> Tuesday 12 
+> TBD _(conflicting local event)_
+
+#### July 
+> Tuesday 11
+> TBD _(conflicting local event)_
+
+#### August
+> Tuesday 15
+> Tuesday 29
+
+#### September
+> _Mud Hens last home game is September 4th!_
+> Tuesday 12
+> Tuesday 26
+
+#### October 
+>  -Walleyes season begins_
+> Tuesday 10
+> Tuesday 24
+
+#### November 
+> Tuesday 14
+> Tuesday 28 
+
+#### December
+> TBD
+> TBD
 
 
 ### Contact Info
 
-Greg Miller and Steve Newsted are the hosts of Toledo Openhack.  You can get in contact with Greg  [shrinkfolio@gmail.com](mailto:shrinkfolio@gmail.com) and Steve [newsted@gmail.com](newsted@gmail.com).  Please email either of us with  suggestions or critiques to improve Openhack Toledo!
+Greg Miller, Stuart Bertsch, Steve Newsted, and Don Miller are the hosts of Toledo Openhack.  You can get in contact with Greg  [shrinkfolio@gmail.com](mailto:shrinkfolio@gmail.com). Please email any team member with suggestions or critiques to improve Openhack Toledo!
