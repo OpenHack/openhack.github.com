@@ -9,32 +9,38 @@ title: OpenHack - Washington, DC
 
 #### When
 
-5:30-9:00pm on the first and third Tuesday of every month
+6:00pm-9:00pm on the second Monday of every month
 
 #### Where
 
-8474 Tyco Rd.<br />
-Suite D, Floor 2<br />
-Vienna, VA 22182 <br />
-<a href="https://maps.google.com/?q=8474+Tyco+Rd.,+Suite+D,+Floor+2,+Vienna,+VA+22182" target="_blank">Google Maps</a><br />
+1765 Greensboro Station Place<br />
+7th Floor<br />
+Tysons Corner, VA 22102<br />
+<a href="https://www.google.com/maps?f=q&hl=en&q=1765+Greensboro+Station+Place+7th+Floor,+Tysons+Corner,+VA+22102" target="_blank">Google Maps</a><br />
 
-We're located above ABC Imaging - look for the large Citrrus sign on the second floor window.
+We're located in the SAIC building next to the Greensboro Metro Station.
+
+*Metro*: take the Silver Line to the Greensboro Station, and come down the east stairs. Come around the front of the SAIC building and enter the front doors.
+
+*Driving*: Park in the lot across from the garage, come in the front door to SAIC building.
 
 ### Info
 
-The DC OpenHack is held at [Citrrus HQ](http://www.citrrus.com) the first and third Tuesday of every month from 5:30pm to 9:00pm. For event times, you should monitor our <a href="http://www.meetup.com/OpenHack-DC" target="_blank">Meetup page</a>.
+The DC OpenHack is held at [Cvent HQ](http://www.cvent.com) the second Monday of every month from 6:00pm to 9:00pm. For event times, you should monitor our <a href="http://www.meetup.com/OpenHack-DC" target="_blank">Meetup page</a>.
 
 <a href="http://twitter.com/intent/user?screen_name=OpenHackDC" target="_blank">Follow @OpenHackDC</a> for the latest news and updates
 
 In the past, people have worked on projects using NodeJS, Objective-C, Java, C, Lua and AngularJS, and on worked on iPhone and Android devices, Arduino, Tessel.io and Rasberry Pi.
 
+Feel free to join us on our [Gitter channel](https://gitter.im/openhack-dc/Lobby)
+
 ### Timeline
 
-* 5:30 Arrive and setup
+* 5:45 Early birds arrive and setup
 * 6:00 Dinner arrives
-* 6:30 Introductions - who are you and what are you doing?
-* 8:50 Begin to pack up
-* 9:00 Depart
+* 6:15 Introductions - who are you and what are you doing?
+* 7:50 Begin to pack up
+* 8:00 Depart
 
 ### Structure
 
@@ -46,7 +52,7 @@ In the past, people have worked on projects using NodeJS, Objective-C, Java, C, 
 
 ### Sponsor
 
-[Citrrus](http://www.citrrus.com) is excited to support the local development community and provide a space for developers to work together to build cool stuff. [Citrrus](http://www.citrrus.com) is a mobile application development company based in the DC area, so you can expect iOS and Android expertise, as well as knowledge about Amazon AWS, Bluetooth LE, Parse, C#, Heroku, Ruby, Rails, and NodeJS.
+[Cvent](http://www.cvent.com) is excited to support the local development community and provide a space for developers to work together to build cool stuff. [Cvent](http://www.cvent.com) is a meeting software company operating in true polyglot fashion.
 
 ### Provisions
 
@@ -55,17 +61,9 @@ In the past, people have worked on projects using NodeJS, Objective-C, Java, C, 
 1. Pizza
 1. Beer
 1. Soda
+1. Wi-fi Internet
+1. TVs and projection equipment
 
 ### Next meetups
 
-* [Sixth Meetup](http://www.meetup.com/OpenHack-DC/events/dldqgjysjbnb/)
-* [Fifth Meetup](http://www.meetup.com/OpenHack-DC/events/dldqgjyshbkc/)
-* [Fourth Meetup](http://www.meetup.com/OpenHack-DC/events/177568652/)
-* [Third Meetup](http://www.meetup.com/OpenHack-DC/events/175875712/)
-* [Second Meetup](http://www.meetup.com/OpenHack-DC/events/172355382/)
-* [First Meetup](http://www.meetup.com/OpenHack-DC/events/169121832/)
-
-### Past meetups
-
-#### March 19th, 2014
-![Picture of OpenHack DC Group at our First Meetup](/washington/images/2014-03-19.jpeg "March 19th, 2014")
+ * [Monday, September 12, 2016](https://www.meetup.com/OpenHack-DC/events/233059853/)

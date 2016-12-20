@@ -12,10 +12,8 @@ permission.
 
 ### Info
 
-We're planning on meeting at [iHub](http://nucleusky.com/ihub) (204 South Floyd
-Street, Louisville, KY 40202) on the first Tuesday of each month. Weekend
-meetings may be planned as attendance dictates.
-[Register at Eventbrite!](http://openhack_lvl.eventbrite.com)
+We're planning on meeting at [WarpZoneLouisville](http://louisvillemakesgames.org/warpzone/) (612 W Washington St,
+Louisville, KY 40202) on the first Tuesday of each month.
 
 Follow [@OpenHackLVL](http://twitter.com/OpenHackLVL) for announcements.
 
@@ -26,21 +24,19 @@ speak, bounce ideas off others, and "break the ice" for anyone who hasn't met
 before.  We are loosely adopting a structure that has worked well for other
 OpenHack meetups.
 
-- 6:00 - Meet at iHub
-- 6:15 - Standup Introductions - Please share who you are, and what you do.
-- 6:30 - Hack!
-- 8:30 - Wrap-Up
-- 9:00 - Doors close (or do they?)
+- 6:00 - Meet and Greet, Introductions - Please share who you are, and what you do.
+- 6:15 - Hack!
+- 9:00 - Wrap-up and doors close (or do they?)
 
-We'll begin with introductions at 6:15. Just say who you are, what you do and
+We'll begin with introductions around 6. Just say who you are, what you do and
 where you do it (if you want to), what languages/frameworks you work with, and
 anything else you want to share. This is just to let everybody get to know each
 other and see who does what so others can help/pair with them, or ask for help
 if you know something they don't.
 
 Next is the hack session. This is what OpenHack is all about - slingin' code.
-That's 2 hours. You can pair up with somebody or work totally alone - it's
-totally up to you. We encourage you to pair just for the fun of it, but
+That's 2 and a half hours. You can pair up with somebody or work totally alone -
+it's totally up to you. We encourage you to pair just for the fun of it, but
 nobody's going to even -remotely- have a problem if you don't.
 
 You can hack on anything you want. Open source, closed source. Work. Play.  Any

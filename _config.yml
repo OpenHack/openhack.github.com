@@ -11,10 +11,6 @@ cities:
     name: Alma & Saguenay, QC
     latitude: 48.55
     longitude: -71.65
-- antwerp:
-    name: Antwerp, Belgium
-    latitude: 51.2194475
-    longitude: 4.4024643
 - atlanta:
     name: Atlanta, GA
     latitude: 33.7489954
@@ -135,6 +131,10 @@ cities:
     name: Green Bay, WI
     latitude: 44.51915899999999
     longitude: -88.019826
+- haverhill:
+    name: Haverhill, MA
+    latitude: 42.7754552
+    longitude: -71.085962
 - honolulu:
     name: Honolulu, HI
     latitude: 21.3069444
@@ -247,6 +247,10 @@ cities:
     name: Pittsburgh, PA
     latitude: 40.44062479999999
     longitude: -79.9958864
+- portland:
+    name: Portland, OR
+    latitude: 45.5230622
+    longitude: -122.6764816
 - porto_alegre:
     name: Porto Alegre, Brazil
     latitude: -30.0277041
