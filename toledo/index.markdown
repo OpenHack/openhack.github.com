@@ -9,13 +9,11 @@ title: OpenHack - Toledo, OH
 
 ### Info
 
-[Seed Coworking](http://seedcowork.com) is hosting OpenHack for the Toledo area. Meetups are held twice each month from 6pm - 9pm. All skill levels welcomed. Come to learn, teach, work, or play. In November 2016 we're holding OpenHacks every Monday. 
-
+[Seed Coworking](http://seedcowork.com) is hosting OpenHack for the Toledo area. Meetups are held twice each month from 6pm - 9pm. All skill levels welcomed. Come to learn, teach, work, or play. We will offer more events if our members request them. 
 
 ### Sponsors
 
 We welcome sponsors to help provide food and beverages. If you are interested please email us at [shrinkfolio@gmail.com](mailto:shrinkfolio@gmail.com) and [newsted@gmail.com](mailto:newsted@gmail.com).
-
 
 ### 2017 meetups
 
@@ -79,4 +77,11 @@ Below is the 2017 Schedule.
 
 ### Contact Info
 
-Greg Miller, Stuart Bertsch, Steve Newsted, and Don Miller are the hosts of Toledo Openhack.  You can get in contact with Greg  [shrinkfolio@gmail.com](mailto:shrinkfolio@gmail.com). Please email any team member with suggestions or critiques to improve Openhack Toledo!
+
+We are the hosts of Toledo Openhack. :) 
+* [Greg](mailto:shrinkfolio@gmail.com)
+* [Steve](mailto:newsted@gmail.com)
+* [Stuart](mailto:stuartbertsch@gmail.com)
+* [Don](mailto:don@groundspeedhq.com)
+
+Please email any team member with suggestions or critiques to improve Openhack Toledo!
