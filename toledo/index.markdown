@@ -9,27 +9,80 @@ title: OpenHack - Toledo, OH
 
 ### Info
 
-[Seed Coworking](http://seedcowork.com) is hosting OpenHack for the Toledo area. Meetups are held the 1st and 3rd Wednesday of each month from 7pm - 10pm. All skill levels welcomed. Come to learn, teach, work, or play.
+[Seed Coworking](http://seedcowork.com) is hosting OpenHack for the Toledo area. Meetups are held twice each month from 6pm - 9pm. All skill levels welcomed. Come to learn, teach, work, or play. In November 2016 we're holding OpenHacks every Monday. 
 
 
 ### Sponsors
 
-We are currently looking for sponsors to help provide food and beverages. If you are interested in sponsoring OpenHack please email us at [aklynch11us@gmail.com](mailto:aklynch11us@gmail.com).
-
-LRITA.org sponsored our meetup on October 2nd and plan on sponsoring Openhack Toledo again on November 6th!
-
-### Next meetups
-
-**Wednesday**
-
-**Wednesday**
-
-**Wednesday** 
+We welcome sponsors to help provide food and beverages. If you are interested please email us at [shrinkfolio@gmail.com](mailto:shrinkfolio@gmail.com) and [newsted@gmail.com](mailto:newsted@gmail.com).
 
 
-We announce future meetups via our [Twitter](http://twitter.com/openhacktoledo) account. Follow that if you wish.
+### 2017 meetups
+
+Announcements will be added in 2017 for scheduled events and hackathons. 
+Watch for updates on [Meetup](https://www.meetup.com/Seed-Coworking/)!
+
+Below is the 2017 Schedule. 
+
+#### January 
+* Tuesday 10
+* Tuesday 24
+
+#### February 
+* Tuesday 14
+* Tuesday 28
+
+#### March
+* _Scheduled events subject to change since AquaHack (Lake Erie Edition) is scheduled to begin this month._ 
+* Tuesday 14
+* Tuesday 28
+
+#### April 
+* _Walleyes season ends and Mud Hens begins_
+* Tuesday 11
+* Monday 24
+
+#### May
+* Tuesday 9
+* Monday 22
+
+#### June
+* Tuesday 12 
+* TBD _(conflicting local event)_
+
+#### July 
+* Tuesday 11
+* TBD _(conflicting local event)_
+
+#### August
+* Tuesday 15
+* Tuesday 29
+
+#### September
+* _Mud Hens last home game is September 4th!_
+* Tuesday 12
+* Tuesday 26
+
+#### October 
+*  _Walleyes season begins_
+* Tuesday 10
+* Tuesday 24
+
+#### November 
+* Tuesday 14
+* Tuesday 28 
+
+#### December
+* TBD
+* TBD
 
 
 ### Contact Info
 
-Andrew "Sticky" Lynch is the host of Toledo Openhack.  You can get in contact with him at [aklynch11us@gmail.com](mailto:aklynch11us@gmail.com).  Please email me with any suggestions or critiques to improve Openhack Toledo!
+We are the hosts of Toledo Openhack. :) 
+* [Greg](mailto:shrinkfolio@gmail.com)
+* [Steve](mailto:newsted@gmail.com)
+* [Stuart](mailto:stuartbertsch@gmail.com)
+* [Don](mailto:don@groundspeedhq.com)
+
+Please email any team member with suggestions or critiques to improve Openhack Toledo!
