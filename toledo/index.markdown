@@ -20,57 +20,67 @@ We welcome sponsors to help provide food and beverages. If you are interested pl
 Announcements will be added in 2017 for scheduled events and hackathons. 
 Watch for updates on [Meetup](https://www.meetup.com/Seed-Coworking/)!
 
-Below is the 2017 Schedule. 
-
 #### January 
+
 > Tuesday 10
 > Tuesday 24
 
 #### February 
+
 > Tuesday 14
 > Tuesday 28
 
 #### March
+
 > _Scheduled events subject to change since AquaHack (Lake Erie Edition) is scheduled to begin this month._ 
 > Tuesday 14
 > Tuesday 28
 
 #### April 
+
 > _Walleyes season ends and Mud Hens begins_
 > Tuesday 11
 > Monday 24
 
 #### May
+
 > Tuesday 9
 > Monday 22
 
 #### June
+
 > Tuesday 12 
 > TBD _(conflicting local event)_
 
 #### July 
+
 > Tuesday 11
 > TBD _(conflicting local event)_
 
 #### August
+
 > Tuesday 15
 > Tuesday 29
 
 #### September
+
 > _Mud Hens last home game is September 4th!_
 > Tuesday 12
 > Tuesday 26
 
-#### October 
->  -Walleyes season begins_
+#### October
+
+>  _Walleyes season begins_
 > Tuesday 10
 > Tuesday 24
 
-#### November 
+#### November
+
 > Tuesday 14
 > Tuesday 28 
 
 #### December
+
 > TBD
 > TBD
 
@@ -79,6 +89,7 @@ Below is the 2017 Schedule.
 
 
 We are the hosts of Toledo Openhack. :) 
+
 * [Greg](mailto:shrinkfolio@gmail.com)
 * [Steve](mailto:newsted@gmail.com)
 * [Stuart](mailto:stuartbertsch@gmail.com)
