@@ -31,10 +31,6 @@ cities:
     name: Beijing, China
     latitude: 39.90403
     longitude: 116.407526
-- bellingham:
-    name: Bellingham, WA
-    longitude: -122.5100717
-    latitude: 48.7618795
 - bend:
     name: Bend, OR
     latitude: 44.053125
