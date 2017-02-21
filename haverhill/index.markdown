@@ -24,14 +24,17 @@ Pizza, beer, and coffee are often provided to fuel the creativity.
 
 ### Upcoming meetups
 
-* [October 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvnbxb/)
-* [November 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvpbtb/)
-* [January 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywcbwb/)
-* [February 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywdbcc/)
-
+* [March 2017](https://www.meetup.com/HaverhillHackers/events/237112044/)
+* [April 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywgbxb/)
+* [May 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywhbvb/)
+* [June 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywjbbc/)
 
 ### Past meetups
 
+* [February 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywdbcc/)
+* [January 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywcbwb/)
+* [November 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvpbtb/)
+* [October 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvnbxb/)
 * [September 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvmbbc/)
 * [August 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvlbvb/)
 * [July 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvkbzb/)
@@ -43,3 +46,4 @@ Pizza, beer, and coffee are often provided to fuel the creativity.
 
 
 [meetup]: http://www.meetup.com/HaverhillHackers
+
