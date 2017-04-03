@@ -19,6 +19,6 @@ Follow [@OpenHackMia](http://twitter.com/openhackmia) for announcements.
 
 ### Next meetups
 
-* [February 6, 2017](https://www.meetup.com/miamirb/events/237477568/)
-* [February 13, 2017](https://www.meetup.com/miamirb/events/237477582/)
-* [February 27, 2017](https://www.meetup.com/miamirb/events/237477596/)
+* [April 3, 2017](https://www.meetup.com/miamirb/events/238917035/)
+* [April 10, 2017](https://www.meetup.com/miamirb/events/238917046/)
+* [April 24, 2017](https://www.meetup.com/miamirb/events/238917049/)
