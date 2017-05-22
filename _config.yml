@@ -155,10 +155,6 @@ cities:
     name: Izmir, Turkey
     latitude: 38.418881
     longitude: 27.128671
-- jersey_city:
-    name: Jersey City, NJ
-    latitude: 40.72815749999999
-    longitude: -74.0776417
 - kharkov:
     name: Kharkov, Ukraine
     latitude: 49.9935
