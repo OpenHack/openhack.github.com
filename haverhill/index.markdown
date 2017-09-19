@@ -7,8 +7,8 @@ title: OpenHack - Haverhill, MA
 
 ### Info
 
-Haverhill OpenHack is hosted at the Haverhill Hackspace located downtown at 143
-Essex Street on the sixth floor in Suite 600. It is one of two monthly
+Haverhill OpenHack is hosted at the Creatorpult located downtown at 143
+Essex Street on the second floor in Suite 211. It is one of two monthly
 [Haverhill Hackers][meetup] meetups.
 
 Bring your laptop, charger, and anything else you may want to work on.
@@ -24,13 +24,17 @@ Pizza, beer, and coffee are often provided to fuel the creativity.
 
 ### Upcoming meetups
 
-* [March 2017](https://www.meetup.com/HaverhillHackers/events/237112044/)
-* [April 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywgbxb/)
-* [May 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywhbvb/)
-* [June 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywjbbc/)
+* [October 2017](https://www.meetup.com/preview/HaverhillHackers/events/nfmnpnywnbwb)
+* [November 2017](https://www.meetup.com/preview/HaverhillHackers/events/nfmnpnywpbcc)
+* [December 2017](https://www.meetup.com/preview/HaverhillHackers/events/nfmnpnywqbzb)
 
 ### Past meetups
 
+* [September 2017](https://www.meetup.com/preview/HaverhillHackers/events/nfmnpnywmbzb)
+* [June 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywjbbc/)
+* [May 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywhbvb/)
+* [April 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywgbxb/)
+* [March 2017](https://www.meetup.com/HaverhillHackers/events/237112044/)
 * [February 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywdbcc/)
 * [January 2017](https://www.meetup.com/HaverhillHackers/events/jbpczlywcbwb/)
 * [November 2016](http://www.meetup.com/HaverhillHackers/events/fvqzrlyvpbtb/)
@@ -46,4 +50,5 @@ Pizza, beer, and coffee are often provided to fuel the creativity.
 
 
 [meetup]: http://www.meetup.com/HaverhillHackers
+
 
