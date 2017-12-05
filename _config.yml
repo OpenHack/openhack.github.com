@@ -259,6 +259,10 @@ cities:
     name: Rochester, NY
     latitude: 43.1621834
     longitude: -77.620859
+- rotterdam:
+    name: Rotterdam, Nederland
+    latitude: 51.9278891
+    longitude: 4.3503239
 - salem:
     name: Salem, MA
     latitude: 42.5214548
