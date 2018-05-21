@@ -12,7 +12,7 @@ permission.
 
 ### Info
 
-OpenHack Louisville meets on the first Tuesdy of every month at the [Starbucks on North Hurstbourne Ave](101 N Hurstbourne Pkwy, Louisville, KY 40222) at 6pm. Please buy a drink or a snack if you are able. 
+OpenHack Louisville meets on the first Tuesdy of every month at the [Starbucks on North Hurstbourne Pkwy](https://www.google.com/maps/place/Starbucks/@38.2467412,-85.5787859,17z/data=!3m1!4b1!4m5!3m4!1s0x88699f917fbf427f:0x4baa12a826b856bb!8m2!3d38.246737!4d-85.5765919) at 6pm. Please buy a drink or a snack if you are able. 
 
 Follow [@OpenHackLVL](http://twitter.com/OpenHackLVL) for announcements.
 
