@@ -12,8 +12,7 @@ permission.
 
 ### Info
 
-We're planning on meeting at [WarpZoneLouisville](http://louisvillemakesgames.org/warpzone/) (612 W Washington St,
-Louisville, KY 40202) on the first Tuesday of each month.
+OpenHack Louisville meets on the first Tuesdy of every month at the [Starbucks on North Hurstbourne Ave](101 N Hurstbourne Pkwy, Louisville, KY 40222) at 6pm. Please buy a drink or a snack if you are able. 
 
 Follow [@OpenHackLVL](http://twitter.com/OpenHackLVL) for announcements.
 
@@ -24,9 +23,9 @@ speak, bounce ideas off others, and "break the ice" for anyone who hasn't met
 before.  We are loosely adopting a structure that has worked well for other
 OpenHack meetups.
 
-- 6:00 - Meet and Greet, Introductions - Please share who you are, and what you do.
-- 6:15 - Hack!
-- 9:00 - Wrap-up and doors close (or do they?)
+- 6:00 - Meet and Greet, Please share who you are, and what interests you.
+- 6:15 - Hack.
+- 9:00 - Wrap-up.
 
 We'll begin with introductions around 6. Just say who you are, what you do and
 where you do it (if you want to), what languages/frameworks you work with, and
@@ -64,16 +63,15 @@ knowledge" to solve a problem.
 
 ### We want feedback
 
-OpenHack is about the hacker/developer community. This group exists to give you
-a repeated/predictable opportunity to get out and among your peers, hack on a
+OpenHack is about the developer community. This group exists to give you a
+repeated and predictable opportunity to get out and among your peers, hack on a
 project, develop connections with people, and have fun while being productive.
-So if you have ideas on how we can further that goal, or have ideas on our
-proposed format, please tweet the organizers
-[@mr_ndrsn](https://twitter.com/mr_ndrsn),
-[@supermighty](https://twitter.com/supermighty),
-[@ericlathrop](https://twitter.com/ericlathrop) or
-[@OpenHackLVL](https://twitter.com/OpenHackLVL).
+We would love to hear your ideas on how together we can further that goal,
+please tweet the organizers
+
+- [@UkiahSmith](https://twitter.com/UkiahSmith),
+- [@OpenHackLVL](https://twitter.com/OpenHackLVL).
 
 ### Past meetups
-We've been meeting every month since 12/2012!  Attendance averages around 10-12
-people with a couple outliers at 4 and 22.
+We've been meeting every month since December 2012, with a short hiatus in 2017.  Attendance averages around 10-12
+people with a couple outliers at 4 and 22. 
