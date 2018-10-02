@@ -36,11 +36,10 @@ Feel free to join us on our [Gitter channel](https://gitter.im/openhack-dc/Lobby
 
 ### Timeline
 
-* 5:45 Early birds arrive and setup
-* 6:00 Dinner arrives
-* 6:15 Introductions - who are you and what are you doing?
-* 7:50 Begin to pack up
-* 8:00 Depart
+* 6:00PM Early birds arrive and setup
+* 6:15PM Introductions - who are you and what are you doing?
+* 7:50PM Begin to pack up
+* 8:00PM Depart
 
 ### Structure
 
@@ -50,6 +49,12 @@ Feel free to join us on our [Gitter channel](https://gitter.im/openhack-dc/Lobby
 
   If it's something that can't/shouldn't be publicized, please let us know so we don't post it!
 
+### Code of Conduct
+
+While we do not have our own code of conduct document, we do adhere to the
+[Code of Conduct for the Recurse Center in New York](https://www.recurse.com/code-of-conduct).
+They have put theirs together from !!Con and PyCon2013, so they're pretty common.
+
 ### Sponsor
 
 [Cvent](http://www.cvent.com) is excited to support the local development community and provide a space for developers to work together to build cool stuff. [Cvent](http://www.cvent.com) is a meeting software company operating in true polyglot fashion.
@@ -58,7 +63,7 @@ Feel free to join us on our [Gitter channel](https://gitter.im/openhack-dc/Lobby
 
 1. Tables & Chairs
 1. Surge Protectors
-1. Pizza
+1. Snacks of some sort
 1. Beer
 1. Soda
 1. Wi-fi Internet
