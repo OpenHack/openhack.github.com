@@ -24,6 +24,8 @@ We're located in the SAIC building next to the Greensboro Metro Station.
 
 *Driving*: Park in the lot across from the garage, come in the front door to SAIC building.
 
+*NOTE*: This building is often locked after 6:00PM. We do our best to request that the building allow visitors, but sometimes that doesn't work out. Please message _using the Meetup App_ or call 703.226.3500 ext 42549 letting us know you're downstairs, and we'll let you in.
+
 ### Info
 
 The DC OpenHack is held at [Cvent HQ](http://www.cvent.com) the second Monday of every month from 6:00pm to 9:00pm. For event times, you should monitor our <a href="http://www.meetup.com/OpenHack-DC" target="_blank">Meetup page</a>.
