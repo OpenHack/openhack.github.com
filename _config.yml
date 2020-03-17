@@ -1,7 +1,5 @@
 ---
-server: true
 markdown: kramdown
-auto: true
 cities:
 - albuquerque:
     name: Albuquerque, NM
