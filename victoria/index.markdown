@@ -7,20 +7,16 @@ title: OpenHack - Victoria, BC
 
 ![Peacock Billiards, Victoria BC](/victoria/victoria.jpg)
 
-### Info
+### Location
 
-We meet every Tuesday night from 6-9pm at [Peacock Billiards](http://www.peacockbilliards.com/) at [1175 Douglas St](https://maps.google.ca/maps?client=ubuntu&channel=fs&oe=utf-8&q=1280+Broad+St&ie=UTF8&hq=&hnear=1280+Broad+St,+Victoria,+British+Columbia+V8W+2A4&gl=ca&t=m&z=16&vpsrc=://maps.google.ca/maps?ie=UTF-8&q=peacocks+victoria&fb=1&gl=ca&hq=peacocks+victoria&cid=0,0,8681642815041155577&ei=V6XuUamgC4ybigKlxICwBQ&ved=0CDUQrwswAA)
+We normally meet every Tuesday night from 6-9pm at [Peacock Billiards](http://www.peacockbilliards.com/) at [1175 Douglas St](https://maps.google.ca/maps?client=ubuntu&channel=fs&oe=utf-8&q=1280+Broad+St&ie=UTF8&hq=&hnear=1280+Broad+St,+Victoria,+British+Columbia+V8W+2A4&gl=ca&t=m&z=16&vpsrc=://maps.google.ca/maps?ie=UTF-8&q=peacocks+victoria&fb=1&gl=ca&hq=peacocks+victoria&cid=0,0,8681642815041155577&ei=V6XuUamgC4ybigKlxICwBQ&ved=0CDUQrwswAA) however due to the current pandemic Peacock Billiards is closed, so we're asking people to instead join the `#openhack` channel on they [YYJ Tech Slack](https://yyj-tech.ca/) and hack from home. We'll do introductions as usual at 6:15pm in that channel. We hope to be back at Peacock Billiards as soon as things are back to normal.
 
-Everyone is welcome to join and you can hack on anything!
+### Format
 
-Come out. Hang. Sling code. It'll be fun. :)
+We do introductions at 6:15pm. Just say who you are, what you do and where you do it (if you want to), what languages/frameworks you work with, and anything else you want to share. This is so that people can find who to pair with, who ask for help with specific technologies, and who might be interested in specific topics of discussion.
 
-We’ll begin with introductions at 6:15. Just say who you are, what you do and where you do it (if you want to), what languages/frameworks you work with, and anything else you want to share. This is just to let everybody get to know each other and see who does what so others can help/pair with them, or ask for help if you know something they don’t.
+After introductions hack on whatever you want! This is what OpenHack is all about. You can pair up with somebody or work alone - it’s totally up to you. Hack on anything: open-source, closed-source, work, play. All experience levels and technologies are welcome. **Just don't forget to bring a computer!**
 
-Next is the hack session, this is what OpenHack is all about. You can pair up with somebody or work alone - it’s totally up to you. You can hack on anything you want. Open source, closed source. Work. Play. Any skill level on any project, it’s all good as long as you’re here to sling code.
+Join our [Meetup group](http://www.meetup.com/OpenHack-Victoria) for updates.
 
-NOTE: BRING A COMPUTER!
-
-RSVP on the [meetup group](http://www.meetup.com/OpenHack-Victoria) to stay in touch with updates
-
-Sponsored by [Stembolt](https://stembolt.com/)
+Sponsored by [Super Good](https://supergood.software/)
