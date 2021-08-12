@@ -5,27 +5,26 @@ title: OpenHack - Eindhoven, Netherlands
 
 ## Eindhoven, Netherlands
 
-![Photo of our hackers!](http://wiki.madspace.nl/lib/exe/fetch.php?media=p1010110_small.jpg)
-
-We are a team of friendly hackers in Eindhoven that regularly code together and love the open hack concept! 
-
-**Please join us!** We hack on open source and cool new technology. For more info see [http://www.MADspace.nl]( http://www.MADspace.nl )
-
-We love to hack with the newest tools like [bootstrap](http://getbootstrap.com/), [docker](https://www.docker.io/) and [arquillian](http://arquillian.org/)
-
-### Info
-
-**Address:** Don Boscostraat 4, 5611 KW Eindhoven ( Near the station )
+We organize an OpenHack each first Saturday of each month. From 13:00 until 15:00.
 
 **Mail:**  [asc.eindhoven@gmail.com]( asc.eindhoven@gmail.com )
 
-### Next meetups
-**the 4th of January 2014 - [see our agenda](http://www.meetup.com)**
+![Photo of our hackers!](https://i1.wp.com/beningo-embedded-group.s3.amazonaws.com/2017/06/software-quality.png?fit=421%2C464&ssl=1)
 
-We will organize an OpenHack each first Saturday of the month. 
+## Our focus
 
-From 12:00 until 18:00 (food and drinks included)
+We are a group of friendly hackers in Eindhoven that regularly code together and love the open hack concept! 
 
-### Past meetups
+Our focus is software craftsmanship. Together we research and share concepts. We love to hack with the newest Open Source!
 
-[see our agenda](http://www.meetup.com/)
+## Example resoures 
+- [victor rentea](https://www.youtube.com/results?search_query=victor+rentea&sp=CAI%253D)
+- [code reviewing](https://www.youtube.com/watch?v=62rNT-bo1G0) 
+- [software craftsmanship](https://www.youtube.com/watch?v=PzXm7Qumt48) 
+- [architecture](https://www.youtube.com/watch?v=KOqIUNUq2Gg) 
+- [clean code](https://www.youtube.com/watch?v=V92qGJDGR8Q)
+
+
+
+
+
