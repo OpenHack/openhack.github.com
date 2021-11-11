@@ -9,12 +9,11 @@ title: OpenHack - Porto Alegre, Brazil
 
 ### Info
 
-Open Hack meetings at Porto Alegre.
+Open Hack meetings at Porto Alegre and all over Rio Grande do Sul state.
 
 A place to hack, meet friends, make new friends.
 
 A place to learn and to share knowledge.
-
 
 
 Desired outputs: People hacking together, FUN.
@@ -25,36 +24,33 @@ Your skill level is irrelevant, your mindset to learn and share is.
 
 ### How to keep yourself updated
 
-* [@openhackpoa](http://twitter.com/openhackpoa)
+* [Meetup OpenHackRS](https://www.meetup.com/OpenHackRS/)
 
 ### Where
 
-Hack nights will be held at Nós Coworking at shopping Total, Porto Alegre, RS, Brazil.
-
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=pt-BR&amp;geocode=&amp;q=Av.+Crist%C3%B3v%C3%A3o+Colombo,+545,+Floresta,+Porto+Alegre+-+RS+90560-000,+Brazil&amp;aq=0&amp;oq=Av.+Crist%C3%B3v%C3%A3o+Colombo,+545+-+Floresta%E2%80%8E+Porto+Alegre+-+RS,+90560-000,+Brazil&amp;sll=37.0625,-95.677068&amp;sspn=42.03917,79.013672&amp;ie=UTF8&amp;hq=&amp;hnear=Av.+Crist%C3%B3v%C3%A3o+Colombo,+545+-+Floresta,+Porto+Alegre+-+Rio+Grande+do+Sul,+90560-000,+Rep%C3%BAblica+Federativa+do+Brasil&amp;ll=-30.025363,-51.212325&amp;spn=0.011258,0.01929&amp;t=m&amp;z=14&amp;output=embed">
-</iframe>
-<br/>
-<br/>
-
+Each organizer can define a venue. It can be a company, an university or maybe a coffee shop? The organizer can define.  
 
 
 ### How it works
 
-You participate for free. We still looking for sponsor to provide food & drink.
+You participate for free. We may have sponsors to provide food & drink.
 
-To prevent a "DDOS" at the venue we ask people to R.S.V.P through [nos.vc](http://nos.vc/openhackpoa)
+Every event have it's own R.S.V.P through our [meetup.com](https://www.meetup.com/OpenHackRS/)
 
 The Process:
 
-You arrive, say hi, check the projects board.
+You arrive, say hi, check the projects board or the challenge of the day.
 * If there is a project that please you, move yourself to the group
 * if not, you can put your idea at the board and make a 5 min talk about it
 
-Also we will have a board for role needs in projects.
-
 Any question, you can check with the host team during the event.
 
-### Team
+### Current Team
+
+Daniel Wildt [@dwildt](http://twitter.com/dwildt)
+
+### Alumni Team
+
 
 Antonio Mello [@homeless_coder](http://twitter.com/homeless_coder)
 
@@ -70,8 +66,9 @@ Rafael Barboza [@rbarboza](http://twitter.com/rbarboza)
 
 ### Next meetups
 
-* [First meetup](http://nos.vc/openhackpoa): 03/06/2013 at Nós Coworking
+* Check our [meetup.com profile](https://www.meetup.com/OpenHackRS/)
 
 ### Questions
 
-<openhackpoa@gmail.com>
+* Send a question @ [meetup.com/OpenHackRS](https://www.meetup.com/OpenHackRS/)
+
